@@ -1,0 +1,36 @@
+<div class="details">
+  {{#Spoken}}
+  <div class="row">
+    <div class="label">Heard as</div>
+    <div class="val spoken">{{Spoken}}</div>
+  </div>
+  {{/Spoken}}
+  {{#Literal}}
+  <div class="row">
+    <div class="label">Word for word</div>
+    <div class="val literal">{{Literal}}</div>
+  </div>
+  {{/Literal}}
+  {{#Pattern}}
+  <div class="frame">
+    <div class="label">Reusable frame</div>
+    <div class="pattern" data-pattern="{{Pattern}}">{{Pattern}}</div>
+    {{#Swaps}}<div class="swaps" data-swaps="{{Swaps}}">{{Swaps}}</div>{{/Swaps}}
+  </div>
+  {{/Pattern}}
+  {{#Notes}}
+  <div class="notes">{{Notes}}</div>
+  {{/Notes}}
+</div>
+<script>
+(function () {
+  // Turn "[slot]" into highlighted slots and "a · b · c" into chips.
+  document.querySelectorAll('.pattern[data-pattern]').forEach(function (el) {
+    el.innerHTML = el.textContent.replace(/\[([^\]]+)\]/g, '<span class="slot">$1</span>');
+  });
+  document.querySelectorAll('.swaps[data-swaps]').forEach(function (el) {
+    var parts = el.textContent.split('·').map(function (s) { return s.trim(); }).filter(Boolean);
+    el.innerHTML = parts.map(function (p) { return '<span class="chip">' + p + '</span>'; }).join('');
+  });
+})();
+</script>

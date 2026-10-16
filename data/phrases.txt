@@ -1,0 +1,540 @@
+# Expressions françaises: the phrase set
+#
+# Format
+#   @ tier | theme-id | Theme title           starts a section
+#   French | English | Literal | Spoken | Register | Notes | Pattern | Swaps
+#
+# Trailing fields may be left out. Register codes:
+#   N = neutral (safe anywhere)   F = formal   Fam = casual   A = slang
+# Pattern + Swaps turn a phrase into a reusable frame:
+#   Pattern "Je voudrais + [nom / infinitif]"  Swaps "un café · réserver une table"
+#
+# Order matters: cards are introduced in file order, most useful first.
+
+# ═══════════════════════════════════════════════════════════════════
+# TIER 1: THE CORE. With these you can hold a real conversation.
+# ═══════════════════════════════════════════════════════════════════
+
+@ 1 | salutations | Greetings & goodbyes
+Bonjour. | Hello. / Good morning. | Good day. | | N | The default greeting until about 6 pm. Say it when you walk into any shop, bus, office or waiting room. Skipping it is genuinely rude in France.
+Bonsoir. | Good evening. | | | N | From late afternoon on. Works as hello and, less often, as goodbye.
+Salut ! | Hi! / Bye! | | | Fam | Hello AND goodbye among friends. Not for strangers or shopkeepers.
+Coucou ! | Hey there! | Peekaboo! | | Fam | Warm, playful greeting for friends and family. Everywhere in texts.
+Comment allez-vous ? | How are you? | How go you? | | F | Uses "vous": strangers, older people, work, or more than one person.
+Comment ça va ? | How's it going? | How does it go? | | N | The everyday version. Usually cut down to "Ça va ?" with rising intonation.
+Ça va ? — Ça va, et toi ? | You OK? — Good, and you? | It goes? — It goes, and you? | | Fam | The most common exchange in French. The same two words are the question and the answer; only the intonation changes.
+Ça va bien, merci. | I'm doing well, thanks. | It goes well, thanks. | | N | Other answers: "Très bien" (very well), "Pas mal" (not bad), "Bof" (meh), "Ça va pas trop" (not great).
+Pas mal, et vous ? | Not bad, and you? | | | N | Always bounce the question back: "et vous ?" (formal) or "et toi ?" (casual).
+Enchanté(e). | Nice to meet you. | Enchanted. | | N | Add the -e in writing if you're a woman. It sounds the same.
+Ça fait longtemps ! | Long time no see! | That makes a long time! | | N
+Quoi de neuf ? | What's new? | What of new? | | Fam | Typical answer: "Pas grand-chose." (Not much.)
+Pas grand-chose. | Not much. | Not a big thing. | | N | The standard reply to "Quoi de neuf ?"
+Au revoir. | Goodbye. | Until seeing again. | | N | Safe with anyone.
+Bonne journée ! | Have a nice day! | Good day! | | N | The standard goodbye when you leave a shop or café. You'll say it ten times a day.
+Bonne soirée ! | Have a good evening! | | | N | The evening version of "Bonne journée". Also "Bonne fin de journée" (enjoy the rest of your day).
+Merci, vous aussi ! | Thanks, you too! | Thanks, you also! | | N | The reply to any "Bonne journée / soirée / fin de journée". Casual: "Merci, toi aussi !"
+À plus tard ! | See you later! | To later! | À plus ! / À+ | Fam | "À plus" is pronounced with the final s: "a-plooss". Written "À+" in texts.
+À tout à l'heure ! | See you in a bit! | At all at the hour! | À t'à l'heure ! | N | Only when you'll see them again later the same day.
+À bientôt ! | See you soon! | To soon! | | N | No fixed date.
+À demain ! | See you tomorrow! | To tomorrow! | | N | À + a time means "see you then". | À + [moment] | À lundi · À ce soir · À la semaine prochaine · À samedi
+Bon week-end ! | Have a good weekend! | | | N | Starts being said on Thursday afternoon.
+Bonne nuit. | Good night. | | | N | Only when someone is going to bed. To say goodbye in the evening use "Bonne soirée".
+
+@ 1 | politesse | Politeness & social glue
+S'il vous plaît. | Please. | If it pleases you. | | N | Formal or plural. Also how you call a waiter: "S'il vous plaît !"
+S'il te plaît. | Please. (casual) | If it pleases you. | S'te plaît / stp | Fam | With friends, family and kids.
+Merci beaucoup. | Thank you very much. | Thanks a lot. | | N | Never "merci très beaucoup". Stronger: "Merci mille fois" (thanks a thousand times).
+De rien. | You're welcome. | Of nothing. | | N | The most common reply to "merci".
+Il n'y a pas de quoi. | Don't mention it. | There is nothing of which. | Y'a pas de quoi. | N | In speech "il" and "ne" disappear: "Y'a pas d'quoi."
+Je vous en prie. | You're welcome. / Please, go ahead. | I pray you of it. | | F | Very polite. Also means "after you" or "help yourself". Casual: "Je t'en prie."
+Avec plaisir. | With pleasure. / My pleasure. | | | N | To accept an offer, or as a warm reply to thanks.
+Volontiers. | Gladly. / I'd love to. | Willingly. | | N | An elegant way to accept: "Un café ? — Volontiers !"
+Non merci, ça ira. | No thanks, I'm fine. | No thanks, it will go. | | N | A polite refusal. Careful: "Merci" on its own, said to an offer, often means "no thanks".
+Excusez-moi. | Excuse me. | | | N | To get someone's attention or squeeze past. Casual: "Excuse-moi."
+Pardon. | Sorry. / Pardon me. / Sorry, what? | | | N | When you bump into someone, need to get by, or didn't hear.
+Désolé(e). | Sorry. | | | N | A real apology. Stronger: "Je suis vraiment désolé(e)."
+Je suis vraiment désolé(e). | I'm really sorry. | | Chuis vraiment désolé. | N | "Je suis" squashes into "chuis" in fast speech.
+Ce n'est pas grave. | It's no big deal. / Don't worry about it. | It's not serious. | C'est pas grave. | N | The universal reply to an apology. Spoken French drops "ne" almost always.
+Pas de souci. | No worries. | No worry. | | N | Everywhere. Also "Pas de problème" and "Aucun souci".
+Après vous. | After you. | | | N | Holding a door. Casual: "Après toi."
+Bon appétit ! | Enjoy your meal! | Good appetite! | | N | Said before eating. Reply: "Merci, vous aussi / toi aussi."
+Santé ! | Cheers! | Health! | | N | Also "À la vôtre !" (formal) / "À la tienne !" (casual). Look people in the eye as you clink, or it's seven years of bad luck.
+Félicitations ! | Congratulations! | | | N
+Bonne chance ! | Good luck! | | | N
+Bon courage ! | Hang in there! / Good luck with that! | Good courage! | | N | Wishes strength for something tiring: exams, work, moving house. Hugely common, no real English equivalent.
+À vos souhaits ! | Bless you! | To your wishes! | | N | After a sneeze. Casual: "À tes souhaits !"
+
+@ 1 | comprendre | Understanding & keeping the conversation going
+Je ne comprends pas. | I don't understand. | | J'comprends pas. | N
+Je n'ai pas compris. | I didn't catch that. | I have not understood. | J'ai pas compris. | N | Often more natural than the present tense: you didn't get what was just said.
+Vous pouvez répéter, s'il vous plaît ? | Could you repeat that, please? | You can repeat? | | N | Casual: "Tu peux répéter ?"
+Vous pouvez parler plus lentement ? | Could you speak more slowly? | You can speak more slowly? | | N | The most useful request a learner can make. | Vous pouvez + [infinitif] ? | répéter · parler plus fort · l'écrire · me montrer
+Comment ? | Sorry? / Pardon? | How? | | N | The polite "what?" when you didn't hear. "Quoi ?" is blunt.
+Qu'est-ce que ça veut dire ? | What does that mean? | What is it that that wants to say? | | N | "Vouloir dire" = to mean.
+Ça veut dire quoi, « … » ? | What does "…" mean? | That wants to say what? | | Fam | Spoken French puts the question word at the end.
+Comment on dit « … » en français ? | How do you say "…" in French? | How does one say…? | | N | Your lifeline. Use it constantly.
+Comment ça s'écrit ? | How do you spell that? | How does that write itself? | | N
+Je parle un peu français. | I speak a little French. | | | N
+J'apprends le français. | I'm learning French. | I learn French. | | N | French has no "-ing" tense. The present covers both "I learn" and "I'm learning".
+Vous parlez anglais ? | Do you speak English? | | | N | Asking in French first earns a lot of goodwill.
+Je cherche le mot… | I'm looking for the word… | | | N | Buys you time mid-sentence. People will help you.
+C'est comme… | It's like… | | | N | Describe what you can't name: "C'est comme un sac, mais plus petit."
+Vous voulez dire… ? | You mean…? | You want to say…? | | N | To check you understood. Casual: "Tu veux dire… ?"
+D'accord, je vois. | OK, I see. | Of agreement, I see. | | N | Shows you're following.
+Attendez, je réfléchis. | Hang on, let me think. | Wait, I reflect. | | N | Casual: "Attends, je réfléchis."
+Un instant, s'il vous plaît. | One moment, please. | | | N
+Euh… | Um… | | | N | The French hesitation sound. Use it instead of English "um" and you'll sound far more native.
+Comment dire… | How can I put it… | How to say… | | N | A classic thinking filler.
+C'est-à-dire ? | Meaning? / What do you mean? | That is to say? | | N | Asks someone to explain or expand.
+Pardon, j'ai pas entendu. | Sorry, I didn't hear. | Sorry, I have not heard. | | Fam
+
+@ 1 | presentation | Introducing yourself
+Je m'appelle… | My name is… | I call myself… | | N
+Comment vous appelez-vous ? | What's your name? | How do you call yourself? | | F | Casual: "Tu t'appelles comment ?"
+Tu t'appelles comment ? | What's your name? (casual) | You call yourself how? | | Fam | The question word goes at the end. That's how spoken French asks most questions.
+Vous êtes d'où ? | Where are you from? | You are from where? | | N | Casual: "Tu viens d'où ?"
+Je viens des États-Unis. | I'm from the United States. | I come from the United States. | | N | de + city, du + masculine country, de/d' + feminine country, des + plural. | Je viens + de / du / des + [lieu] | de Chicago · du Canada · d'Angleterre · de France
+J'habite à… | I live in… | | | N | à + city, en + feminine country, au + masculine country. | J'habite + à / en / au + [lieu] | à Paris · en France · au Canada · aux États-Unis
+Je suis américain(e). | I'm American. | | | N | No article before nationality or job: "Je suis médecin", not "un médecin".
+Qu'est-ce que vous faites dans la vie ? | What do you do for a living? | What do you do in life? | | N | Casual: "Tu fais quoi dans la vie ?"
+Je travaille dans… | I work in… | | | N | | Je travaille dans + [secteur] | l'informatique · la finance · la santé · l'enseignement
+Je suis ici pour… | I'm here for… | | | N | | Je suis ici pour + [nom / infinitif] | le travail · les vacances · voir des amis
+Je suis en vacances. | I'm on vacation. | I am in holidays. | | N
+J'ai trente ans. | I'm thirty. | I have thirty years. | | N | Age uses avoir (to have), never être. "Je suis trente" means nothing.
+Je suis marié(e). | I'm married. | | | N | Also: "Je suis célibataire" (single), "J'ai un copain / une copine" (I have a boyfriend / girlfriend).
+Je te présente… | This is… / Let me introduce… | I present to you… | | N | Formal: "Je vous présente…" | Je te présente + [personne] | mon mari · ma collègue · mon ami Paul
+On se tutoie ? | Shall we use "tu"? | We "tu" each other? | | N | Ask before switching from "vous" to "tu". Usually the older or more senior person offers.
+
+@ 1 | noyau | Core frames: the engines of the language
+Je voudrais… | I'd like… | I would want… | | N | THE polite request. Use it for anything you ask a stranger for. | Je voudrais + [nom / infinitif] | un café · réserver une table · essayer ça · un renseignement
+J'aimerais… | I'd like to… / I'd love to… | I would love… | | N | Warmer than "je voudrais", often for wishes and plans. | J'aimerais + [infinitif] | visiter Lyon · te revoir · apprendre à cuisiner
+Est-ce que je peux… ? | Can I…? | Is it that I can…? | | N | "Est-ce que" turns any sentence into a question. | Est-ce que je peux + [infinitif] ? | payer par carte · m'asseoir ici · essayer
+Vous pouvez… ? | Could you…? | You can…? | | N | Asks someone to do something. More polite: "Pourriez-vous… ?" | Vous pouvez + [infinitif] ? | m'aider · prendre une photo · fermer la porte
+Il y a… | There is… / There are… | It there has… | Y'a… | N | One of the most used phrases in French. As a question: "Il y a… ?" | Il y a + [nom] | un problème · du monde · un métro ici ?
+Il n'y a pas de… | There's no… / There isn't any… | | Y'a pas de… | N | After a negative, un / une / des become "de". | Il n'y a pas de + [nom] | pain · réseau · place · problème
+C'est… | It's… / That's… | | | N | Reacts to almost anything. | C'est + [adjectif] | bon · cher · parfait · trop loin · bizarre
+Ce n'est pas… | It's not… / That's not… | | C'est pas… | N | Spoken French drops the "ne". | C'est pas + [adjectif] | cher · loin · grave · possible
+J'ai besoin de… | I need… | I have need of… | | N | | J'ai besoin de + [nom / infinitif] | d'aide · dormir · d'un taxi · réfléchir
+Je dois… | I have to… / I must… | | | N | | Je dois + [infinitif] | partir · travailler demain · y aller
+Il faut… | You need to… / We have to… | It is necessary… | Faut… | N | Impersonal and used constantly. "Faut y aller !" = We've got to go! | Il faut + [infinitif] | réserver · y aller · attendre
+Je vais… | I'm going to… | | | N | The near future: aller + infinitive. The easiest future tense, and the one people actually use. | Je vais + [infinitif] | manger · l'appeler · rentrer · réfléchir
+Je viens de… | I just… / I've just… | I come from… | | N | The recent past: venir de + infinitive. | Je viens de + [infinitif] | arriver · finir · le voir
+Je veux… | I want… | | | N | Direct. Fine with friends, can sound demanding with strangers. Use "je voudrais" there.
+Je ne sais pas. | I don't know. | | Chais pas. | N | "Je sais pas" squashes to "chais pas". Savoir = know a fact or how to do something.
+Je connais… | I know… (a person / place) | | | N | Connaître = be familiar with people, places, things. Savoir = know facts. | Je connais + [personne / lieu] | Paris · ton frère · un bon resto
+J'aime bien… | I like… | I love well… | | N | Trap: with people, "je t'aime" = I love you, but "je t'aime bien" = I like you (as a friend). | J'aime bien + [nom / infinitif] | le jazz · cuisiner · ce quartier
+Je n'aime pas… | I don't like… | | J'aime pas… | N | | J'aime pas + [nom / infinitif] | ça · attendre · le froid
+Je préfère… | I prefer… | | | N | | Je préfère + [nom / infinitif] | le thé · rester ici · qu'on y aille demain
+Ça me plaît. | I like it. | That pleases me. | | N | A very natural way to say you like something. Question: "Ça te plaît ?"
+J'ai envie de… | I feel like… / I want to… | I have desire of… | | N | Very common, very natural. | J'ai envie de + [infinitif / nom] | dormir · sortir · une glace · voyager
+Ça te dit de… ? | Do you feel like…? / How about…? | Does that say to you…? | | Fam | The casual invitation. | Ça te dit de + [infinitif] ? | aller au ciné · manger ensemble · venir
+On peut… ? | Can we…? | Can one…? | | N | In speech "on" replaces "nous" for "we", and takes the "il" verb form. | On peut + [infinitif] ? | s'asseoir ici · commencer · payer
+On y va ? | Shall we go? | One there goes? | | N | As a statement, "On y va !" = Let's go!
+Je pense que… | I think that… | | | N | | Je pense que + [phrase] | c'est une bonne idée · il a raison · oui
+Je crois que… | I believe… / I think… | | | N | A little less sure than "je pense".
+Je n'ai jamais… | I've never… | | J'ai jamais… | N | | Je n'ai jamais + [participe passé] | été à Paris · mangé d'escargots · vu ça
+Je n'ai plus… | I'm out of… / I don't have any more… | I have no longer… | J'ai plus… | N | ne… plus = no longer. | Je n'ai plus de + [nom] | batterie · temps · argent
+Ça fait… que… | It's been… since… / I've been… for… | That makes… that… | | N | Uses the PRESENT tense: "Ça fait deux ans que j'habite ici" = I've lived here for two years. | Ça fait + [durée] + que… | trois mois · longtemps · une heure
+Depuis combien de temps… ? | How long have you…? | Since how much time…? | | N | Also takes the present: "Depuis combien de temps tu habites ici ?"
+
+@ 1 | questions | Essential questions
+Où est… ? | Where is…? | | | N | | Où est + [lieu / objet] ? | la gare · mon sac · la sortie
+Où sont les toilettes ? | Where's the bathroom? | Where are the toilets? | | N | Always plural in French.
+C'est où ? | Where is it? | It's where? | | Fam
+C'est combien ? | How much is it? | It's how much? | | N | Also "Combien ça coûte ?" (How much does it cost?)
+Quelle heure est-il ? | What time is it? | What hour is it? | Il est quelle heure ? | N
+C'est quand ? | When is it? | It's when? | | N
+Pourquoi ? | Why? | | | N | Answer with "Parce que…" (because…).
+Comment ça marche ? | How does it work? | How does that walk? | | N | "Marcher" = to work, to function: "Ça marche pas" = it's not working.
+Qu'est-ce que c'est ? | What is it? / What's this? | What is it that it is? | C'est quoi ? | N
+C'est quoi, ça ? | What's that? | It's what, that? | | Fam
+C'est qui ? | Who is it? | It's who? | | Fam | Formal: "Qui est-ce ?"
+Lequel ? | Which one? | | | N | Agrees with the noun: le livre → lequel, la table → laquelle, plural lesquels / lesquelles.
+Tu fais quoi ? | What are you doing? | You do what? | | Fam | Formal: "Qu'est-ce que vous faites ?"
+Qu'est-ce qui se passe ? | What's going on? | What is it that happens itself? | Qu'est-ce qui s'passe ? | N
+Qu'est-ce qu'il y a ? | What's wrong? / What's up? | What is it that there is? | | N | Asked when someone looks upset.
+Vous avez… ? | Do you have…? | You have…? | | N | The simplest question: a statement with rising intonation. | Vous avez + [nom] ? | du wifi · une table pour deux · ça en bleu
+C'est possible de… ? | Is it possible to…? | | | N | | C'est possible de + [infinitif] ? | réserver · changer · payer plus tard
+Ça vous dérange si… ? | Do you mind if…? | Does that disturb you if…? | | N | | Ça vous dérange si + [phrase] ? | j'ouvre la fenêtre · je m'assois ici
+Tu es sûr(e) ? | Are you sure? | | T'es sûr ? | N
+Et toi ? | And you? | | | N | Formal: "Et vous ?"
+Tu en penses quoi ? | What do you think (of it)? | You think what of it? | T'en penses quoi ? | Fam | Formal: "Qu'en pensez-vous ?"
+Ça te va ? | Does that work for you? / Is that OK? | Does that go to you? | | N | Also "Does it suit you?" about clothes.
+
+@ 1 | reactions | Reactions & fillers that make you sound French
+Ah bon ? | Really? / Oh yeah? | Ah good? | | N | Mild surprise. The number one listening noise in French conversation.
+C'est vrai ? | Really? / Is that true? | | | N
+Sérieux ? | Seriously? | | | Fam
+Ah, d'accord. | Ah, OK. / I see. | Ah, of agreement. | Ah, d'acc. | N
+Ouais. | Yeah. | | | Fam
+Si ! | Yes! (to a negative question) | | | N | Use "si", not "oui", to contradict a negative: "Tu n'aimes pas ? — Si !" (You don't like it? — Yes I do!)
+Exactement. | Exactly. | | | N
+Bien sûr. | Of course. | Well sure. | | N
+Carrément ! | Totally! / Absolutely! | Squarely! | | Fam | An enthusiastic yes. Also "straight up": "Il est carrément parti" (he just left).
+Grave ! | Totally! | Seriously! | | A | Young people's slang: "C'est grave bien" = it's really good.
+Moi aussi. | Me too. | | | N
+Moi non plus. | Me neither. | Me no more. | | N | For negatives: "J'aime pas ça. — Moi non plus."
+Pas du tout. | Not at all. | | | N
+Bof. | Meh. | | | Fam | With a shrug and pursed lips. Peak French.
+Peut-être. | Maybe. | Can be. | | N
+Ça dépend. | It depends. | | | N
+Tant mieux ! | Good! / So much the better! | So much better! | | N | Reacting to good news.
+Tant pis. | Too bad. / Oh well. | So much worse. | | N | Accepting something that didn't work out.
+Oh là là ! | Oh dear! / Oh no! | | | N | Used for problems and annoyances far more than for excitement.
+Mince ! | Darn! / Shoot! | Thin! | | Fam | The polite swear word. Also "Zut !"
+Putain ! | F***! / Damn! | Whore! | | A | The most common French swear word, used for everything. Recognise it; use it with care.
+C'est génial ! | That's great! | It's genius! | | N
+Trop bien ! | Awesome! / So good! | Too good! | | Fam | Casually "trop" means "very / so", not "too": "C'est trop bon !" = it's so good.
+C'est pas vrai ! | No way! / I can't believe it! | It's not true! | | Fam
+N'importe quoi ! | Nonsense! / Rubbish! | Any what! | | Fam | Also "anything at all": "Je mange n'importe quoi."
+Voilà. | There you go. / That's it. / Exactly. | See there. | | N | A multi-tool: handing something over, finishing an explanation, agreeing.
+Du coup… | So… / As a result… | Of the blow… | | Fam | The most overused word in modern spoken French. Learn it now.
+En fait… | Actually… / In fact… | In fact… | | N | Starts countless sentences.
+Bref. | Anyway. / Long story short. | Brief. | | N | Wraps up a story or cuts it short.
+Genre… | Like… | Kind… | | A | Exactly like the English filler "like": "Il était genre super énervé."
+Enfin… | Well… / I mean… | Finally… | | N | For correcting yourself: "Il est sympa… enfin, parfois."
+Bon… | Well… / Right… | Good… | | N | Moves the conversation on: "Bon, on y va ?"
+Ben… | Well… | | | Fam | Spoken "bien". "Ben oui !" = well yes, obviously!
+Alors… | So… / Well then… | | | N
+Quand même ! | Still! / Come on! / Really! | When same! | | N | "Despite that" or mild indignation: "Il pourrait dire merci, quand même !"
+Ça y est ! | That's it! / Done! / Finally! | That there is! | | N | Something has finally happened: "Ça y est, j'ai fini !"
+Ça marche. | Sounds good. / Works for me. | That walks. | | Fam | Agreeing to a plan. Waiters say it when you order.
+Ça roule. | All good. / Sounds good. | That rolls. | | A
+J'avoue. | True. / Fair point. | I confess. | | A | Young people's way of agreeing.
+
+@ 1 | etats | Feelings & states
+J'ai faim. | I'm hungry. | I have hunger. | | N | Many states use avoir (to have), not être. | J'ai + [nom] | faim · soif · froid · chaud · sommeil · peur
+J'ai chaud. | I'm hot. | I have heat. | | N | Never say "je suis chaud(e)": it means "I'm up for it" or "I'm horny".
+J'ai trop mangé. | I'm stuffed. | I have too much eaten. | | N | Don't say "je suis plein(e)" (I'm full); it can mean drunk, or pregnant (of an animal).
+Je suis fatigué(e). | I'm tired. | | Chuis fatigué. | N
+Je suis crevé(e). | I'm exhausted. / I'm beat. | I'm burst. | Chuis crevé. | Fam
+J'ai mal à… | My… hurts. | I have pain at… | | N | à + le = au, à + les = aux. | J'ai mal + à la / au / aux + [partie du corps] | à la tête · au ventre · aux pieds · au dos
+Je suis malade. | I'm sick. | | | N
+Je suis content(e). | I'm happy. / I'm pleased. | | | N | "Heureux" is a deeper, life-level happy.
+Je suis stressé(e). | I'm stressed. | | | N
+Je m'ennuie. | I'm bored. | I bore myself. | | N | Careful: "Je suis ennuyeux" means "I am boring"!
+J'en ai marre. | I'm fed up. | I have enough of it. | | Fam | | J'en ai marre de + [nom / infinitif] | attendre · ce temps · ce boulot
+Je n'en peux plus. | I can't take it anymore. | I can no longer of it. | J'en peux plus. | N | Also "I can't eat another bite."
+J'ai hâte ! | I can't wait! | I have haste! | | N | | J'ai hâte de + [infinitif] | te voir · partir · commencer
+Tu me manques. | I miss you. | You are missing to me. | | N | Backwards from English: the thing you miss is the subject. "Paris me manque" = I miss Paris.
+J'ai peur. | I'm scared. | I have fear. | | N | | J'ai peur de + [nom / infinitif] | rater le train · l'avion · me tromper
+Je suis perdu(e). | I'm lost. | | | N
+Je suis pressé(e). | I'm in a hurry. | I'm pressed. | | N
+Je suis prêt(e). | I'm ready. | | | N
+J'ai la flemme. | I can't be bothered. | I have the laziness. | | Fam | An iconic French feeling. | J'ai la flemme de + [infinitif] | cuisiner · sortir · ranger
+
+@ 1 | opinions | Opinions: agreeing & disagreeing
+À mon avis… | In my opinion… | | | N
+Pour moi… | For me… / As far as I'm concerned… | | | N
+Je trouve que… | I think… / I find that… | | | N | For personal judgements: "Je trouve que c'est un peu cher."
+Je suis d'accord. | I agree. | I am of agreement. | | N | Never "j'accord".
+Je ne suis pas d'accord. | I disagree. | | Chuis pas d'accord. | N
+Tu as raison. | You're right. | You have reason. | T'as raison. | N | Right / wrong use avoir: avoir raison, avoir tort.
+Tu as tort. | You're wrong. | You have wrong. | T'as tort. | N | Blunt. Soften it with "Je ne suis pas sûr(e)…"
+C'est vrai. | That's true. | | | N
+Ça m'est égal. | I don't mind. / Either is fine. | That is equal to me. | | N
+Peu importe. | Whatever. / It doesn't matter. | Little matters. | | N
+Je m'en fiche. | I don't care. | I don't give a fig about it. | | Fam | Ruder: "Je m'en fous."
+C'est pas mal. | It's pretty good. | It's not bad. | | N | French understatement: this is genuine praise.
+J'adore ! | I love it! | | | N | For things, "adorer" is stronger than "aimer".
+Je déteste ça. | I hate that. | | | N
+Ça vaut le coup. | It's worth it. | That's worth the blow. | | N | | Ça vaut le coup de + [infinitif] | visiter · attendre · essayer
+C'est nul. | It's rubbish. / It sucks. | It's null. | | Fam
+Ça craint. | That sucks. / That's sketchy. | That fears. | | Fam
+
+# ═══════════════════════════════════════════════════════════════════
+# TIER 2: DAILY LIFE. Getting things done in the real world.
+# ═══════════════════════════════════════════════════════════════════
+
+@ 2 | resto | Café & restaurant
+Une table pour deux, s'il vous plaît. | A table for two, please. | | | N | | Une table pour + [nombre] | une personne · quatre · six
+J'ai réservé au nom de… | I have a reservation under… | I reserved in the name of… | | N
+La carte, s'il vous plaît. | The menu, please. | The card, please. | | N | False friend: "le menu" is the fixed-price set meal. The full menu is "la carte".
+Qu'est-ce que vous me conseillez ? | What do you recommend? | What do you advise me? | | N
+Je vais prendre… | I'll have… | I'm going to take… | | N | The way to order. Also "Je prends…". | Je vais prendre + [plat] | le plat du jour · le menu · un steak-frites
+Pour moi, ce sera… | For me, it'll be… | | | N
+Un café, s'il vous plaît. | An espresso, please. | A coffee, please. | | N | "Un café" is an espresso. "Un café crème" ≈ a latte, "un allongé" ≈ an americano, "un déca" = decaf.
+Une carafe d'eau, s'il vous plaît. | A jug of tap water, please. | | | N | Free tap water. Ask for "de l'eau" alone and you may get a bottle on the bill.
+Un demi, s'il vous plaît. | A small draft beer, please. | A half. | | N | 25 cl of beer on tap.
+Saignant, à point ou bien cuit ? | Rare, medium or well done? | Bleeding, at point, or well cooked? | | N | French "à point" is closer to medium-rare.
+Je suis végétarien(ne). | I'm vegetarian. | | | N | Vegan: "végan(e)".
+Je suis allergique à… | I'm allergic to… | | | N | | Je suis allergique + au / à la / aux + [aliment] | aux arachides · au gluten · aux fruits de mer
+Sans…, s'il vous plaît. | Without…, please. | | | N | | Sans + [ingrédient] | oignons · glaçons · sucre
+Encore un peu de pain, s'il vous plaît. | A bit more bread, please. | Again a little of bread. | | N | | Encore un peu de + [nom] | pain · eau · vin
+C'était délicieux. | It was delicious. | | | N | Also "C'était très bon, merci."
+Vous avez terminé ? | Are you finished? | You have finished? | | N | The waiter asks this. Answer: "Oui, merci" or "Pas encore."
+Je n'ai plus faim. | I'm full. | I no longer have hunger. | | N | The right way to say you're full.
+L'addition, s'il vous plaît. | The check, please. | The addition, please. | | N | The waiter won't bring it until you ask; rushing you would be rude.
+On peut payer séparément ? | Can we pay separately? | | | N
+Je peux payer par carte ? | Can I pay by card? | | | N
+Gardez la monnaie. | Keep the change. | | | N | Service is included by law. Tips are a small optional extra.
+Sur place ou à emporter ? | For here or to go? | On place or to take away? | | N | You'll hear this at every bakery and sandwich shop.
+À emporter, s'il vous plaît. | To go, please. | To take away. | | N
+
+@ 2 | courses | Shopping & markets
+Je regarde, merci. | I'm just looking, thanks. | I look, thanks. | | N | The reply to "Je peux vous aider ?" (Can I help you?)
+Je cherche… | I'm looking for… | | | N | | Je cherche + [nom] | une pharmacie · un cadeau · du lait
+Vous l'avez en… ? | Do you have it in…? | | | N | | Vous l'avez en + [taille / couleur] ? | bleu · plus grand · 40 · taille M
+Je peux l'essayer ? | Can I try it on? | | | N | Fitting rooms are "les cabines d'essayage".
+C'est trop cher. | It's too expensive. | | | N
+Je le prends. | I'll take it. | I take it. | | N | "Le" for masculine things, "la" for feminine, "les" for plural.
+Avec ceci ? | Anything else? | With this? | | N | What the baker or market seller says. Answer: "C'est tout, merci."
+C'est tout, merci. | That's all, thanks. | | | N | Also "Ce sera tout."
+Une baguette, s'il vous plaît. | A baguette, please. | | | N | Ask for "une tradition" for the better, artisan baguette.
+Je voudrais deux cents grammes de… | I'd like two hundred grams of… | | | N | Quantities are followed by "de". | [quantité] + de + [nom] | un kilo de tomates · une tranche de jambon · un morceau de fromage
+Vous acceptez la carte ? | Do you take cards? | You accept the card? | | N
+Je vais payer en espèces. | I'll pay cash. | I'm going to pay in species. | | N | Also "en liquide".
+Vous avez de la monnaie ? | Do you have anything smaller? | You have some change? | | N | Cashiers ask this when you hand over a big note.
+Je peux avoir un sac ? | Can I have a bag? | | | N | Bags often cost a little extra.
+Je peux avoir le ticket, s'il vous plaît ? | Can I have the receipt, please? | | | N
+C'est en promo ? | Is it on sale? | It's in promo? | | N | "Les soldes" = the official national sales seasons.
+Je peux le rendre ? | Can I return it? | | | N | Exchange: "Je peux l'échanger ?"
+
+@ 2 | directions | Directions & getting around
+Pour aller à… ? | How do I get to…? | For to go to…? | | N | Start with "Excusez-moi" and you'll get a warm answer. | Pour aller + à la / au / à + [lieu] ? | à la gare · au musée · à la tour Eiffel
+C'est loin d'ici ? | Is it far from here? | | | N
+C'est à combien de minutes à pied ? | How many minutes' walk is it? | It's at how many minutes on foot? | | N
+Tout droit. | Straight ahead. | All straight. | | N | Don't mix it up with "à droite" (to the right).
+À droite. / À gauche. | To the right. / To the left. | | | N
+Tournez à gauche au feu. | Turn left at the light. | Turn at left at the fire. | | N | | Tournez à + [direction] + [repère] | au carrefour · au rond-point · à la deuxième rue
+C'est juste à côté. | It's just next door. | It's just at side. | | N
+En face de… | Opposite… / Across from… | In face of… | | N
+Vous pouvez me montrer sur le plan ? | Can you show me on the map? | | | N | "Le plan" for a city map, "la carte" for a country map.
+Où est la station de métro la plus proche ? | Where's the nearest metro station? | | | N | | le / la + [lieu] + le / la plus proche | la pharmacie · le distributeur · l'arrêt de bus
+Un aller simple pour Lyon, s'il vous plaît. | A one-way ticket to Lyon, please. | A simple going for Lyon. | | N | Round trip: "un aller-retour".
+À quelle heure part le prochain train ? | What time does the next train leave? | | | N
+Il part de quel quai ? | Which platform does it leave from? | It leaves from which platform? | | N
+Il faut changer ? | Do I have to change? | Is it necessary to change? | | N
+Ce bus va à… ? | Does this bus go to…? | | | N
+Je descends ici. | I'm getting off here. | I go down here. | | N | In a packed metro you'll hear "Vous descendez ?" (Are you getting off?)
+Le train a du retard. | The train is delayed. | The train has some lateness. | | N | "Le train a vingt minutes de retard" = it's twenty minutes late.
+Il faut valider le billet ? | Do I need to validate the ticket? | | | N | Unvalidated tickets get fined.
+Vous pouvez m'appeler un taxi ? | Could you call me a taxi? | | | N
+Vous pouvez me déposer ici ? | Can you drop me off here? | | | N
+Je voudrais louer une voiture. | I'd like to rent a car. | | | N
+
+@ 2 | rendezvous | Time, plans & making arrangements
+Tu es libre ce soir ? | Are you free tonight? | | T'es libre ce soir ? | N | | Tu es libre + [moment] ? | demain · samedi · ce week-end
+Tu fais quoi ce week-end ? | What are you doing this weekend? | You do what this weekend? | | Fam
+On se voit quand ? | When shall we meet? | We see each other when? | | Fam
+On se retrouve où ? | Where shall we meet? | We find each other again where? | | N | "Se retrouver" = to meet up (planned).
+Ça te va, huit heures ? | Does eight o'clock work for you? | That goes to you, eight hours? | | Fam
+Je ne suis pas dispo. | I'm not available. | | Chuis pas dispo. | Fam | "Dispo" = disponible.
+Désolé(e), je ne peux pas. | Sorry, I can't. | | J'peux pas. | N
+Une autre fois, peut-être. | Another time, maybe. | | | N
+À quelle heure ? | At what time? | | | N
+Il est trois heures et demie. | It's half past three. | It is three hours and half. | | N | | Il est + [heure] | midi · trois heures et quart · quatre heures moins le quart
+Ça prend combien de temps ? | How long does it take? | That takes how much time? | | N
+J'arrive ! | I'm coming! / On my way! | I arrive! | | N | Said even when you haven't left yet.
+J'arrive dans cinq minutes. | I'll be there in five minutes. | I arrive in five minutes. | | N | "Dans" + a length of time = in (from now).
+Je suis en retard, désolé(e) ! | I'm running late, sorry! | I am in lateness. | | N
+Je reviens tout de suite. | I'll be right back. | I come back all of follow. | | N
+La semaine prochaine. | Next week. | | | N | | [nom] + prochain(e) / dernier (dernière) | le mois prochain · l'année dernière · samedi prochain
+Il y a deux jours. | Two days ago. | There is two days. | | N | "Il y a" + a length of time = ago.
+D'habitude… | Usually… | Of habit… | | N
+De temps en temps. | From time to time. | From time in time. | | N
+On verra. | We'll see. | One will see. | | N | The classic non-committal answer.
+C'est noté ! | Got it! / Noted! | It's noted! | | N
+Rappelle-moi. | Call me back. / Remind me. | Recall me. | | N | Both meanings; context decides.
+
+@ 2 | logement | Hotel & accommodation
+J'ai une réservation au nom de… | I have a reservation under the name… | | | N
+Vous avez une chambre pour ce soir ? | Do you have a room for tonight? | | | N
+Pour combien de nuits ? | For how many nights? | | | N | What reception will ask you.
+Le petit-déjeuner est compris ? | Is breakfast included? | The little lunch is included? | | N
+À quelle heure faut-il libérer la chambre ? | What time is checkout? | At what hour must one free the room? | | N
+C'est quoi, le code wifi ? | What's the wifi password? | It's what, the wifi code? | | Fam | Pronounced "wee-fee".
+La clé ne marche pas. | The key doesn't work. | The key doesn't walk. | | N | | [objet] + ne marche pas | la clim · le chauffage · la douche · la télé
+Il n'y a pas d'eau chaude. | There's no hot water. | | | N
+Je peux laisser mes bagages ici ? | Can I leave my bags here? | | | N
+
+@ 2 | urgences | Problems, health & emergencies
+Au secours ! | Help! | To the rescue! | | N | Emergencies only. Numbers: 112 (all of Europe), 15 (ambulance), 17 (police), 18 (fire).
+Appelez une ambulance ! | Call an ambulance! | | | N | | Appelez + [service] ! | la police · les pompiers · un médecin
+Il y a eu un accident. | There's been an accident. | There has had an accident. | | N
+J'ai besoin d'un médecin. | I need a doctor. | | | N
+Je ne me sens pas bien. | I don't feel well. | I don't feel myself well. | Je m'sens pas bien. | N
+J'ai de la fièvre. | I have a fever. | I have some fever. | | N
+Vous avez quelque chose contre… ? | Do you have something for…? | You have something against…? | | N | At the pharmacy, recognisable by its green cross. | Vous avez quelque chose contre + [symptôme] ? | le mal de tête · la toux · le rhume
+On m'a volé mon portefeuille. | My wallet was stolen. | One has stolen me my wallet. | | N | "On" turns it passive: no need to know who did it. | On m'a volé + [objet] | mon téléphone · mon sac · mon passeport
+J'ai perdu mon passeport. | I've lost my passport. | | | N
+C'est urgent. | It's urgent. | | | N
+Laissez-moi tranquille ! | Leave me alone! | Leave me calm! | | N | Firm and clear. Casual: "Laisse-moi tranquille !"
+Ça ne marche pas. | It's not working. | That doesn't walk. | Ça marche pas. | N
+Je crois qu'il y a une erreur. | I think there's a mistake. | | | N | For a bill, booking or order.
+Je voudrais parler au responsable. | I'd like to speak to the manager. | I would like to speak to the responsible. | | N
+Je n'ai plus de batterie. | My phone's dead. | I no longer have battery. | J'ai plus de batterie. | N | Follow up with "Je peux le charger ici ?"
+
+@ 2 | blabla | Small talk: weather, work, weekends
+Il fait beau aujourd'hui ! | It's nice out today! | It makes beautiful today! | | N | Weather uses "il fait". | Il fait + [adjectif] | chaud · froid · gris · moche · doux
+Il pleut. | It's raining. | | | N
+Il fait un temps de chien. | The weather's awful. | It makes a dog's weather. | | Fam
+C'est la première fois que je viens ici. | It's my first time here. | It's the first time that I come here. | | N | Present tense in French, past in English.
+Ça vous plaît, la France ? | Do you like France? | That pleases you, France? | | N | The classic question for visitors. Casual: "Ça te plaît ?"
+Vous connaissez un bon resto dans le coin ? | Do you know a good restaurant around here? | You know a good restaurant in the corner? | | N | "Dans le coin" = around here.
+Tu as passé un bon week-end ? | Did you have a good weekend? | You have spent a good weekend? | T'as passé un bon week-end ? | N
+Qu'est-ce que tu as fait hier ? | What did you do yesterday? | | T'as fait quoi hier ? | N
+J'ai passé une super soirée. | I had a great evening. | I spent a super evening. | | N
+Tu fais du sport ? | Do you do any sports? | You do some sport? | | N | Activities use faire + du / de la. | Je fais + du / de la + [activité] | du vélo · du yoga · de la natation · de la course
+Le boulot, ça va ? | How's work? | The job, it goes? | | Fam | "Le boulot" = work, the job.
+C'est la galère. | It's a nightmare. / What a hassle. | It's the galley. | | Fam | "Galère" = an ordeal, a struggle. "Quelle galère !"
+Tu parles très bien français ! | Your French is really good! | You speak very well French! | | N | You'll hear this. Answer modestly:
+Merci, j'essaie ! | Thanks, I'm trying! | Thanks, I try! | | N
+
+@ 2 | telephone | Phone, texts & messages
+Allô ? | Hello? (on the phone) | | | N | Only for the phone.
+C'est de la part de qui ? | Who's calling? | It's on the part of whom? | | N
+Je pourrais parler à… ? | Could I speak to…? | | | N
+Ne quittez pas. | Please hold. | Don't quit. | | N
+Je te rappelle. | I'll call you back. | I recall you. | | N
+Je t'entends mal. | I can barely hear you. | I hear you badly. | | N | Also "Ça coupe" (it's cutting out).
+C'est quoi, ton numéro ? | What's your number? | | | Fam
+Je t'envoie un message. | I'll text you. | I send you a message. | | N | Also "un texto" or "un SMS".
+Tu me tiens au courant ? | Will you keep me posted? | You hold me to the current? | | N | Reply: "Je te tiens au courant."
+Bisous ! | Love, … / XO | Kisses! | | Fam | The standard sign-off with friends, even purely platonic ones. "Gros bisous" for close friends.
+MDR | LOL | Mort de rire (dead from laughing) | | A | In texts only.
+
+# ═══════════════════════════════════════════════════════════════════
+# TIER 3: FLUENCY. Stories, nuance, idioms and feelings.
+# ═══════════════════════════════════════════════════════════════════
+
+@ 3 | recit | Telling stories: connectors
+D'abord… | First… | | | N
+Ensuite… | Then… / Next… | | | N | Also "Puis…"
+Après ça… | After that… | | | N
+Tout à coup… | Suddenly… | All at blow… | | N | Also "Soudain…"
+Au début… | At first… | At the start… | | N
+Au bout d'un moment… | After a while… | At the end of a moment… | | N
+Finalement… | In the end… / Eventually… | | | N | Means "in the end", not "at last" (that's "Enfin !").
+Pendant que… | While… | | | N
+Quand j'étais petit(e)… | When I was little… | | | N | The imperfect tense (j'étais) sets the scene; the passé composé tells what happened next.
+Et là… | And then… / And at that moment… | And there… | | Fam | Builds suspense: "Et là, il me dit…"
+Il m'a dit que… | He told me that… | He has said to me that… | | N | | Il / Elle m'a dit que + [phrase] | c'était fermé · il venait · elle était malade
+Tu sais quoi ? | You know what? | | | N
+Figure-toi que… | Believe it or not… / Guess what… | Picture yourself that… | | Fam
+Par contre… | However… / On the other hand… | By contrast… | | N | Extremely common in speech.
+Pourtant… | And yet… | | | N
+Sinon… | Otherwise… / Apart from that… | If not… | | N | Also changes the subject: "Sinon, ça va, le boulot ?"
+En tout cas… | In any case… / Anyway… | In all case… | | N
+Au fait… | By the way… | At the fact… | | N | Brings up a new topic. Don't confuse with "en fait" (actually).
+D'ailleurs… | Besides… / Come to think of it… | From elsewhere… | | N
+Même si… | Even if… | | | N
+Grâce à… | Thanks to… | | | N | For good outcomes. For bad ones: "à cause de…" (because of…).
+Si j'étais toi… | If I were you… | | | N | si + imperfect → conditional. | Si j'étais toi, je + [conditionnel] | partirais · dirais non · réserverais
+Si j'avais le temps, je… | If I had time, I'd… | | | N | | Si j'avais + [nom], je + [conditionnel] | le temps, voyagerais · l'argent, achèterais une maison
+J'aurais dû… | I should have… | I would have had to… | | N | | J'aurais dû + [infinitif] | partir plus tôt · te le dire · réserver
+Tu devrais… | You should… | You would have to… | | N | Gentle advice. | Tu devrais + [infinitif] | essayer · te reposer · lui parler
+Je me demande si… | I wonder if… | I ask myself if… | | N
+Ça me rappelle… | That reminds me of… | That recalls me… | | N
+
+@ 3 | nuance | Nuance & hedging
+Plus ou moins. | More or less. | | | N
+Pas vraiment. | Not really. | | | N
+Pas encore. | Not yet. | | | N
+Pas forcément. | Not necessarily. | Not forcibly. | | N
+Je pense que oui. | I think so. | I think that yes. | | N | And "Je pense que non" (I don't think so).
+J'espère. | I hope so. | I hope. | | N | Also "J'espère que oui / non."
+Je ne suis pas sûr(e). | I'm not sure. | | Chuis pas sûr. | N
+Il paraît que… | Apparently… / I hear that… | It appears that… | | N
+Ça m'étonnerait. | I doubt it. | That would astonish me. | | N | Elegant scepticism.
+Sans doute. | Probably. | Without doubt. | | N | Trap: "sans doute" = probably; "sans aucun doute" = definitely.
+Ça se peut. | Could be. | That can itself. | | N
+En gros… | Basically… / Roughly… | In big… | | Fam
+Si je comprends bien… | If I understand correctly… | | | N
+Ce que je veux dire, c'est que… | What I mean is… | What I want to say, it's that… | | N
+Disons que… | Let's say… | | | N
+Tu vois ce que je veux dire ? | You know what I mean? | You see what I want to say? | Tu vois c'que j'veux dire ? | N
+Au moins… | At least… | | | N
+Plutôt… | Rather… / Pretty… | | | N | "C'est plutôt bien" = it's pretty good. | C'est plutôt + [adjectif] | bien · cher · calme
+Pas terrible. | Not great. | Not terrible. | | Fam | Understatement: it means mediocre or bad.
+Un petit peu. | A little bit. | | | N
+
+@ 3 | idiomes | Everyday expressions you'll hear daily
+Laisse tomber. | Forget it. / Never mind. | Let fall. | | Fam
+Ne t'inquiète pas. | Don't worry. | Don't worry yourself. | T'inquiète ! | N | "T'inquiète !" on its own = no worries, I've got it.
+Ça va aller. | It's going to be OK. | That's going to go. | | N
+C'est pas la peine. | There's no need. / Don't bother. | It's not the pain. | | N | | C'est pas la peine de + [infinitif] | venir · t'excuser · insister
+Ça arrive. | It happens. | | | N
+Ça se voit. | It shows. / You can tell. | That sees itself. | | N
+Tu as l'air fatigué(e). | You look tired. | You have the air tired. | T'as l'air fatigué. | N | | Tu as l'air + [adjectif] | content · stressé · en forme
+Ça a l'air bon ! | That looks good! | That has the air good! | | N
+Ça me tente. | I'm tempted. / I'm up for it. | That tempts me. | | N | "Ça te tente ?" = Are you up for it?
+Ça me fait plaisir. | I'm glad. / My pleasure. | That makes me pleasure. | | N
+Ça fait du bien ! | That feels good! | That does some good! | | N
+Ça m'énerve. | It annoys me. | That irritates me. | | N
+Ça me saoule. | It's getting on my nerves. | That makes me drunk. | | Fam
+C'est comme ça. | That's just how it is. | It's like that. | | N
+On fait avec. | We make do. | One does with. | | N
+Je n'y peux rien. | There's nothing I can do about it. | I can nothing there. | J'y peux rien. | N
+Ça ne fait rien. | It doesn't matter. | That does nothing. | Ça fait rien. | N
+Ça ne sert à rien. | It's pointless. | That serves for nothing. | Ça sert à rien. | N | | Ça ne sert à rien de + [infinitif] | s'énerver · attendre · insister
+Il vaut mieux… | It's better to… / You'd better… | It is worth better… | Vaut mieux… | N | | Il vaut mieux + [infinitif] | réserver · partir tôt · ne rien dire
+J'ai du mal à… | I struggle to… / I have trouble… | I have difficulty at… | | N | | J'ai du mal à + [infinitif] | comprendre · dormir · me lever
+Ça me dit quelque chose. | That rings a bell. | That tells me something. | | N
+Ça ne me dit rien. | It doesn't ring a bell. / I don't feel like it. | That tells me nothing. | Ça m'dit rien. | N | Two meanings, context decides.
+Ce n'est pas mon truc. | It's not my thing. | | C'est pas mon truc. | Fam
+Chacun ses goûts. | To each their own. | Each one his tastes. | | N
+Ça tombe bien. | Good timing. / That works out. | That falls well. | | N | The opposite: "Ça tombe mal" (bad timing).
+J'en ai pour cinq minutes. | I'll be five minutes. | I have of it for five minutes. | | N
+C'est pas évident. | It's not easy. / It's tricky. | It's not obvious. | | N | In speech "évident" often means "easy".
+C'est simple comme bonjour. | It's dead easy. | It's simple as hello. | | N
+Ça coûte les yeux de la tête. | It costs an arm and a leg. | It costs the eyes of the head. | | N
+Il pleut des cordes. | It's pouring. | It's raining ropes. | | N
+J'ai le cafard. | I'm feeling down. | I have the cockroach. | | Fam
+Il m'a posé un lapin. | He stood me up. | He put a rabbit on me. | | Fam
+J'ai fait la grasse mat'. | I slept in. | I did the fat morning. | | Fam | Short for "la grasse matinée".
+J'étais dans la lune. | I was miles away. / I was daydreaming. | I was in the moon. | | N
+Je te jure ! | I swear! | I swear to you! | | Fam
+Arrête ! | Stop it! / No way! | Stop! | | Fam | Also disbelief: "Arrête, c'est pas vrai !"
+C'est parti ! | Here we go! | It's left! | | N
+Allez ! | Come on! / Go on! | Go! | | N | Also signals you're leaving: "Allez, salut !"
+Vas-y ! | Go ahead! / Go for it! | Go there! | | N | Formal: "Allez-y !"
+
+@ 3 | social | Invitations, compliments & empathy
+Ça te dirait de prendre un verre ? | Would you like to grab a drink? | Would that tell you to take a glass? | | N | | Ça te dirait de + [infinitif] ? | dîner ensemble · venir · aller au cinéma
+Tu veux venir dîner à la maison ? | Do you want to come over for dinner? | You want to come dine at the house? | | N
+Qu'est-ce que je peux apporter ? | What can I bring? | | | N | Wine, flowers or dessert are safe gifts.
+Je t'invite. | It's on me. / My treat. | I invite you. | | N | Means you're paying. Also "C'est moi qui invite."
+Fais comme chez toi. | Make yourself at home. | Do as at your place. | | N | Formal: "Faites comme chez vous."
+On se fait la bise ? | Shall we greet with a kiss on the cheek? | We make ourselves the kiss? | | N | The number of kisses depends on the region: usually two.
+C'est gentil ! | That's kind of you! | It's kind! | | N
+Tu es très gentil(le). | You're very kind. | | T'es trop gentil. | N
+Ça te va très bien. | It looks great on you. | That goes to you very well. | | N
+Bravo ! | Well done! | | | N
+Je suis content(e) pour toi. | I'm happy for you. | | | N
+Je suis fier (fière) de toi. | I'm proud of you. | | | N
+Ça me touche beaucoup. | That really touches me. | | | N
+Ça doit être dur. | That must be hard. | | | N
+Je suis là si tu as besoin. | I'm here if you need anything. | I am there if you have need. | | N
+Toutes mes condoléances. | My condolences. | All my condolences. | | F
+Prends soin de toi. | Take care of yourself. | Take care of you. | | N
+Joyeux anniversaire ! | Happy birthday! | | | N
+Bonne année ! | Happy New Year! | Good year! | | N | Said all through January.
+Bonnes vacances ! | Have a good holiday! | Good vacations! | | N
+C'était sympa de te voir. | It was nice to see you. | | | N
+On garde le contact ? | Shall we stay in touch? | We keep the contact? | | N
+Tu me plais. | I like you. / I'm attracted to you. | You please me. | | N | Romantic interest.
+Je t'aime. | I love you. | | | N | Real love only. "Je t'aime bien" = I like you (as a friend).
+
+@ 3 | debat | Discussing & disagreeing gracefully
+Je vois ce que tu veux dire, mais… | I see what you mean, but… | | | N
+Tu n'as pas tort. | You've got a point. | You don't have wrong. | T'as pas tort. | N
+C'est vrai, mais… | That's true, but… | | | N
+Pas tout à fait. | Not quite. | Not all at fact. | | N
+Je suis plutôt d'accord. | I mostly agree. | I am rather of agreement. | | N
+Je ne dirais pas ça. | I wouldn't say that. | | | N
+Ce n'est pas ce que je voulais dire. | That's not what I meant. | It's not what I wanted to say. | C'est pas c'que j'voulais dire. | N
+Ça n'a rien à voir. | That's got nothing to do with it. | That has nothing to see. | Ça a rien à voir. | N
+Le problème, c'est que… | The problem is… | | | N | Spoken French loves putting the topic up front. | Le / La + [nom], c'est que… | Le truc · L'idée · Le souci
+Le truc, c'est que… | The thing is… | | | Fam
+Ce qui est bien, c'est que… | What's good is that… | What is good, it's that… | | N
+D'un côté… de l'autre… | On one hand… on the other… | From one side… from the other… | | N
+Franchement… | Honestly… / Frankly… | | | N
+Entre nous… | Between you and me… | Between us… | | N
+Tu plaisantes ? | Are you kidding? | You joke? | | N
+Bonne question ! | Good question! | | | N
+Aucune idée. | No idea. | | | N
+Ça me fait penser à… | That makes me think of… | | | N
+Comme tu veux. | As you like. / Up to you. | As you want. | | N
+Si tu veux. | If you like. / I guess. | If you want. | | N | Can sound reluctant: "fine, if you insist".
+C'est à toi de voir. | It's up to you. | It's to you to see. | | N
