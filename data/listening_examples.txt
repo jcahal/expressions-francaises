@@ -5,7 +5,6 @@
 #
 # Format: phrase exactly as in phrases.txt | example sentence | English
 
-Ça veut dire quoi, « … » ? | Ça veut dire quoi, « la flemme » ? | What does "la flemme" mean?
 Comment on dit « … » en français ? | Comment on dit « bottle opener » en français ? | How do you say "bottle opener" in French?
 Je cherche le mot… | Je cherche le mot… euh… le truc pour ouvrir les bouteilles. | I'm looking for the word… um… the thing for opening bottles.
 C'est comme… | C'est comme un croissant, mais avec du chocolat. | It's like a croissant, but with chocolate.
@@ -41,11 +40,11 @@ On peut… ? | On peut s'asseoir ici ? | Can we sit here?
 Je pense que… | Je pense que c'est une bonne idée. | I think it's a good idea.
 Je crois que… | Je crois que c'est fermé le lundi. | I think it's closed on Mondays.
 Je n'ai jamais… | Je n'ai jamais mangé d'escargots. | I've never eaten snails.
-Je n'ai plus… | Je n'ai plus de batterie. | My battery's dead.
+Je n'ai plus… | Je n'ai plus d'argent liquide. | I'm out of cash.
 Ça fait… que… | Ça fait trois mois que j'apprends le français. | I've been learning French for three months.
 Depuis combien de temps… ? | Depuis combien de temps tu habites ici ? | How long have you lived here?
 Où est… ? | Excusez-moi, où est la gare ? | Excuse me, where's the train station?
-Vous avez… ? | Vous avez une table pour deux ? | Do you have a table for two?
+Vous avez… ? | Vous avez du wifi ici ? | Do you have wifi here?
 C'est possible de… ? | C'est possible de réserver pour demain soir ? | Is it possible to book for tomorrow night?
 Ça vous dérange si… ? | Ça vous dérange si j'ouvre la fenêtre ? | Do you mind if I open the window?
 Du coup… | Du coup, on fait quoi ce soir ? | So, what are we doing tonight?
@@ -71,12 +70,10 @@ Pour aller à… ? | Pardon, pour aller à la gare, s'il vous plaît ? | Excuse 
 En face de… | C'est juste en face de la boulangerie. | It's right across from the bakery.
 Ce bus va à… ? | Ce bus va au centre-ville ? | Does this bus go downtown?
 D'habitude… | D'habitude, je me lève à sept heures. | I usually get up at seven.
-J'ai une réservation au nom de… | J'ai une réservation au nom de Dupont, pour trois nuits. | I have a reservation under Dupont, for three nights.
 Vous avez quelque chose contre… ? | Vous avez quelque chose contre le mal de tête ? | Do you have something for a headache?
 Je pourrais parler à… ? | Bonjour, je pourrais parler à Madame Leroy ? | Hello, could I speak to Ms. Leroy?
 D'abord… | D'abord, on a pris un café. | First, we had a coffee.
 Ensuite… | Ensuite, on est allés au musée. | Then we went to the museum.
-Après ça… | Après ça, on est rentrés à pied. | After that, we walked home.
 Tout à coup… | Tout à coup, il s'est mis à pleuvoir. | Suddenly, it started to rain.
 Au début… | Au début, je ne comprenais rien. | At first, I didn't understand a thing.
 Au bout d'un moment… | Au bout d'un moment, on s'est perdus. | After a while, we got lost.
@@ -112,9 +109,7 @@ J'ai du mal à… | J'ai du mal à comprendre quand ils parlent vite. | I strugg
 Je vois ce que tu veux dire, mais… | Je vois ce que tu veux dire, mais je ne suis pas d'accord. | I see what you mean, but I don't agree.
 C'est vrai, mais… | C'est vrai, mais c'est quand même cher. | That's true, but it's still expensive.
 Le problème, c'est que… | Le problème, c'est qu'on n'a pas de voiture. | The problem is, we don't have a car.
-Le truc, c'est que… | Le truc, c'est que je travaille demain. | The thing is, I'm working tomorrow.
 Ce qui est bien, c'est que… | Ce qui est bien, c'est que tout est à pied. | What's good is that everything's within walking distance.
 D'un côté… de l'autre… | D'un côté c'est pratique, de l'autre c'est bruyant. | On one hand it's convenient, on the other it's noisy.
 Franchement… | Franchement, c'était génial ! | Honestly, it was great!
 Entre nous… | Entre nous, je ne l'aime pas beaucoup. | Between you and me, I don't like him much.
-Ça me fait penser à… | Ça me fait penser à un film que j'ai vu. | That makes me think of a film I saw.

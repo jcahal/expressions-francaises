@@ -53,7 +53,6 @@ Non merci, ça ira. | No thanks, I'm fine. | No thanks, it will go. | | N | A po
 Excusez-moi. | Excuse me. | | | N | To get someone's attention or squeeze past. Casual: "Excuse-moi."
 Pardon. | Sorry. / Pardon me. / Sorry, what? | | | N | When you bump into someone, need to get by, or didn't hear.
 Désolé(e). | Sorry. | | | N | A real apology. Stronger: "Je suis vraiment désolé(e)."
-Je suis vraiment désolé(e). | I'm really sorry. | | Chuis vraiment désolé. | N | "Je suis" squashes into "chuis" in fast speech.
 Ce n'est pas grave. | It's no big deal. / Don't worry about it. | It's not serious. | C'est pas grave. | N | The universal reply to an apology. Spoken French drops "ne" almost always.
 Pas de souci. | No worries. | No worry. | | N | Everywhere. Also "Pas de problème" and "Aucun souci".
 Après vous. | After you. | | | N | Holding a door. Casual: "Après toi."
@@ -71,7 +70,6 @@ Vous pouvez répéter, s'il vous plaît ? | Could you repeat that, please? | You
 Vous pouvez parler plus lentement ? | Could you speak more slowly? | You can speak more slowly? | | N | The most useful request a learner can make. | Vous pouvez + [infinitif] ? | répéter · parler plus fort · l'écrire · me montrer
 Comment ? | Sorry? / Pardon? | How? | | N | The polite "what?" when you didn't hear. "Quoi ?" is blunt.
 Qu'est-ce que ça veut dire ? | What does that mean? | What is it that that wants to say? | | N | "Vouloir dire" = to mean.
-Ça veut dire quoi, « … » ? | What does "…" mean? | That wants to say what? | | Fam | Spoken French puts the question word at the end.
 Comment on dit « … » en français ? | How do you say "…" in French? | How does one say…? | | N | Your lifeline. Use it constantly.
 Comment ça s'écrit ? | How do you spell that? | How does that write itself? | | N
 Je parle un peu français. | I speak a little French. | | | N
@@ -86,7 +84,6 @@ Un instant, s'il vous plaît. | One moment, please. | | | N
 Euh… | Um… | | | N | The French hesitation sound. Use it instead of English "um" and you'll sound far more native.
 Comment dire… | How can I put it… | How to say… | | N | A classic thinking filler.
 C'est-à-dire ? | Meaning? / What do you mean? | That is to say? | | N | Asks someone to explain or expand.
-Pardon, j'ai pas entendu. | Sorry, I didn't hear. | Sorry, I have not heard. | | Fam
 
 @ 1 | presentation | Introducing yourself
 Je m'appelle… | My name is… | I call myself… | | N
@@ -147,7 +144,6 @@ C'est quand ? | When is it? | It's when? | | N
 Pourquoi ? | Why? | | | N | Answer with "Parce que…" (because…).
 Comment ça marche ? | How does it work? | How does that walk? | | N | "Marcher" = to work, to function: "Ça marche pas" = it's not working.
 Qu'est-ce que c'est ? | What is it? / What's this? | What is it that it is? | C'est quoi ? | N
-C'est quoi, ça ? | What's that? | It's what, that? | | Fam
 C'est qui ? | Who is it? | It's who? | | Fam | Formal: "Qui est-ce ?"
 Lequel ? | Which one? | | | N | Agrees with the noun: le livre → lequel, la table → laquelle, plural lesquels / lesquelles.
 Tu fais quoi ? | What are you doing? | You do what? | | Fam | Formal: "Qu'est-ce que vous faites ?"
@@ -338,7 +334,6 @@ C'est noté ! | Got it! / Noted! | It's noted! | | N
 Rappelle-moi. | Call me back. / Remind me. | Recall me. | | N | Both meanings; context decides.
 
 @ 2 | logement | Hotel & accommodation
-J'ai une réservation au nom de… | I have a reservation under the name… | | | N
 Vous avez une chambre pour ce soir ? | Do you have a room for tonight? | | | N
 Pour combien de nuits ? | For how many nights? | | | N | What reception will ask you.
 Le petit-déjeuner est compris ? | Is breakfast included? | The little lunch is included? | | N
@@ -401,7 +396,6 @@ MDR | LOL | Mort de rire (dead from laughing) | | A | In texts only.
 @ 3 | recit | Telling stories: connectors
 D'abord… | First… | | | N
 Ensuite… | Then… / Next… | | | N | Also "Puis…"
-Après ça… | After that… | | | N
 Tout à coup… | Suddenly… | All at blow… | | N | Also "Soudain…"
 Au début… | At first… | At the start… | | N
 Au bout d'un moment… | After a while… | At the end of a moment… | | N
@@ -466,7 +460,6 @@ Tu as l'air fatigué(e). | You look tired. | You have the air tired. | T'as l'ai
 C'est comme ça. | That's just how it is. | It's like that. | | N
 On fait avec. | We make do. | One does with. | | N
 Je n'y peux rien. | There's nothing I can do about it. | I can nothing there. | J'y peux rien. | N
-Ça ne fait rien. | It doesn't matter. | That does nothing. | Ça fait rien. | N
 Ça ne sert à rien. | It's pointless. | That serves for nothing. | Ça sert à rien. | N | | Ça ne sert à rien de + [infinitif] | s'énerver · attendre · insister
 Il vaut mieux… | It's better to… / You'd better… | It is worth better… | Vaut mieux… | N | | Il vaut mieux + [infinitif] | réserver · partir tôt · ne rien dire
 J'ai du mal à… | I struggle to… / I have trouble… | I have difficulty at… | | N | | J'ai du mal à + [infinitif] | comprendre · dormir · me lever
@@ -526,7 +519,6 @@ Je ne dirais pas ça. | I wouldn't say that. | | | N
 Ce n'est pas ce que je voulais dire. | That's not what I meant. | It's not what I wanted to say. | C'est pas c'que j'voulais dire. | N
 Ça n'a rien à voir. | That's got nothing to do with it. | That has nothing to see. | Ça a rien à voir. | N
 Le problème, c'est que… | The problem is… | | | N | Spoken French loves putting the topic up front. | Le / La + [nom], c'est que… | Le truc · L'idée · Le souci
-Le truc, c'est que… | The thing is… | | | Fam
 Ce qui est bien, c'est que… | What's good is that… | What is good, it's that… | | N
 D'un côté… de l'autre… | On one hand… on the other… | From one side… from the other… | | N
 Franchement… | Honestly… / Frankly… | | | N
@@ -534,7 +526,6 @@ Entre nous… | Between you and me… | Between us… | | N
 Tu plaisantes ? | Are you kidding? | You joke? | | N
 Bonne question ! | Good question! | | | N
 Aucune idée. | No idea. | | | N
-Ça me fait penser à… | That makes me think of… | | | N
 Comme tu veux. | As you like. / Up to you. | As you want. | | N
 Si tu veux. | If you like. / I guess. | If you want. | | N | Can sound reluctant: "fine, if you insist".
 C'est à toi de voir. | It's up to you. | It's to you to see. | | N
