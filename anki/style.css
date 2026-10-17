@@ -114,14 +114,26 @@ hr#answer { border: none; border-top: 1px solid var(--line); margin: 26px auto; 
   .row { grid-template-columns: 1fr; gap: 2px; }
 }
 
-/* Listening cards: a large play button and a slower replay. */
-.listen { display: flex; justify-content: center; align-items: flex-end; gap: 28px; margin-top: 18px; }
-.listen-btn { display: flex; flex-direction: column; align-items: center; gap: 6px; }
-.listen-btn span { font-size: 13px; color: var(--muted); font-weight: 600; letter-spacing: .04em; text-transform: uppercase; }
+/* Listening cards: a male and a female voice, each with a normal and a slow replay. */
+.voices { display: flex; justify-content: center; gap: 22px; flex-wrap: wrap; margin-top: 18px; }
+.voice {
+  display: flex; flex-direction: column; align-items: center; gap: 10px;
+  background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 14px 22px 12px;
+}
+.voice-name { font-size: 12px; color: var(--muted); font-weight: 600; letter-spacing: .05em; text-transform: uppercase; }
+.listen { display: flex; justify-content: center; align-items: flex-end; gap: 18px; }
+.listen-btn { display: flex; flex-direction: column; align-items: center; gap: 4px; }
+.listen-btn span { font-size: 12px; color: var(--muted); font-weight: 600; }
 .listen-btn .replay-button svg { display: block; }
-.listen-normal .replay-button svg { width: 96px; height: 96px; }
-.listen-slow .replay-button svg { width: 56px; height: 56px; }
+.listen-normal .replay-button svg { width: 72px; height: 72px; }
+.listen-slow .replay-button svg { width: 44px; height: 44px; }
 .listen-btn .replay-button svg circle { fill: var(--accent); }
 .listen-slow .replay-button svg circle { fill: var(--muted); }
 .listen-btn .replay-button svg path { fill: #fff; stroke: none; }
 .listen-en { margin-top: 10px; color: var(--muted); }
+.built-on {
+  max-width: 560px; margin: 18px auto 0; display: flex; flex-wrap: wrap; gap: 4px 12px;
+  align-items: baseline; justify-content: center;
+}
+.bo-fr { font-family: ui-serif, Georgia, serif; font-size: 20px; font-weight: 600; }
+.bo-en { color: var(--muted); }

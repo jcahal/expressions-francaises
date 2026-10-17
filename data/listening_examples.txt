@@ -1,0 +1,120 @@
+# Full sentences for the listening deck.
+#
+# Phrases that end in "…" are fragments: fine to learn, but useless to listen to.
+# For those, the listening card plays the complete sentence below instead.
+#
+# Format: phrase exactly as in phrases.txt | example sentence | English
+
+Ça veut dire quoi, « … » ? | Ça veut dire quoi, « la flemme » ? | What does "la flemme" mean?
+Comment on dit « … » en français ? | Comment on dit « bottle opener » en français ? | How do you say "bottle opener" in French?
+Je cherche le mot… | Je cherche le mot… euh… le truc pour ouvrir les bouteilles. | I'm looking for the word… um… the thing for opening bottles.
+C'est comme… | C'est comme un croissant, mais avec du chocolat. | It's like a croissant, but with chocolate.
+Vous voulez dire… ? | Vous voulez dire la gare de Lyon ? | You mean the Gare de Lyon?
+Euh… | Euh… je sais pas trop, en fait. | Um… I'm not really sure, actually.
+Comment dire… | C'est… comment dire… un peu compliqué. | It's… how can I put it… a bit complicated.
+Je m'appelle… | Bonjour, je m'appelle Alex. Et vous ? | Hello, my name's Alex. And you?
+J'habite à… | J'habite à Lyon depuis deux ans. | I've lived in Lyon for two years.
+Je travaille dans… | Je travaille dans l'informatique. | I work in IT.
+Je suis ici pour… | Je suis ici pour le travail, pas pour les vacances. | I'm here for work, not on vacation.
+Je te présente… | Je te présente Julie, une amie du boulot. | This is Julie, a friend from work.
+Je voudrais… | Je voudrais un café, s'il vous plaît. | I'd like an espresso, please.
+J'aimerais… | J'aimerais visiter Lyon un jour. | I'd love to visit Lyon one day.
+Est-ce que je peux… ? | Est-ce que je peux payer par carte ? | Can I pay by card?
+Vous pouvez… ? | Vous pouvez m'aider, s'il vous plaît ? | Could you help me, please?
+Il y a… | Il y a un problème avec ma chambre. | There's a problem with my room.
+Il n'y a pas de… | Il n'y a pas de réseau ici. | There's no signal here.
+C'est… | C'est vraiment bon, ça ! | That's really good!
+Ce n'est pas… | Ce n'est pas loin, c'est à cinq minutes. | It's not far, it's five minutes away.
+J'ai besoin de… | J'ai besoin d'aide, s'il vous plaît. | I need help, please.
+Je dois… | Je dois partir, j'ai un train à prendre. | I have to go, I've got a train to catch.
+Il faut… | Il faut réserver à l'avance. | You have to book in advance.
+Je vais… | Je vais manger avec des amis ce soir. | I'm going to eat with friends tonight.
+Je viens de… | Je viens d'arriver à Paris. | I've just arrived in Paris.
+Je veux… | Je veux rentrer, je suis fatigué. | I want to go home, I'm tired.
+Je connais… | Je connais un bon resto pas loin d'ici. | I know a good restaurant not far from here.
+J'aime bien… | J'aime bien ce quartier, il est calme. | I like this neighborhood, it's quiet.
+Je n'aime pas… | Je n'aime pas trop attendre. | I don't really like waiting.
+Je préfère… | Je préfère le thé, merci. | I prefer tea, thanks.
+J'ai envie de… | J'ai envie de sortir ce soir. | I feel like going out tonight.
+Ça te dit de… ? | Ça te dit d'aller au ciné ce soir ? | Do you feel like going to the movies tonight?
+On peut… ? | On peut s'asseoir ici ? | Can we sit here?
+Je pense que… | Je pense que c'est une bonne idée. | I think it's a good idea.
+Je crois que… | Je crois que c'est fermé le lundi. | I think it's closed on Mondays.
+Je n'ai jamais… | Je n'ai jamais mangé d'escargots. | I've never eaten snails.
+Je n'ai plus… | Je n'ai plus de batterie. | My battery's dead.
+Ça fait… que… | Ça fait trois mois que j'apprends le français. | I've been learning French for three months.
+Depuis combien de temps… ? | Depuis combien de temps tu habites ici ? | How long have you lived here?
+Où est… ? | Excusez-moi, où est la gare ? | Excuse me, where's the train station?
+Vous avez… ? | Vous avez une table pour deux ? | Do you have a table for two?
+C'est possible de… ? | C'est possible de réserver pour demain soir ? | Is it possible to book for tomorrow night?
+Ça vous dérange si… ? | Ça vous dérange si j'ouvre la fenêtre ? | Do you mind if I open the window?
+Du coup… | Du coup, on fait quoi ce soir ? | So, what are we doing tonight?
+En fait… | En fait, je ne suis pas d'ici. | Actually, I'm not from here.
+Genre… | Il était genre super énervé. | He was like, super annoyed.
+Enfin… | Il est sympa… enfin, la plupart du temps. | He's nice… well, most of the time.
+Bon… | Bon, on y va ? | Right, shall we go?
+Ben… | Ben oui, évidemment ! | Well yes, obviously!
+Alors… | Alors, c'était comment, ton week-end ? | So, how was your weekend?
+J'ai mal à… | J'ai mal à la tête depuis ce matin. | I've had a headache since this morning.
+À mon avis… | À mon avis, c'est trop cher. | In my opinion, it's too expensive.
+Pour moi… | Pour moi, c'est le meilleur film de l'année. | For me, it's the best film of the year.
+Je trouve que… | Je trouve que c'est un peu cher. | I think it's a bit expensive.
+J'ai réservé au nom de… | Bonsoir, j'ai réservé au nom de Martin. | Good evening, I have a reservation under Martin.
+Je vais prendre… | Je vais prendre le plat du jour, s'il vous plaît. | I'll have the dish of the day, please.
+Pour moi, ce sera… | Pour moi, ce sera un verre de vin rouge. | For me, it'll be a glass of red wine.
+Je suis allergique à… | Je suis allergique aux arachides. | I'm allergic to peanuts.
+Sans…, s'il vous plaît. | Sans oignons, s'il vous plaît. | No onions, please.
+Je cherche… | Je cherche une pharmacie. | I'm looking for a pharmacy.
+Vous l'avez en… ? | Vous l'avez en plus grand ? | Do you have it in a bigger size?
+Je voudrais deux cents grammes de… | Je voudrais deux cents grammes de comté, s'il vous plaît. | I'd like two hundred grams of comté, please.
+Pour aller à… ? | Pardon, pour aller à la gare, s'il vous plaît ? | Excuse me, how do I get to the station, please?
+En face de… | C'est juste en face de la boulangerie. | It's right across from the bakery.
+Ce bus va à… ? | Ce bus va au centre-ville ? | Does this bus go downtown?
+D'habitude… | D'habitude, je me lève à sept heures. | I usually get up at seven.
+J'ai une réservation au nom de… | J'ai une réservation au nom de Dupont, pour trois nuits. | I have a reservation under Dupont, for three nights.
+Vous avez quelque chose contre… ? | Vous avez quelque chose contre le mal de tête ? | Do you have something for a headache?
+Je pourrais parler à… ? | Bonjour, je pourrais parler à Madame Leroy ? | Hello, could I speak to Ms. Leroy?
+D'abord… | D'abord, on a pris un café. | First, we had a coffee.
+Ensuite… | Ensuite, on est allés au musée. | Then we went to the museum.
+Après ça… | Après ça, on est rentrés à pied. | After that, we walked home.
+Tout à coup… | Tout à coup, il s'est mis à pleuvoir. | Suddenly, it started to rain.
+Au début… | Au début, je ne comprenais rien. | At first, I didn't understand a thing.
+Au bout d'un moment… | Au bout d'un moment, on s'est perdus. | After a while, we got lost.
+Finalement… | Finalement, on est restés à la maison. | In the end, we stayed home.
+Pendant que… | Pendant que tu cuisines, je mets la table. | While you cook, I'll set the table.
+Quand j'étais petit(e)… | Quand j'étais petit, je passais l'été chez ma grand-mère. | When I was little, I spent summers at my grandmother's.
+Et là… | Et là, il me regarde et il dit : « C'est moi ! » | And then he looks at me and says: "It's me!"
+Il m'a dit que… | Il m'a dit que c'était fermé. | He told me it was closed.
+Figure-toi que… | Figure-toi que j'ai croisé ton frère au marché ! | Guess what, I ran into your brother at the market!
+Par contre… | C'est joli, par contre c'est un peu cher. | It's pretty; on the other hand, it's a bit expensive.
+Pourtant… | Il est riche, et pourtant il n'est pas heureux. | He's rich, and yet he's not happy.
+Sinon… | Sinon, ça va, le boulot ? | Apart from that, how's work?
+En tout cas… | En tout cas, merci pour tout. | Anyway, thanks for everything.
+Au fait… | Au fait, tu as vu Marie hier ? | By the way, did you see Marie yesterday?
+D'ailleurs… | D'ailleurs, je voulais te demander quelque chose. | Come to think of it, I wanted to ask you something.
+Même si… | Je viens, même s'il pleut. | I'm coming, even if it rains.
+Grâce à… | J'ai trouvé l'hôtel grâce à toi. | I found the hotel thanks to you.
+Si j'étais toi… | Si j'étais toi, je partirais plus tôt. | If I were you, I'd leave earlier.
+Si j'avais le temps, je… | Si j'avais le temps, je voyagerais plus. | If I had time, I'd travel more.
+J'aurais dû… | J'aurais dû partir plus tôt. | I should have left earlier.
+Tu devrais… | Tu devrais te reposer un peu. | You should rest a bit.
+Je me demande si… | Je me demande s'il va venir. | I wonder if he's going to come.
+Ça me rappelle… | Ça me rappelle mes vacances en Bretagne. | That reminds me of my vacation in Brittany.
+Il paraît que… | Il paraît que ce restaurant est excellent. | Apparently this restaurant is excellent.
+En gros… | En gros, il faut tout recommencer. | Basically, we have to start all over.
+Si je comprends bien… | Si je comprends bien, le train est annulé ? | If I understand correctly, the train is cancelled?
+Ce que je veux dire, c'est que… | Ce que je veux dire, c'est qu'on n'a pas le temps. | What I mean is, we don't have time.
+Disons que… | Disons que ce n'est pas mon truc. | Let's just say it's not my thing.
+Au moins… | Au moins, il fait beau ! | At least the weather's nice!
+Plutôt… | C'est plutôt calme, ici. | It's pretty quiet here.
+Il vaut mieux… | Il vaut mieux réserver le week-end. | You'd better book on weekends.
+J'ai du mal à… | J'ai du mal à comprendre quand ils parlent vite. | I struggle to understand when they talk fast.
+Je vois ce que tu veux dire, mais… | Je vois ce que tu veux dire, mais je ne suis pas d'accord. | I see what you mean, but I don't agree.
+C'est vrai, mais… | C'est vrai, mais c'est quand même cher. | That's true, but it's still expensive.
+Le problème, c'est que… | Le problème, c'est qu'on n'a pas de voiture. | The problem is, we don't have a car.
+Le truc, c'est que… | Le truc, c'est que je travaille demain. | The thing is, I'm working tomorrow.
+Ce qui est bien, c'est que… | Ce qui est bien, c'est que tout est à pied. | What's good is that everything's within walking distance.
+D'un côté… de l'autre… | D'un côté c'est pratique, de l'autre c'est bruyant. | On one hand it's convenient, on the other it's noisy.
+Franchement… | Franchement, c'était génial ! | Honestly, it was great!
+Entre nous… | Entre nous, je ne l'aime pas beaucoup. | Between you and me, I don't like him much.
+Ça me fait penser à… | Ça me fait penser à un film que j'ai vu. | That makes me think of a film I saw.

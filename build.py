@@ -30,6 +30,9 @@ TIER_NAMES = {
 # Fixed IDs so re-importing a rebuilt deck updates cards instead of duplicating them.
 MODEL_ID = 1_712_204_617
 DECK_IDS = {"1": 2_059_400_111, "2": 2_059_400_112, "3": 2_059_400_113}
+LISTEN_MODEL_ID = 1_712_204_618
+LISTEN_DECK_ID = 2_059_400_200
+LISTEN_DECK_NAME = "Expressions françaises — Écoute (listening)"
 
 FIELDS = ["French", "English", "Literal", "Spoken", "Register", "Notes",
           "Pattern", "Swaps", "Theme", "Tier", "Speak"]
@@ -88,6 +91,7 @@ def parse(path: Path):
 def template(name: str) -> str:
     html = (TEMPLATES / f"{name}.html").read_text(encoding="utf-8")
     html = html.replace("%%META%%", (TEMPLATES / "meta.html").read_text(encoding="utf-8"))
+    html = html.replace("%%VOICES%%", (TEMPLATES / "listen_voices.html").read_text(encoding="utf-8"))
     return html.replace("%%DETAILS%%", (TEMPLATES / "details.html").read_text(encoding="utf-8"))
 
 
@@ -107,8 +111,70 @@ def build_model() -> genanki.Model:
     )
 
 
+def build_listening(phrases, out: Path):
+    """The listening deck: one card per phrase, audio only on the front."""
+    import audio
+
+    examples = {}
+    for n, raw in enumerate((ROOT / "data" / "listening_examples.txt").read_text(encoding="utf-8").splitlines(), 1):
+        if raw.strip() and not raw.startswith("#"):
+            key, fr, en = [x.strip() for x in raw.split("|")]
+            examples[key] = (fr, en)
+    known = {p["French"] for p in parse(DATA)}
+    unknown = [k for k in examples if k not in known]
+    missing = [p["French"] for p in phrases if "…" in p["French"] and p["French"] not in examples]
+    if unknown or missing:
+        sys.exit(f"listening_examples.txt: unknown phrases {unknown}, fragments without an example {missing}")
+
+    heard = []
+    for p in phrases:
+        fr, en = examples.get(p["French"], (p["French"], p["English"]))
+        built_on = p["French"] if p["French"] in examples else ""
+        heard.append(dict(p, Heard=fr, HeardEnglish=en, BuiltOn=built_on, Speak=speakable(fr)))
+    phrases = heard
+
+    media = audio.generate(phrases)
+    fields = FIELDS + ["Heard", "HeardEnglish", "BuiltOn"] + list(audio.VARIANTS)
+    model = genanki.Model(
+        LISTEN_MODEL_ID,
+        "Expressions françaises (listening)",
+        fields=[{"name": f} for f in fields],
+        templates=[{"name": "Listen (audio → FR + EN)",
+                    "qfmt": template("listen_front"), "afmt": template("listen_back")}],
+        css=(TEMPLATES / "style.css").read_text(encoding="utf-8"),
+        sort_field_index=0,
+    )
+    deck = genanki.Deck(LISTEN_DECK_ID, LISTEN_DECK_NAME)
+    files = []
+    for position, p in enumerate(phrases, 1):
+        sounds = media[p["French"]]
+        files += [audio.MEDIA / name for name in sounds.values()]
+        deck.add_note(genanki.Note(
+            model=model,
+            fields=[p[f] for f in fields[:len(FIELDS) + 3]] + [f"[sound:{sounds[f]}]" for f in audio.VARIANTS],
+            tags=[f"tier::{p['Tier']}", f"theme::{p['ThemeId']}", "listening"],
+            guid=genanki.guid_for("expressions-francaises-listening", p["French"]),
+            due=position,
+        ))
+    package = genanki.Package(deck)
+    package.media_files = [str(f) for f in files]
+    package.write_to_file(out)
+    print(f"{len(phrases)} listening cards, {len(files)} audio files")
+    print(f"wrote {out}")
+
+
 def main():
     phrases = parse(DATA)
+    if "--listening-sample" in sys.argv:
+        french = sys.argv[sys.argv.index("--listening-sample") + 1]
+        DIST.mkdir(exist_ok=True)
+        build_listening([p for p in phrases if p["French"] == french], DIST / "Ecoute-sample.apkg")
+        return
+    if "--listening" in sys.argv:
+        DIST.mkdir(exist_ok=True)
+        build_listening(phrases, DIST / "Ecoute.apkg")
+        return
+
     model = build_model()
     decks = {t: genanki.Deck(DECK_IDS[t], f"{DECK_NAME}::{name}") for t, name in TIER_NAMES.items()}
 
