@@ -113,3 +113,15 @@ hr#answer { border: none; border-top: 1px solid var(--line); margin: 26px auto; 
   .english { font-size: 22px; }
   .row { grid-template-columns: 1fr; gap: 2px; }
 }
+
+/* Listening cards: a large play button and a slower replay. */
+.listen { display: flex; justify-content: center; align-items: flex-end; gap: 28px; margin-top: 18px; }
+.listen-btn { display: flex; flex-direction: column; align-items: center; gap: 6px; }
+.listen-btn span { font-size: 13px; color: var(--muted); font-weight: 600; letter-spacing: .04em; text-transform: uppercase; }
+.listen-btn .replay-button svg { display: block; }
+.listen-normal .replay-button svg { width: 96px; height: 96px; }
+.listen-slow .replay-button svg { width: 56px; height: 56px; }
+.listen-btn .replay-button svg circle { fill: var(--accent); }
+.listen-slow .replay-button svg circle { fill: var(--muted); }
+.listen-btn .replay-button svg path { fill: #fff; stroke: none; }
+.listen-en { margin-top: 10px; color: var(--muted); }
