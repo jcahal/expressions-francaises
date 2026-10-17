@@ -11,6 +11,9 @@
   "Theme": "Greetings & goodbyes",
   "Tier": "1",
   "ThemeId": "salutations",
+  "Heard": "Bonjour.",
+  "HeardEnglish": "Hello. / Good morning.",
+  "BuiltOn": "",
   "Speak": "Bonjour."
  },
  {
@@ -25,6 +28,9 @@
   "Theme": "Greetings & goodbyes",
   "Tier": "1",
   "ThemeId": "salutations",
+  "Heard": "Bonsoir.",
+  "HeardEnglish": "Good evening.",
+  "BuiltOn": "",
   "Speak": "Bonsoir."
  },
  {
@@ -39,6 +45,9 @@
   "Theme": "Greetings & goodbyes",
   "Tier": "1",
   "ThemeId": "salutations",
+  "Heard": "Salut !",
+  "HeardEnglish": "Hi! / Bye!",
+  "BuiltOn": "",
   "Speak": "Salut !"
  },
  {
@@ -53,6 +62,9 @@
   "Theme": "Greetings & goodbyes",
   "Tier": "1",
   "ThemeId": "salutations",
+  "Heard": "Coucou !",
+  "HeardEnglish": "Hey there!",
+  "BuiltOn": "",
   "Speak": "Coucou !"
  },
  {
@@ -67,6 +79,9 @@
   "Theme": "Greetings & goodbyes",
   "Tier": "1",
   "ThemeId": "salutations",
+  "Heard": "Comment allez-vous ?",
+  "HeardEnglish": "How are you?",
+  "BuiltOn": "",
   "Speak": "Comment allez-vous ?"
  },
  {
@@ -81,6 +96,9 @@
   "Theme": "Greetings & goodbyes",
   "Tier": "1",
   "ThemeId": "salutations",
+  "Heard": "Comment ça va ?",
+  "HeardEnglish": "How's it going?",
+  "BuiltOn": "",
   "Speak": "Comment ça va ?"
  },
  {
@@ -95,6 +113,9 @@
   "Theme": "Greetings & goodbyes",
   "Tier": "1",
   "ThemeId": "salutations",
+  "Heard": "Ça va ? — Ça va, et toi ?",
+  "HeardEnglish": "You OK? — Good, and you?",
+  "BuiltOn": "",
   "Speak": "Ça va ? Ça va, et toi ?"
  },
  {
@@ -109,6 +130,9 @@
   "Theme": "Greetings & goodbyes",
   "Tier": "1",
   "ThemeId": "salutations",
+  "Heard": "Ça va bien, merci.",
+  "HeardEnglish": "I'm doing well, thanks.",
+  "BuiltOn": "",
   "Speak": "Ça va bien, merci."
  },
  {
@@ -123,6 +147,9 @@
   "Theme": "Greetings & goodbyes",
   "Tier": "1",
   "ThemeId": "salutations",
+  "Heard": "Pas mal, et vous ?",
+  "HeardEnglish": "Not bad, and you?",
+  "BuiltOn": "",
   "Speak": "Pas mal, et vous ?"
  },
  {
@@ -137,6 +164,9 @@
   "Theme": "Greetings & goodbyes",
   "Tier": "1",
   "ThemeId": "salutations",
+  "Heard": "Enchanté(e).",
+  "HeardEnglish": "Nice to meet you.",
+  "BuiltOn": "",
   "Speak": "Enchanté."
  },
  {
@@ -151,6 +181,9 @@
   "Theme": "Greetings & goodbyes",
   "Tier": "1",
   "ThemeId": "salutations",
+  "Heard": "Ça fait longtemps !",
+  "HeardEnglish": "Long time no see!",
+  "BuiltOn": "",
   "Speak": "Ça fait longtemps !"
  },
  {
@@ -165,6 +198,9 @@
   "Theme": "Greetings & goodbyes",
   "Tier": "1",
   "ThemeId": "salutations",
+  "Heard": "Quoi de neuf ?",
+  "HeardEnglish": "What's new?",
+  "BuiltOn": "",
   "Speak": "Quoi de neuf ?"
  },
  {
@@ -179,6 +215,9 @@
   "Theme": "Greetings & goodbyes",
   "Tier": "1",
   "ThemeId": "salutations",
+  "Heard": "Pas grand-chose.",
+  "HeardEnglish": "Not much.",
+  "BuiltOn": "",
   "Speak": "Pas grand-chose."
  },
  {
@@ -193,6 +232,9 @@
   "Theme": "Greetings & goodbyes",
   "Tier": "1",
   "ThemeId": "salutations",
+  "Heard": "Au revoir.",
+  "HeardEnglish": "Goodbye.",
+  "BuiltOn": "",
   "Speak": "Au revoir."
  },
  {
@@ -207,6 +249,9 @@
   "Theme": "Greetings & goodbyes",
   "Tier": "1",
   "ThemeId": "salutations",
+  "Heard": "Bonne journée !",
+  "HeardEnglish": "Have a nice day!",
+  "BuiltOn": "",
   "Speak": "Bonne journée !"
  },
  {
@@ -221,6 +266,9 @@
   "Theme": "Greetings & goodbyes",
   "Tier": "1",
   "ThemeId": "salutations",
+  "Heard": "Bonne soirée !",
+  "HeardEnglish": "Have a good evening!",
+  "BuiltOn": "",
   "Speak": "Bonne soirée !"
  },
  {
@@ -235,6 +283,9 @@
   "Theme": "Greetings & goodbyes",
   "Tier": "1",
   "ThemeId": "salutations",
+  "Heard": "Merci, vous aussi !",
+  "HeardEnglish": "Thanks, you too!",
+  "BuiltOn": "",
   "Speak": "Merci, vous aussi !"
  },
  {
@@ -249,6 +300,9 @@
   "Theme": "Greetings & goodbyes",
   "Tier": "1",
   "ThemeId": "salutations",
+  "Heard": "À plus tard !",
+  "HeardEnglish": "See you later!",
+  "BuiltOn": "",
   "Speak": "À plus tard !"
  },
  {
@@ -263,6 +317,9 @@
   "Theme": "Greetings & goodbyes",
   "Tier": "1",
   "ThemeId": "salutations",
+  "Heard": "À tout à l'heure !",
+  "HeardEnglish": "See you in a bit!",
+  "BuiltOn": "",
   "Speak": "À tout à l'heure !"
  },
  {
@@ -277,6 +334,9 @@
   "Theme": "Greetings & goodbyes",
   "Tier": "1",
   "ThemeId": "salutations",
+  "Heard": "À bientôt !",
+  "HeardEnglish": "See you soon!",
+  "BuiltOn": "",
   "Speak": "À bientôt !"
  },
  {
@@ -291,6 +351,9 @@
   "Theme": "Greetings & goodbyes",
   "Tier": "1",
   "ThemeId": "salutations",
+  "Heard": "À demain !",
+  "HeardEnglish": "See you tomorrow!",
+  "BuiltOn": "",
   "Speak": "À demain !"
  },
  {
@@ -305,6 +368,9 @@
   "Theme": "Greetings & goodbyes",
   "Tier": "1",
   "ThemeId": "salutations",
+  "Heard": "Bon week-end !",
+  "HeardEnglish": "Have a good weekend!",
+  "BuiltOn": "",
   "Speak": "Bon week-end !"
  },
  {
@@ -319,6 +385,9 @@
   "Theme": "Greetings & goodbyes",
   "Tier": "1",
   "ThemeId": "salutations",
+  "Heard": "Bonne nuit.",
+  "HeardEnglish": "Good night.",
+  "BuiltOn": "",
   "Speak": "Bonne nuit."
  },
  {
@@ -333,6 +402,9 @@
   "Theme": "Politeness & social glue",
   "Tier": "1",
   "ThemeId": "politesse",
+  "Heard": "S'il vous plaît.",
+  "HeardEnglish": "Please.",
+  "BuiltOn": "",
   "Speak": "S'il vous plaît."
  },
  {
@@ -347,6 +419,9 @@
   "Theme": "Politeness & social glue",
   "Tier": "1",
   "ThemeId": "politesse",
+  "Heard": "S'il te plaît.",
+  "HeardEnglish": "Please. (casual)",
+  "BuiltOn": "",
   "Speak": "S'il te plaît."
  },
  {
@@ -361,6 +436,9 @@
   "Theme": "Politeness & social glue",
   "Tier": "1",
   "ThemeId": "politesse",
+  "Heard": "Merci beaucoup.",
+  "HeardEnglish": "Thank you very much.",
+  "BuiltOn": "",
   "Speak": "Merci beaucoup."
  },
  {
@@ -375,6 +453,9 @@
   "Theme": "Politeness & social glue",
   "Tier": "1",
   "ThemeId": "politesse",
+  "Heard": "De rien.",
+  "HeardEnglish": "You're welcome.",
+  "BuiltOn": "",
   "Speak": "De rien."
  },
  {
@@ -389,6 +470,9 @@
   "Theme": "Politeness & social glue",
   "Tier": "1",
   "ThemeId": "politesse",
+  "Heard": "Il n'y a pas de quoi.",
+  "HeardEnglish": "Don't mention it.",
+  "BuiltOn": "",
   "Speak": "Il n'y a pas de quoi."
  },
  {
@@ -403,6 +487,9 @@
   "Theme": "Politeness & social glue",
   "Tier": "1",
   "ThemeId": "politesse",
+  "Heard": "Je vous en prie.",
+  "HeardEnglish": "You're welcome. / Please, go ahead.",
+  "BuiltOn": "",
   "Speak": "Je vous en prie."
  },
  {
@@ -417,6 +504,9 @@
   "Theme": "Politeness & social glue",
   "Tier": "1",
   "ThemeId": "politesse",
+  "Heard": "Avec plaisir.",
+  "HeardEnglish": "With pleasure. / My pleasure.",
+  "BuiltOn": "",
   "Speak": "Avec plaisir."
  },
  {
@@ -431,6 +521,9 @@
   "Theme": "Politeness & social glue",
   "Tier": "1",
   "ThemeId": "politesse",
+  "Heard": "Volontiers.",
+  "HeardEnglish": "Gladly. / I'd love to.",
+  "BuiltOn": "",
   "Speak": "Volontiers."
  },
  {
@@ -445,6 +538,9 @@
   "Theme": "Politeness & social glue",
   "Tier": "1",
   "ThemeId": "politesse",
+  "Heard": "Non merci, ça ira.",
+  "HeardEnglish": "No thanks, I'm fine.",
+  "BuiltOn": "",
   "Speak": "Non merci, ça ira."
  },
  {
@@ -459,6 +555,9 @@
   "Theme": "Politeness & social glue",
   "Tier": "1",
   "ThemeId": "politesse",
+  "Heard": "Excusez-moi.",
+  "HeardEnglish": "Excuse me.",
+  "BuiltOn": "",
   "Speak": "Excusez-moi."
  },
  {
@@ -473,6 +572,9 @@
   "Theme": "Politeness & social glue",
   "Tier": "1",
   "ThemeId": "politesse",
+  "Heard": "Pardon.",
+  "HeardEnglish": "Sorry. / Pardon me. / Sorry, what?",
+  "BuiltOn": "",
   "Speak": "Pardon."
  },
  {
@@ -487,21 +589,10 @@
   "Theme": "Politeness & social glue",
   "Tier": "1",
   "ThemeId": "politesse",
+  "Heard": "Désolé(e).",
+  "HeardEnglish": "Sorry.",
+  "BuiltOn": "",
   "Speak": "Désolé."
- },
- {
-  "French": "Je suis vraiment désolé(e).",
-  "English": "I'm really sorry.",
-  "Literal": "",
-  "Spoken": "Chuis vraiment désolé.",
-  "Register": "N",
-  "Notes": "\"Je suis\" squashes into \"chuis\" in fast speech.",
-  "Pattern": "",
-  "Swaps": "",
-  "Theme": "Politeness & social glue",
-  "Tier": "1",
-  "ThemeId": "politesse",
-  "Speak": "Je suis vraiment désolé."
  },
  {
   "French": "Ce n'est pas grave.",
@@ -515,6 +606,9 @@
   "Theme": "Politeness & social glue",
   "Tier": "1",
   "ThemeId": "politesse",
+  "Heard": "Ce n'est pas grave.",
+  "HeardEnglish": "It's no big deal. / Don't worry about it.",
+  "BuiltOn": "",
   "Speak": "Ce n'est pas grave."
  },
  {
@@ -529,6 +623,9 @@
   "Theme": "Politeness & social glue",
   "Tier": "1",
   "ThemeId": "politesse",
+  "Heard": "Pas de souci.",
+  "HeardEnglish": "No worries.",
+  "BuiltOn": "",
   "Speak": "Pas de souci."
  },
  {
@@ -543,6 +640,9 @@
   "Theme": "Politeness & social glue",
   "Tier": "1",
   "ThemeId": "politesse",
+  "Heard": "Après vous.",
+  "HeardEnglish": "After you.",
+  "BuiltOn": "",
   "Speak": "Après vous."
  },
  {
@@ -557,6 +657,9 @@
   "Theme": "Politeness & social glue",
   "Tier": "1",
   "ThemeId": "politesse",
+  "Heard": "Bon appétit !",
+  "HeardEnglish": "Enjoy your meal!",
+  "BuiltOn": "",
   "Speak": "Bon appétit !"
  },
  {
@@ -571,6 +674,9 @@
   "Theme": "Politeness & social glue",
   "Tier": "1",
   "ThemeId": "politesse",
+  "Heard": "Santé !",
+  "HeardEnglish": "Cheers!",
+  "BuiltOn": "",
   "Speak": "Santé !"
  },
  {
@@ -585,6 +691,9 @@
   "Theme": "Politeness & social glue",
   "Tier": "1",
   "ThemeId": "politesse",
+  "Heard": "Félicitations !",
+  "HeardEnglish": "Congratulations!",
+  "BuiltOn": "",
   "Speak": "Félicitations !"
  },
  {
@@ -599,6 +708,9 @@
   "Theme": "Politeness & social glue",
   "Tier": "1",
   "ThemeId": "politesse",
+  "Heard": "Bonne chance !",
+  "HeardEnglish": "Good luck!",
+  "BuiltOn": "",
   "Speak": "Bonne chance !"
  },
  {
@@ -613,6 +725,9 @@
   "Theme": "Politeness & social glue",
   "Tier": "1",
   "ThemeId": "politesse",
+  "Heard": "Bon courage !",
+  "HeardEnglish": "Hang in there! / Good luck with that!",
+  "BuiltOn": "",
   "Speak": "Bon courage !"
  },
  {
@@ -627,6 +742,9 @@
   "Theme": "Politeness & social glue",
   "Tier": "1",
   "ThemeId": "politesse",
+  "Heard": "À vos souhaits !",
+  "HeardEnglish": "Bless you!",
+  "BuiltOn": "",
   "Speak": "À vos souhaits !"
  },
  {
@@ -641,6 +759,9 @@
   "Theme": "Understanding & keeping the conversation going",
   "Tier": "1",
   "ThemeId": "comprendre",
+  "Heard": "Je ne comprends pas.",
+  "HeardEnglish": "I don't understand.",
+  "BuiltOn": "",
   "Speak": "Je ne comprends pas."
  },
  {
@@ -655,6 +776,9 @@
   "Theme": "Understanding & keeping the conversation going",
   "Tier": "1",
   "ThemeId": "comprendre",
+  "Heard": "Je n'ai pas compris.",
+  "HeardEnglish": "I didn't catch that.",
+  "BuiltOn": "",
   "Speak": "Je n'ai pas compris."
  },
  {
@@ -669,6 +793,9 @@
   "Theme": "Understanding & keeping the conversation going",
   "Tier": "1",
   "ThemeId": "comprendre",
+  "Heard": "Vous pouvez répéter, s'il vous plaît ?",
+  "HeardEnglish": "Could you repeat that, please?",
+  "BuiltOn": "",
   "Speak": "Vous pouvez répéter, s'il vous plaît ?"
  },
  {
@@ -683,6 +810,9 @@
   "Theme": "Understanding & keeping the conversation going",
   "Tier": "1",
   "ThemeId": "comprendre",
+  "Heard": "Vous pouvez parler plus lentement ?",
+  "HeardEnglish": "Could you speak more slowly?",
+  "BuiltOn": "",
   "Speak": "Vous pouvez parler plus lentement ?"
  },
  {
@@ -697,6 +827,9 @@
   "Theme": "Understanding & keeping the conversation going",
   "Tier": "1",
   "ThemeId": "comprendre",
+  "Heard": "Comment ?",
+  "HeardEnglish": "Sorry? / Pardon?",
+  "BuiltOn": "",
   "Speak": "Comment ?"
  },
  {
@@ -711,21 +844,10 @@
   "Theme": "Understanding & keeping the conversation going",
   "Tier": "1",
   "ThemeId": "comprendre",
+  "Heard": "Qu'est-ce que ça veut dire ?",
+  "HeardEnglish": "What does that mean?",
+  "BuiltOn": "",
   "Speak": "Qu'est-ce que ça veut dire ?"
- },
- {
-  "French": "Ça veut dire quoi, « … » ?",
-  "English": "What does \"…\" mean?",
-  "Literal": "That wants to say what?",
-  "Spoken": "",
-  "Register": "Fam",
-  "Notes": "Spoken French puts the question word at the end.",
-  "Pattern": "",
-  "Swaps": "",
-  "Theme": "Understanding & keeping the conversation going",
-  "Tier": "1",
-  "ThemeId": "comprendre",
-  "Speak": "Ça veut dire quoi ?"
  },
  {
   "French": "Comment on dit « … » en français ?",
@@ -739,7 +861,10 @@
   "Theme": "Understanding & keeping the conversation going",
   "Tier": "1",
   "ThemeId": "comprendre",
-  "Speak": "Comment on dit en français ?"
+  "Heard": "Comment on dit « bottle opener » en français ?",
+  "HeardEnglish": "How do you say \"bottle opener\" in French?",
+  "BuiltOn": "Comment on dit « … » en français ?",
+  "Speak": "Comment on dit bottle opener en français ?"
  },
  {
   "French": "Comment ça s'écrit ?",
@@ -753,6 +878,9 @@
   "Theme": "Understanding & keeping the conversation going",
   "Tier": "1",
   "ThemeId": "comprendre",
+  "Heard": "Comment ça s'écrit ?",
+  "HeardEnglish": "How do you spell that?",
+  "BuiltOn": "",
   "Speak": "Comment ça s'écrit ?"
  },
  {
@@ -767,6 +895,9 @@
   "Theme": "Understanding & keeping the conversation going",
   "Tier": "1",
   "ThemeId": "comprendre",
+  "Heard": "Je parle un peu français.",
+  "HeardEnglish": "I speak a little French.",
+  "BuiltOn": "",
   "Speak": "Je parle un peu français."
  },
  {
@@ -781,6 +912,9 @@
   "Theme": "Understanding & keeping the conversation going",
   "Tier": "1",
   "ThemeId": "comprendre",
+  "Heard": "J'apprends le français.",
+  "HeardEnglish": "I'm learning French.",
+  "BuiltOn": "",
   "Speak": "J'apprends le français."
  },
  {
@@ -795,6 +929,9 @@
   "Theme": "Understanding & keeping the conversation going",
   "Tier": "1",
   "ThemeId": "comprendre",
+  "Heard": "Vous parlez anglais ?",
+  "HeardEnglish": "Do you speak English?",
+  "BuiltOn": "",
   "Speak": "Vous parlez anglais ?"
  },
  {
@@ -809,7 +946,10 @@
   "Theme": "Understanding & keeping the conversation going",
   "Tier": "1",
   "ThemeId": "comprendre",
-  "Speak": "Je cherche le mot"
+  "Heard": "Je cherche le mot… euh… le truc pour ouvrir les bouteilles.",
+  "HeardEnglish": "I'm looking for the word… um… the thing for opening bottles.",
+  "BuiltOn": "Je cherche le mot…",
+  "Speak": "Je cherche le mot euh le truc pour ouvrir les bouteilles."
  },
  {
   "French": "C'est comme…",
@@ -823,7 +963,10 @@
   "Theme": "Understanding & keeping the conversation going",
   "Tier": "1",
   "ThemeId": "comprendre",
-  "Speak": "C'est comme"
+  "Heard": "C'est comme un croissant, mais avec du chocolat.",
+  "HeardEnglish": "It's like a croissant, but with chocolate.",
+  "BuiltOn": "C'est comme…",
+  "Speak": "C'est comme un croissant, mais avec du chocolat."
  },
  {
   "French": "Vous voulez dire… ?",
@@ -837,7 +980,10 @@
   "Theme": "Understanding & keeping the conversation going",
   "Tier": "1",
   "ThemeId": "comprendre",
-  "Speak": "Vous voulez dire ?"
+  "Heard": "Vous voulez dire la gare de Lyon ?",
+  "HeardEnglish": "You mean the Gare de Lyon?",
+  "BuiltOn": "Vous voulez dire… ?",
+  "Speak": "Vous voulez dire la gare de Lyon ?"
  },
  {
   "French": "D'accord, je vois.",
@@ -851,6 +997,9 @@
   "Theme": "Understanding & keeping the conversation going",
   "Tier": "1",
   "ThemeId": "comprendre",
+  "Heard": "D'accord, je vois.",
+  "HeardEnglish": "OK, I see.",
+  "BuiltOn": "",
   "Speak": "D'accord, je vois."
  },
  {
@@ -865,6 +1014,9 @@
   "Theme": "Understanding & keeping the conversation going",
   "Tier": "1",
   "ThemeId": "comprendre",
+  "Heard": "Attendez, je réfléchis.",
+  "HeardEnglish": "Hang on, let me think.",
+  "BuiltOn": "",
   "Speak": "Attendez, je réfléchis."
  },
  {
@@ -879,6 +1031,9 @@
   "Theme": "Understanding & keeping the conversation going",
   "Tier": "1",
   "ThemeId": "comprendre",
+  "Heard": "Un instant, s'il vous plaît.",
+  "HeardEnglish": "One moment, please.",
+  "BuiltOn": "",
   "Speak": "Un instant, s'il vous plaît."
  },
  {
@@ -893,7 +1048,10 @@
   "Theme": "Understanding & keeping the conversation going",
   "Tier": "1",
   "ThemeId": "comprendre",
-  "Speak": "Euh"
+  "Heard": "Euh… je sais pas trop, en fait.",
+  "HeardEnglish": "Um… I'm not really sure, actually.",
+  "BuiltOn": "Euh…",
+  "Speak": "Euh je sais pas trop, en fait."
  },
  {
   "French": "Comment dire…",
@@ -907,7 +1065,10 @@
   "Theme": "Understanding & keeping the conversation going",
   "Tier": "1",
   "ThemeId": "comprendre",
-  "Speak": "Comment dire"
+  "Heard": "C'est… comment dire… un peu compliqué.",
+  "HeardEnglish": "It's… how can I put it… a bit complicated.",
+  "BuiltOn": "Comment dire…",
+  "Speak": "C'est comment dire un peu compliqué."
  },
  {
   "French": "C'est-à-dire ?",
@@ -921,21 +1082,10 @@
   "Theme": "Understanding & keeping the conversation going",
   "Tier": "1",
   "ThemeId": "comprendre",
+  "Heard": "C'est-à-dire ?",
+  "HeardEnglish": "Meaning? / What do you mean?",
+  "BuiltOn": "",
   "Speak": "C'est-à-dire ?"
- },
- {
-  "French": "Pardon, j'ai pas entendu.",
-  "English": "Sorry, I didn't hear.",
-  "Literal": "Sorry, I have not heard.",
-  "Spoken": "",
-  "Register": "Fam",
-  "Notes": "",
-  "Pattern": "",
-  "Swaps": "",
-  "Theme": "Understanding & keeping the conversation going",
-  "Tier": "1",
-  "ThemeId": "comprendre",
-  "Speak": "Pardon, j'ai pas entendu."
  },
  {
   "French": "Je m'appelle…",
@@ -949,7 +1099,10 @@
   "Theme": "Introducing yourself",
   "Tier": "1",
   "ThemeId": "presentation",
-  "Speak": "Je m'appelle"
+  "Heard": "Bonjour, je m'appelle Alex. Et vous ?",
+  "HeardEnglish": "Hello, my name's Alex. And you?",
+  "BuiltOn": "Je m'appelle…",
+  "Speak": "Bonjour, je m'appelle Alex. Et vous ?"
  },
  {
   "French": "Comment vous appelez-vous ?",
@@ -963,6 +1116,9 @@
   "Theme": "Introducing yourself",
   "Tier": "1",
   "ThemeId": "presentation",
+  "Heard": "Comment vous appelez-vous ?",
+  "HeardEnglish": "What's your name?",
+  "BuiltOn": "",
   "Speak": "Comment vous appelez-vous ?"
  },
  {
@@ -977,6 +1133,9 @@
   "Theme": "Introducing yourself",
   "Tier": "1",
   "ThemeId": "presentation",
+  "Heard": "Tu t'appelles comment ?",
+  "HeardEnglish": "What's your name? (casual)",
+  "BuiltOn": "",
   "Speak": "Tu t'appelles comment ?"
  },
  {
@@ -991,6 +1150,9 @@
   "Theme": "Introducing yourself",
   "Tier": "1",
   "ThemeId": "presentation",
+  "Heard": "Vous êtes d'où ?",
+  "HeardEnglish": "Where are you from?",
+  "BuiltOn": "",
   "Speak": "Vous êtes d'où ?"
  },
  {
@@ -1005,6 +1167,9 @@
   "Theme": "Introducing yourself",
   "Tier": "1",
   "ThemeId": "presentation",
+  "Heard": "Je viens des États-Unis.",
+  "HeardEnglish": "I'm from the United States.",
+  "BuiltOn": "",
   "Speak": "Je viens des États-Unis."
  },
  {
@@ -1019,7 +1184,10 @@
   "Theme": "Introducing yourself",
   "Tier": "1",
   "ThemeId": "presentation",
-  "Speak": "J'habite à"
+  "Heard": "J'habite à Lyon depuis deux ans.",
+  "HeardEnglish": "I've lived in Lyon for two years.",
+  "BuiltOn": "J'habite à…",
+  "Speak": "J'habite à Lyon depuis deux ans."
  },
  {
   "French": "Je suis américain(e).",
@@ -1033,6 +1201,9 @@
   "Theme": "Introducing yourself",
   "Tier": "1",
   "ThemeId": "presentation",
+  "Heard": "Je suis américain(e).",
+  "HeardEnglish": "I'm American.",
+  "BuiltOn": "",
   "Speak": "Je suis américain."
  },
  {
@@ -1047,6 +1218,9 @@
   "Theme": "Introducing yourself",
   "Tier": "1",
   "ThemeId": "presentation",
+  "Heard": "Qu'est-ce que vous faites dans la vie ?",
+  "HeardEnglish": "What do you do for a living?",
+  "BuiltOn": "",
   "Speak": "Qu'est-ce que vous faites dans la vie ?"
  },
  {
@@ -1061,7 +1235,10 @@
   "Theme": "Introducing yourself",
   "Tier": "1",
   "ThemeId": "presentation",
-  "Speak": "Je travaille dans"
+  "Heard": "Je travaille dans l'informatique.",
+  "HeardEnglish": "I work in IT.",
+  "BuiltOn": "Je travaille dans…",
+  "Speak": "Je travaille dans l'informatique."
  },
  {
   "French": "Je suis ici pour…",
@@ -1075,7 +1252,10 @@
   "Theme": "Introducing yourself",
   "Tier": "1",
   "ThemeId": "presentation",
-  "Speak": "Je suis ici pour"
+  "Heard": "Je suis ici pour le travail, pas pour les vacances.",
+  "HeardEnglish": "I'm here for work, not on vacation.",
+  "BuiltOn": "Je suis ici pour…",
+  "Speak": "Je suis ici pour le travail, pas pour les vacances."
  },
  {
   "French": "Je suis en vacances.",
@@ -1089,6 +1269,9 @@
   "Theme": "Introducing yourself",
   "Tier": "1",
   "ThemeId": "presentation",
+  "Heard": "Je suis en vacances.",
+  "HeardEnglish": "I'm on vacation.",
+  "BuiltOn": "",
   "Speak": "Je suis en vacances."
  },
  {
@@ -1103,6 +1286,9 @@
   "Theme": "Introducing yourself",
   "Tier": "1",
   "ThemeId": "presentation",
+  "Heard": "J'ai trente ans.",
+  "HeardEnglish": "I'm thirty.",
+  "BuiltOn": "",
   "Speak": "J'ai trente ans."
  },
  {
@@ -1117,6 +1303,9 @@
   "Theme": "Introducing yourself",
   "Tier": "1",
   "ThemeId": "presentation",
+  "Heard": "Je suis marié(e).",
+  "HeardEnglish": "I'm married.",
+  "BuiltOn": "",
   "Speak": "Je suis marié."
  },
  {
@@ -1131,7 +1320,10 @@
   "Theme": "Introducing yourself",
   "Tier": "1",
   "ThemeId": "presentation",
-  "Speak": "Je te présente"
+  "Heard": "Je te présente Julie, une amie du boulot.",
+  "HeardEnglish": "This is Julie, a friend from work.",
+  "BuiltOn": "Je te présente…",
+  "Speak": "Je te présente Julie, une amie du boulot."
  },
  {
   "French": "On se tutoie ?",
@@ -1145,6 +1337,9 @@
   "Theme": "Introducing yourself",
   "Tier": "1",
   "ThemeId": "presentation",
+  "Heard": "On se tutoie ?",
+  "HeardEnglish": "Shall we use \"tu\"?",
+  "BuiltOn": "",
   "Speak": "On se tutoie ?"
  },
  {
@@ -1159,7 +1354,10 @@
   "Theme": "Core frames: the engines of the language",
   "Tier": "1",
   "ThemeId": "noyau",
-  "Speak": "Je voudrais"
+  "Heard": "Je voudrais un café, s'il vous plaît.",
+  "HeardEnglish": "I'd like an espresso, please.",
+  "BuiltOn": "Je voudrais…",
+  "Speak": "Je voudrais un café, s'il vous plaît."
  },
  {
   "French": "J'aimerais…",
@@ -1173,7 +1371,10 @@
   "Theme": "Core frames: the engines of the language",
   "Tier": "1",
   "ThemeId": "noyau",
-  "Speak": "J'aimerais"
+  "Heard": "J'aimerais visiter Lyon un jour.",
+  "HeardEnglish": "I'd love to visit Lyon one day.",
+  "BuiltOn": "J'aimerais…",
+  "Speak": "J'aimerais visiter Lyon un jour."
  },
  {
   "French": "Est-ce que je peux… ?",
@@ -1187,7 +1388,10 @@
   "Theme": "Core frames: the engines of the language",
   "Tier": "1",
   "ThemeId": "noyau",
-  "Speak": "Est-ce que je peux ?"
+  "Heard": "Est-ce que je peux payer par carte ?",
+  "HeardEnglish": "Can I pay by card?",
+  "BuiltOn": "Est-ce que je peux… ?",
+  "Speak": "Est-ce que je peux payer par carte ?"
  },
  {
   "French": "Vous pouvez… ?",
@@ -1201,7 +1405,10 @@
   "Theme": "Core frames: the engines of the language",
   "Tier": "1",
   "ThemeId": "noyau",
-  "Speak": "Vous pouvez ?"
+  "Heard": "Vous pouvez m'aider, s'il vous plaît ?",
+  "HeardEnglish": "Could you help me, please?",
+  "BuiltOn": "Vous pouvez… ?",
+  "Speak": "Vous pouvez m'aider, s'il vous plaît ?"
  },
  {
   "French": "Il y a…",
@@ -1215,7 +1422,10 @@
   "Theme": "Core frames: the engines of the language",
   "Tier": "1",
   "ThemeId": "noyau",
-  "Speak": "Il y a"
+  "Heard": "Il y a un problème avec ma chambre.",
+  "HeardEnglish": "There's a problem with my room.",
+  "BuiltOn": "Il y a…",
+  "Speak": "Il y a un problème avec ma chambre."
  },
  {
   "French": "Il n'y a pas de…",
@@ -1229,7 +1439,10 @@
   "Theme": "Core frames: the engines of the language",
   "Tier": "1",
   "ThemeId": "noyau",
-  "Speak": "Il n'y a pas de"
+  "Heard": "Il n'y a pas de réseau ici.",
+  "HeardEnglish": "There's no signal here.",
+  "BuiltOn": "Il n'y a pas de…",
+  "Speak": "Il n'y a pas de réseau ici."
  },
  {
   "French": "C'est…",
@@ -1243,7 +1456,10 @@
   "Theme": "Core frames: the engines of the language",
   "Tier": "1",
   "ThemeId": "noyau",
-  "Speak": "C'est"
+  "Heard": "C'est vraiment bon, ça !",
+  "HeardEnglish": "That's really good!",
+  "BuiltOn": "C'est…",
+  "Speak": "C'est vraiment bon, ça !"
  },
  {
   "French": "Ce n'est pas…",
@@ -1257,7 +1473,10 @@
   "Theme": "Core frames: the engines of the language",
   "Tier": "1",
   "ThemeId": "noyau",
-  "Speak": "Ce n'est pas"
+  "Heard": "Ce n'est pas loin, c'est à cinq minutes.",
+  "HeardEnglish": "It's not far, it's five minutes away.",
+  "BuiltOn": "Ce n'est pas…",
+  "Speak": "Ce n'est pas loin, c'est à cinq minutes."
  },
  {
   "French": "J'ai besoin de…",
@@ -1271,7 +1490,10 @@
   "Theme": "Core frames: the engines of the language",
   "Tier": "1",
   "ThemeId": "noyau",
-  "Speak": "J'ai besoin de"
+  "Heard": "J'ai besoin d'aide, s'il vous plaît.",
+  "HeardEnglish": "I need help, please.",
+  "BuiltOn": "J'ai besoin de…",
+  "Speak": "J'ai besoin d'aide, s'il vous plaît."
  },
  {
   "French": "Je dois…",
@@ -1285,7 +1507,10 @@
   "Theme": "Core frames: the engines of the language",
   "Tier": "1",
   "ThemeId": "noyau",
-  "Speak": "Je dois"
+  "Heard": "Je dois partir, j'ai un train à prendre.",
+  "HeardEnglish": "I have to go, I've got a train to catch.",
+  "BuiltOn": "Je dois…",
+  "Speak": "Je dois partir, j'ai un train à prendre."
  },
  {
   "French": "Il faut…",
@@ -1299,7 +1524,10 @@
   "Theme": "Core frames: the engines of the language",
   "Tier": "1",
   "ThemeId": "noyau",
-  "Speak": "Il faut"
+  "Heard": "Il faut réserver à l'avance.",
+  "HeardEnglish": "You have to book in advance.",
+  "BuiltOn": "Il faut…",
+  "Speak": "Il faut réserver à l'avance."
  },
  {
   "French": "Je vais…",
@@ -1313,7 +1541,10 @@
   "Theme": "Core frames: the engines of the language",
   "Tier": "1",
   "ThemeId": "noyau",
-  "Speak": "Je vais"
+  "Heard": "Je vais manger avec des amis ce soir.",
+  "HeardEnglish": "I'm going to eat with friends tonight.",
+  "BuiltOn": "Je vais…",
+  "Speak": "Je vais manger avec des amis ce soir."
  },
  {
   "French": "Je viens de…",
@@ -1327,7 +1558,10 @@
   "Theme": "Core frames: the engines of the language",
   "Tier": "1",
   "ThemeId": "noyau",
-  "Speak": "Je viens de"
+  "Heard": "Je viens d'arriver à Paris.",
+  "HeardEnglish": "I've just arrived in Paris.",
+  "BuiltOn": "Je viens de…",
+  "Speak": "Je viens d'arriver à Paris."
  },
  {
   "French": "Je veux…",
@@ -1341,7 +1575,10 @@
   "Theme": "Core frames: the engines of the language",
   "Tier": "1",
   "ThemeId": "noyau",
-  "Speak": "Je veux"
+  "Heard": "Je veux rentrer, je suis fatigué.",
+  "HeardEnglish": "I want to go home, I'm tired.",
+  "BuiltOn": "Je veux…",
+  "Speak": "Je veux rentrer, je suis fatigué."
  },
  {
   "French": "Je ne sais pas.",
@@ -1355,6 +1592,9 @@
   "Theme": "Core frames: the engines of the language",
   "Tier": "1",
   "ThemeId": "noyau",
+  "Heard": "Je ne sais pas.",
+  "HeardEnglish": "I don't know.",
+  "BuiltOn": "",
   "Speak": "Je ne sais pas."
  },
  {
@@ -1369,7 +1609,10 @@
   "Theme": "Core frames: the engines of the language",
   "Tier": "1",
   "ThemeId": "noyau",
-  "Speak": "Je connais"
+  "Heard": "Je connais un bon resto pas loin d'ici.",
+  "HeardEnglish": "I know a good restaurant not far from here.",
+  "BuiltOn": "Je connais…",
+  "Speak": "Je connais un bon resto pas loin d'ici."
  },
  {
   "French": "J'aime bien…",
@@ -1383,7 +1626,10 @@
   "Theme": "Core frames: the engines of the language",
   "Tier": "1",
   "ThemeId": "noyau",
-  "Speak": "J'aime bien"
+  "Heard": "J'aime bien ce quartier, il est calme.",
+  "HeardEnglish": "I like this neighborhood, it's quiet.",
+  "BuiltOn": "J'aime bien…",
+  "Speak": "J'aime bien ce quartier, il est calme."
  },
  {
   "French": "Je n'aime pas…",
@@ -1397,7 +1643,10 @@
   "Theme": "Core frames: the engines of the language",
   "Tier": "1",
   "ThemeId": "noyau",
-  "Speak": "Je n'aime pas"
+  "Heard": "Je n'aime pas trop attendre.",
+  "HeardEnglish": "I don't really like waiting.",
+  "BuiltOn": "Je n'aime pas…",
+  "Speak": "Je n'aime pas trop attendre."
  },
  {
   "French": "Je préfère…",
@@ -1411,7 +1660,10 @@
   "Theme": "Core frames: the engines of the language",
   "Tier": "1",
   "ThemeId": "noyau",
-  "Speak": "Je préfère"
+  "Heard": "Je préfère le thé, merci.",
+  "HeardEnglish": "I prefer tea, thanks.",
+  "BuiltOn": "Je préfère…",
+  "Speak": "Je préfère le thé, merci."
  },
  {
   "French": "Ça me plaît.",
@@ -1425,6 +1677,9 @@
   "Theme": "Core frames: the engines of the language",
   "Tier": "1",
   "ThemeId": "noyau",
+  "Heard": "Ça me plaît.",
+  "HeardEnglish": "I like it.",
+  "BuiltOn": "",
   "Speak": "Ça me plaît."
  },
  {
@@ -1439,7 +1694,10 @@
   "Theme": "Core frames: the engines of the language",
   "Tier": "1",
   "ThemeId": "noyau",
-  "Speak": "J'ai envie de"
+  "Heard": "J'ai envie de sortir ce soir.",
+  "HeardEnglish": "I feel like going out tonight.",
+  "BuiltOn": "J'ai envie de…",
+  "Speak": "J'ai envie de sortir ce soir."
  },
  {
   "French": "Ça te dit de… ?",
@@ -1453,7 +1711,10 @@
   "Theme": "Core frames: the engines of the language",
   "Tier": "1",
   "ThemeId": "noyau",
-  "Speak": "Ça te dit de ?"
+  "Heard": "Ça te dit d'aller au ciné ce soir ?",
+  "HeardEnglish": "Do you feel like going to the movies tonight?",
+  "BuiltOn": "Ça te dit de… ?",
+  "Speak": "Ça te dit d'aller au ciné ce soir ?"
  },
  {
   "French": "On peut… ?",
@@ -1467,7 +1728,10 @@
   "Theme": "Core frames: the engines of the language",
   "Tier": "1",
   "ThemeId": "noyau",
-  "Speak": "On peut ?"
+  "Heard": "On peut s'asseoir ici ?",
+  "HeardEnglish": "Can we sit here?",
+  "BuiltOn": "On peut… ?",
+  "Speak": "On peut s'asseoir ici ?"
  },
  {
   "French": "On y va ?",
@@ -1481,6 +1745,9 @@
   "Theme": "Core frames: the engines of the language",
   "Tier": "1",
   "ThemeId": "noyau",
+  "Heard": "On y va ?",
+  "HeardEnglish": "Shall we go?",
+  "BuiltOn": "",
   "Speak": "On y va ?"
  },
  {
@@ -1495,7 +1762,10 @@
   "Theme": "Core frames: the engines of the language",
   "Tier": "1",
   "ThemeId": "noyau",
-  "Speak": "Je pense que"
+  "Heard": "Je pense que c'est une bonne idée.",
+  "HeardEnglish": "I think it's a good idea.",
+  "BuiltOn": "Je pense que…",
+  "Speak": "Je pense que c'est une bonne idée."
  },
  {
   "French": "Je crois que…",
@@ -1509,7 +1779,10 @@
   "Theme": "Core frames: the engines of the language",
   "Tier": "1",
   "ThemeId": "noyau",
-  "Speak": "Je crois que"
+  "Heard": "Je crois que c'est fermé le lundi.",
+  "HeardEnglish": "I think it's closed on Mondays.",
+  "BuiltOn": "Je crois que…",
+  "Speak": "Je crois que c'est fermé le lundi."
  },
  {
   "French": "Je n'ai jamais…",
@@ -1523,7 +1796,10 @@
   "Theme": "Core frames: the engines of the language",
   "Tier": "1",
   "ThemeId": "noyau",
-  "Speak": "Je n'ai jamais"
+  "Heard": "Je n'ai jamais mangé d'escargots.",
+  "HeardEnglish": "I've never eaten snails.",
+  "BuiltOn": "Je n'ai jamais…",
+  "Speak": "Je n'ai jamais mangé d'escargots."
  },
  {
   "French": "Je n'ai plus…",
@@ -1537,7 +1813,10 @@
   "Theme": "Core frames: the engines of the language",
   "Tier": "1",
   "ThemeId": "noyau",
-  "Speak": "Je n'ai plus"
+  "Heard": "Je n'ai plus d'argent liquide.",
+  "HeardEnglish": "I'm out of cash.",
+  "BuiltOn": "Je n'ai plus…",
+  "Speak": "Je n'ai plus d'argent liquide."
  },
  {
   "French": "Ça fait… que…",
@@ -1551,7 +1830,10 @@
   "Theme": "Core frames: the engines of the language",
   "Tier": "1",
   "ThemeId": "noyau",
-  "Speak": "Ça fait que"
+  "Heard": "Ça fait trois mois que j'apprends le français.",
+  "HeardEnglish": "I've been learning French for three months.",
+  "BuiltOn": "Ça fait… que…",
+  "Speak": "Ça fait trois mois que j'apprends le français."
  },
  {
   "French": "Depuis combien de temps… ?",
@@ -1565,7 +1847,10 @@
   "Theme": "Core frames: the engines of the language",
   "Tier": "1",
   "ThemeId": "noyau",
-  "Speak": "Depuis combien de temps ?"
+  "Heard": "Depuis combien de temps tu habites ici ?",
+  "HeardEnglish": "How long have you lived here?",
+  "BuiltOn": "Depuis combien de temps… ?",
+  "Speak": "Depuis combien de temps tu habites ici ?"
  },
  {
   "French": "Où est… ?",
@@ -1579,7 +1864,10 @@
   "Theme": "Essential questions",
   "Tier": "1",
   "ThemeId": "questions",
-  "Speak": "Où est ?"
+  "Heard": "Excusez-moi, où est la gare ?",
+  "HeardEnglish": "Excuse me, where's the train station?",
+  "BuiltOn": "Où est… ?",
+  "Speak": "Excusez-moi, où est la gare ?"
  },
  {
   "French": "Où sont les toilettes ?",
@@ -1593,6 +1881,9 @@
   "Theme": "Essential questions",
   "Tier": "1",
   "ThemeId": "questions",
+  "Heard": "Où sont les toilettes ?",
+  "HeardEnglish": "Where's the bathroom?",
+  "BuiltOn": "",
   "Speak": "Où sont les toilettes ?"
  },
  {
@@ -1607,6 +1898,9 @@
   "Theme": "Essential questions",
   "Tier": "1",
   "ThemeId": "questions",
+  "Heard": "C'est où ?",
+  "HeardEnglish": "Where is it?",
+  "BuiltOn": "",
   "Speak": "C'est où ?"
  },
  {
@@ -1621,6 +1915,9 @@
   "Theme": "Essential questions",
   "Tier": "1",
   "ThemeId": "questions",
+  "Heard": "C'est combien ?",
+  "HeardEnglish": "How much is it?",
+  "BuiltOn": "",
   "Speak": "C'est combien ?"
  },
  {
@@ -1635,6 +1932,9 @@
   "Theme": "Essential questions",
   "Tier": "1",
   "ThemeId": "questions",
+  "Heard": "Quelle heure est-il ?",
+  "HeardEnglish": "What time is it?",
+  "BuiltOn": "",
   "Speak": "Quelle heure est-il ?"
  },
  {
@@ -1649,6 +1949,9 @@
   "Theme": "Essential questions",
   "Tier": "1",
   "ThemeId": "questions",
+  "Heard": "C'est quand ?",
+  "HeardEnglish": "When is it?",
+  "BuiltOn": "",
   "Speak": "C'est quand ?"
  },
  {
@@ -1663,6 +1966,9 @@
   "Theme": "Essential questions",
   "Tier": "1",
   "ThemeId": "questions",
+  "Heard": "Pourquoi ?",
+  "HeardEnglish": "Why?",
+  "BuiltOn": "",
   "Speak": "Pourquoi ?"
  },
  {
@@ -1677,6 +1983,9 @@
   "Theme": "Essential questions",
   "Tier": "1",
   "ThemeId": "questions",
+  "Heard": "Comment ça marche ?",
+  "HeardEnglish": "How does it work?",
+  "BuiltOn": "",
   "Speak": "Comment ça marche ?"
  },
  {
@@ -1691,21 +2000,10 @@
   "Theme": "Essential questions",
   "Tier": "1",
   "ThemeId": "questions",
+  "Heard": "Qu'est-ce que c'est ?",
+  "HeardEnglish": "What is it? / What's this?",
+  "BuiltOn": "",
   "Speak": "Qu'est-ce que c'est ?"
- },
- {
-  "French": "C'est quoi, ça ?",
-  "English": "What's that?",
-  "Literal": "It's what, that?",
-  "Spoken": "",
-  "Register": "Fam",
-  "Notes": "",
-  "Pattern": "",
-  "Swaps": "",
-  "Theme": "Essential questions",
-  "Tier": "1",
-  "ThemeId": "questions",
-  "Speak": "C'est quoi, ça ?"
  },
  {
   "French": "C'est qui ?",
@@ -1719,6 +2017,9 @@
   "Theme": "Essential questions",
   "Tier": "1",
   "ThemeId": "questions",
+  "Heard": "C'est qui ?",
+  "HeardEnglish": "Who is it?",
+  "BuiltOn": "",
   "Speak": "C'est qui ?"
  },
  {
@@ -1733,6 +2034,9 @@
   "Theme": "Essential questions",
   "Tier": "1",
   "ThemeId": "questions",
+  "Heard": "Lequel ?",
+  "HeardEnglish": "Which one?",
+  "BuiltOn": "",
   "Speak": "Lequel ?"
  },
  {
@@ -1747,6 +2051,9 @@
   "Theme": "Essential questions",
   "Tier": "1",
   "ThemeId": "questions",
+  "Heard": "Tu fais quoi ?",
+  "HeardEnglish": "What are you doing?",
+  "BuiltOn": "",
   "Speak": "Tu fais quoi ?"
  },
  {
@@ -1761,6 +2068,9 @@
   "Theme": "Essential questions",
   "Tier": "1",
   "ThemeId": "questions",
+  "Heard": "Qu'est-ce qui se passe ?",
+  "HeardEnglish": "What's going on?",
+  "BuiltOn": "",
   "Speak": "Qu'est-ce qui se passe ?"
  },
  {
@@ -1775,6 +2085,9 @@
   "Theme": "Essential questions",
   "Tier": "1",
   "ThemeId": "questions",
+  "Heard": "Qu'est-ce qu'il y a ?",
+  "HeardEnglish": "What's wrong? / What's up?",
+  "BuiltOn": "",
   "Speak": "Qu'est-ce qu'il y a ?"
  },
  {
@@ -1789,7 +2102,10 @@
   "Theme": "Essential questions",
   "Tier": "1",
   "ThemeId": "questions",
-  "Speak": "Vous avez ?"
+  "Heard": "Vous avez du wifi ici ?",
+  "HeardEnglish": "Do you have wifi here?",
+  "BuiltOn": "Vous avez… ?",
+  "Speak": "Vous avez du wifi ici ?"
  },
  {
   "French": "C'est possible de… ?",
@@ -1803,7 +2119,10 @@
   "Theme": "Essential questions",
   "Tier": "1",
   "ThemeId": "questions",
-  "Speak": "C'est possible de ?"
+  "Heard": "C'est possible de réserver pour demain soir ?",
+  "HeardEnglish": "Is it possible to book for tomorrow night?",
+  "BuiltOn": "C'est possible de… ?",
+  "Speak": "C'est possible de réserver pour demain soir ?"
  },
  {
   "French": "Ça vous dérange si… ?",
@@ -1817,7 +2136,10 @@
   "Theme": "Essential questions",
   "Tier": "1",
   "ThemeId": "questions",
-  "Speak": "Ça vous dérange si ?"
+  "Heard": "Ça vous dérange si j'ouvre la fenêtre ?",
+  "HeardEnglish": "Do you mind if I open the window?",
+  "BuiltOn": "Ça vous dérange si… ?",
+  "Speak": "Ça vous dérange si j'ouvre la fenêtre ?"
  },
  {
   "French": "Tu es sûr(e) ?",
@@ -1831,6 +2153,9 @@
   "Theme": "Essential questions",
   "Tier": "1",
   "ThemeId": "questions",
+  "Heard": "Tu es sûr(e) ?",
+  "HeardEnglish": "Are you sure?",
+  "BuiltOn": "",
   "Speak": "Tu es sûr ?"
  },
  {
@@ -1845,6 +2170,9 @@
   "Theme": "Essential questions",
   "Tier": "1",
   "ThemeId": "questions",
+  "Heard": "Et toi ?",
+  "HeardEnglish": "And you?",
+  "BuiltOn": "",
   "Speak": "Et toi ?"
  },
  {
@@ -1859,6 +2187,9 @@
   "Theme": "Essential questions",
   "Tier": "1",
   "ThemeId": "questions",
+  "Heard": "Tu en penses quoi ?",
+  "HeardEnglish": "What do you think (of it)?",
+  "BuiltOn": "",
   "Speak": "Tu en penses quoi ?"
  },
  {
@@ -1873,6 +2204,9 @@
   "Theme": "Essential questions",
   "Tier": "1",
   "ThemeId": "questions",
+  "Heard": "Ça te va ?",
+  "HeardEnglish": "Does that work for you? / Is that OK?",
+  "BuiltOn": "",
   "Speak": "Ça te va ?"
  },
  {
@@ -1887,6 +2221,9 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
+  "Heard": "Ah bon ?",
+  "HeardEnglish": "Really? / Oh yeah?",
+  "BuiltOn": "",
   "Speak": "Ah bon ?"
  },
  {
@@ -1901,6 +2238,9 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
+  "Heard": "C'est vrai ?",
+  "HeardEnglish": "Really? / Is that true?",
+  "BuiltOn": "",
   "Speak": "C'est vrai ?"
  },
  {
@@ -1915,6 +2255,9 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
+  "Heard": "Sérieux ?",
+  "HeardEnglish": "Seriously?",
+  "BuiltOn": "",
   "Speak": "Sérieux ?"
  },
  {
@@ -1929,6 +2272,9 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
+  "Heard": "Ah, d'accord.",
+  "HeardEnglish": "Ah, OK. / I see.",
+  "BuiltOn": "",
   "Speak": "Ah, d'accord."
  },
  {
@@ -1943,6 +2289,9 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
+  "Heard": "Ouais.",
+  "HeardEnglish": "Yeah.",
+  "BuiltOn": "",
   "Speak": "Ouais."
  },
  {
@@ -1957,6 +2306,9 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
+  "Heard": "Si !",
+  "HeardEnglish": "Yes! (to a negative question)",
+  "BuiltOn": "",
   "Speak": "Si !"
  },
  {
@@ -1971,6 +2323,9 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
+  "Heard": "Exactement.",
+  "HeardEnglish": "Exactly.",
+  "BuiltOn": "",
   "Speak": "Exactement."
  },
  {
@@ -1985,6 +2340,9 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
+  "Heard": "Bien sûr.",
+  "HeardEnglish": "Of course.",
+  "BuiltOn": "",
   "Speak": "Bien sûr."
  },
  {
@@ -1999,6 +2357,9 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
+  "Heard": "Carrément !",
+  "HeardEnglish": "Totally! / Absolutely!",
+  "BuiltOn": "",
   "Speak": "Carrément !"
  },
  {
@@ -2013,6 +2374,9 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
+  "Heard": "Grave !",
+  "HeardEnglish": "Totally!",
+  "BuiltOn": "",
   "Speak": "Grave !"
  },
  {
@@ -2027,6 +2391,9 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
+  "Heard": "Moi aussi.",
+  "HeardEnglish": "Me too.",
+  "BuiltOn": "",
   "Speak": "Moi aussi."
  },
  {
@@ -2041,6 +2408,9 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
+  "Heard": "Moi non plus.",
+  "HeardEnglish": "Me neither.",
+  "BuiltOn": "",
   "Speak": "Moi non plus."
  },
  {
@@ -2055,6 +2425,9 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
+  "Heard": "Pas du tout.",
+  "HeardEnglish": "Not at all.",
+  "BuiltOn": "",
   "Speak": "Pas du tout."
  },
  {
@@ -2069,6 +2442,9 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
+  "Heard": "Bof.",
+  "HeardEnglish": "Meh.",
+  "BuiltOn": "",
   "Speak": "Bof."
  },
  {
@@ -2083,6 +2459,9 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
+  "Heard": "Peut-être.",
+  "HeardEnglish": "Maybe.",
+  "BuiltOn": "",
   "Speak": "Peut-être."
  },
  {
@@ -2097,6 +2476,9 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
+  "Heard": "Ça dépend.",
+  "HeardEnglish": "It depends.",
+  "BuiltOn": "",
   "Speak": "Ça dépend."
  },
  {
@@ -2111,6 +2493,9 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
+  "Heard": "Tant mieux !",
+  "HeardEnglish": "Good! / So much the better!",
+  "BuiltOn": "",
   "Speak": "Tant mieux !"
  },
  {
@@ -2125,6 +2510,9 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
+  "Heard": "Tant pis.",
+  "HeardEnglish": "Too bad. / Oh well.",
+  "BuiltOn": "",
   "Speak": "Tant pis."
  },
  {
@@ -2139,6 +2527,9 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
+  "Heard": "Oh là là !",
+  "HeardEnglish": "Oh dear! / Oh no!",
+  "BuiltOn": "",
   "Speak": "Oh là là !"
  },
  {
@@ -2153,6 +2544,9 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
+  "Heard": "Mince !",
+  "HeardEnglish": "Darn! / Shoot!",
+  "BuiltOn": "",
   "Speak": "Mince !"
  },
  {
@@ -2167,6 +2561,9 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
+  "Heard": "Putain !",
+  "HeardEnglish": "F***! / Damn!",
+  "BuiltOn": "",
   "Speak": "Putain !"
  },
  {
@@ -2181,6 +2578,9 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
+  "Heard": "C'est génial !",
+  "HeardEnglish": "That's great!",
+  "BuiltOn": "",
   "Speak": "C'est génial !"
  },
  {
@@ -2195,6 +2595,9 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
+  "Heard": "Trop bien !",
+  "HeardEnglish": "Awesome! / So good!",
+  "BuiltOn": "",
   "Speak": "Trop bien !"
  },
  {
@@ -2209,6 +2612,9 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
+  "Heard": "C'est pas vrai !",
+  "HeardEnglish": "No way! / I can't believe it!",
+  "BuiltOn": "",
   "Speak": "C'est pas vrai !"
  },
  {
@@ -2223,6 +2629,9 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
+  "Heard": "N'importe quoi !",
+  "HeardEnglish": "Nonsense! / Rubbish!",
+  "BuiltOn": "",
   "Speak": "N'importe quoi !"
  },
  {
@@ -2237,6 +2646,9 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
+  "Heard": "Voilà.",
+  "HeardEnglish": "There you go. / That's it. / Exactly.",
+  "BuiltOn": "",
   "Speak": "Voilà."
  },
  {
@@ -2251,7 +2663,10 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
-  "Speak": "Du coup"
+  "Heard": "Du coup, on fait quoi ce soir ?",
+  "HeardEnglish": "So, what are we doing tonight?",
+  "BuiltOn": "Du coup…",
+  "Speak": "Du coup, on fait quoi ce soir ?"
  },
  {
   "French": "En fait…",
@@ -2265,7 +2680,10 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
-  "Speak": "En fait"
+  "Heard": "En fait, je ne suis pas d'ici.",
+  "HeardEnglish": "Actually, I'm not from here.",
+  "BuiltOn": "En fait…",
+  "Speak": "En fait, je ne suis pas d'ici."
  },
  {
   "French": "Bref.",
@@ -2279,6 +2697,9 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
+  "Heard": "Bref.",
+  "HeardEnglish": "Anyway. / Long story short.",
+  "BuiltOn": "",
   "Speak": "Bref."
  },
  {
@@ -2293,7 +2714,10 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
-  "Speak": "Genre"
+  "Heard": "Il était genre super énervé.",
+  "HeardEnglish": "He was like, super annoyed.",
+  "BuiltOn": "Genre…",
+  "Speak": "Il était genre super énervé."
  },
  {
   "French": "Enfin…",
@@ -2307,7 +2731,10 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
-  "Speak": "Enfin"
+  "Heard": "Il est sympa… enfin, la plupart du temps.",
+  "HeardEnglish": "He's nice… well, most of the time.",
+  "BuiltOn": "Enfin…",
+  "Speak": "Il est sympa enfin, la plupart du temps."
  },
  {
   "French": "Bon…",
@@ -2321,7 +2748,10 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
-  "Speak": "Bon"
+  "Heard": "Bon, on y va ?",
+  "HeardEnglish": "Right, shall we go?",
+  "BuiltOn": "Bon…",
+  "Speak": "Bon, on y va ?"
  },
  {
   "French": "Ben…",
@@ -2335,7 +2765,10 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
-  "Speak": "Ben"
+  "Heard": "Ben oui, évidemment !",
+  "HeardEnglish": "Well yes, obviously!",
+  "BuiltOn": "Ben…",
+  "Speak": "Ben oui, évidemment !"
  },
  {
   "French": "Alors…",
@@ -2349,7 +2782,10 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
-  "Speak": "Alors"
+  "Heard": "Alors, c'était comment, ton week-end ?",
+  "HeardEnglish": "So, how was your weekend?",
+  "BuiltOn": "Alors…",
+  "Speak": "Alors, c'était comment, ton week-end ?"
  },
  {
   "French": "Quand même !",
@@ -2363,6 +2799,9 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
+  "Heard": "Quand même !",
+  "HeardEnglish": "Still! / Come on! / Really!",
+  "BuiltOn": "",
   "Speak": "Quand même !"
  },
  {
@@ -2377,6 +2816,9 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
+  "Heard": "Ça y est !",
+  "HeardEnglish": "That's it! / Done! / Finally!",
+  "BuiltOn": "",
   "Speak": "Ça y est !"
  },
  {
@@ -2391,6 +2833,9 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
+  "Heard": "Ça marche.",
+  "HeardEnglish": "Sounds good. / Works for me.",
+  "BuiltOn": "",
   "Speak": "Ça marche."
  },
  {
@@ -2405,6 +2850,9 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
+  "Heard": "Ça roule.",
+  "HeardEnglish": "All good. / Sounds good.",
+  "BuiltOn": "",
   "Speak": "Ça roule."
  },
  {
@@ -2419,6 +2867,9 @@
   "Theme": "Reactions & fillers that make you sound French",
   "Tier": "1",
   "ThemeId": "reactions",
+  "Heard": "J'avoue.",
+  "HeardEnglish": "True. / Fair point.",
+  "BuiltOn": "",
   "Speak": "J'avoue."
  },
  {
@@ -2433,6 +2884,9 @@
   "Theme": "Feelings & states",
   "Tier": "1",
   "ThemeId": "etats",
+  "Heard": "J'ai faim.",
+  "HeardEnglish": "I'm hungry.",
+  "BuiltOn": "",
   "Speak": "J'ai faim."
  },
  {
@@ -2447,6 +2901,9 @@
   "Theme": "Feelings & states",
   "Tier": "1",
   "ThemeId": "etats",
+  "Heard": "J'ai chaud.",
+  "HeardEnglish": "I'm hot.",
+  "BuiltOn": "",
   "Speak": "J'ai chaud."
  },
  {
@@ -2461,6 +2918,9 @@
   "Theme": "Feelings & states",
   "Tier": "1",
   "ThemeId": "etats",
+  "Heard": "J'ai trop mangé.",
+  "HeardEnglish": "I'm stuffed.",
+  "BuiltOn": "",
   "Speak": "J'ai trop mangé."
  },
  {
@@ -2475,6 +2935,9 @@
   "Theme": "Feelings & states",
   "Tier": "1",
   "ThemeId": "etats",
+  "Heard": "Je suis fatigué(e).",
+  "HeardEnglish": "I'm tired.",
+  "BuiltOn": "",
   "Speak": "Je suis fatigué."
  },
  {
@@ -2489,6 +2952,9 @@
   "Theme": "Feelings & states",
   "Tier": "1",
   "ThemeId": "etats",
+  "Heard": "Je suis crevé(e).",
+  "HeardEnglish": "I'm exhausted. / I'm beat.",
+  "BuiltOn": "",
   "Speak": "Je suis crevé."
  },
  {
@@ -2503,7 +2969,10 @@
   "Theme": "Feelings & states",
   "Tier": "1",
   "ThemeId": "etats",
-  "Speak": "J'ai mal à"
+  "Heard": "J'ai mal à la tête depuis ce matin.",
+  "HeardEnglish": "I've had a headache since this morning.",
+  "BuiltOn": "J'ai mal à…",
+  "Speak": "J'ai mal à la tête depuis ce matin."
  },
  {
   "French": "Je suis malade.",
@@ -2517,6 +2986,9 @@
   "Theme": "Feelings & states",
   "Tier": "1",
   "ThemeId": "etats",
+  "Heard": "Je suis malade.",
+  "HeardEnglish": "I'm sick.",
+  "BuiltOn": "",
   "Speak": "Je suis malade."
  },
  {
@@ -2531,6 +3003,9 @@
   "Theme": "Feelings & states",
   "Tier": "1",
   "ThemeId": "etats",
+  "Heard": "Je suis content(e).",
+  "HeardEnglish": "I'm happy. / I'm pleased.",
+  "BuiltOn": "",
   "Speak": "Je suis content."
  },
  {
@@ -2545,6 +3020,9 @@
   "Theme": "Feelings & states",
   "Tier": "1",
   "ThemeId": "etats",
+  "Heard": "Je suis stressé(e).",
+  "HeardEnglish": "I'm stressed.",
+  "BuiltOn": "",
   "Speak": "Je suis stressé."
  },
  {
@@ -2559,6 +3037,9 @@
   "Theme": "Feelings & states",
   "Tier": "1",
   "ThemeId": "etats",
+  "Heard": "Je m'ennuie.",
+  "HeardEnglish": "I'm bored.",
+  "BuiltOn": "",
   "Speak": "Je m'ennuie."
  },
  {
@@ -2573,6 +3054,9 @@
   "Theme": "Feelings & states",
   "Tier": "1",
   "ThemeId": "etats",
+  "Heard": "J'en ai marre.",
+  "HeardEnglish": "I'm fed up.",
+  "BuiltOn": "",
   "Speak": "J'en ai marre."
  },
  {
@@ -2587,6 +3071,9 @@
   "Theme": "Feelings & states",
   "Tier": "1",
   "ThemeId": "etats",
+  "Heard": "Je n'en peux plus.",
+  "HeardEnglish": "I can't take it anymore.",
+  "BuiltOn": "",
   "Speak": "Je n'en peux plus."
  },
  {
@@ -2601,6 +3088,9 @@
   "Theme": "Feelings & states",
   "Tier": "1",
   "ThemeId": "etats",
+  "Heard": "J'ai hâte !",
+  "HeardEnglish": "I can't wait!",
+  "BuiltOn": "",
   "Speak": "J'ai hâte !"
  },
  {
@@ -2615,6 +3105,9 @@
   "Theme": "Feelings & states",
   "Tier": "1",
   "ThemeId": "etats",
+  "Heard": "Tu me manques.",
+  "HeardEnglish": "I miss you.",
+  "BuiltOn": "",
   "Speak": "Tu me manques."
  },
  {
@@ -2629,6 +3122,9 @@
   "Theme": "Feelings & states",
   "Tier": "1",
   "ThemeId": "etats",
+  "Heard": "J'ai peur.",
+  "HeardEnglish": "I'm scared.",
+  "BuiltOn": "",
   "Speak": "J'ai peur."
  },
  {
@@ -2643,6 +3139,9 @@
   "Theme": "Feelings & states",
   "Tier": "1",
   "ThemeId": "etats",
+  "Heard": "Je suis perdu(e).",
+  "HeardEnglish": "I'm lost.",
+  "BuiltOn": "",
   "Speak": "Je suis perdu."
  },
  {
@@ -2657,6 +3156,9 @@
   "Theme": "Feelings & states",
   "Tier": "1",
   "ThemeId": "etats",
+  "Heard": "Je suis pressé(e).",
+  "HeardEnglish": "I'm in a hurry.",
+  "BuiltOn": "",
   "Speak": "Je suis pressé."
  },
  {
@@ -2671,6 +3173,9 @@
   "Theme": "Feelings & states",
   "Tier": "1",
   "ThemeId": "etats",
+  "Heard": "Je suis prêt(e).",
+  "HeardEnglish": "I'm ready.",
+  "BuiltOn": "",
   "Speak": "Je suis prêt."
  },
  {
@@ -2685,6 +3190,9 @@
   "Theme": "Feelings & states",
   "Tier": "1",
   "ThemeId": "etats",
+  "Heard": "J'ai la flemme.",
+  "HeardEnglish": "I can't be bothered.",
+  "BuiltOn": "",
   "Speak": "J'ai la flemme."
  },
  {
@@ -2699,7 +3207,10 @@
   "Theme": "Opinions: agreeing & disagreeing",
   "Tier": "1",
   "ThemeId": "opinions",
-  "Speak": "À mon avis"
+  "Heard": "À mon avis, c'est trop cher.",
+  "HeardEnglish": "In my opinion, it's too expensive.",
+  "BuiltOn": "À mon avis…",
+  "Speak": "À mon avis, c'est trop cher."
  },
  {
   "French": "Pour moi…",
@@ -2713,7 +3224,10 @@
   "Theme": "Opinions: agreeing & disagreeing",
   "Tier": "1",
   "ThemeId": "opinions",
-  "Speak": "Pour moi"
+  "Heard": "Pour moi, c'est le meilleur film de l'année.",
+  "HeardEnglish": "For me, it's the best film of the year.",
+  "BuiltOn": "Pour moi…",
+  "Speak": "Pour moi, c'est le meilleur film de l'année."
  },
  {
   "French": "Je trouve que…",
@@ -2727,7 +3241,10 @@
   "Theme": "Opinions: agreeing & disagreeing",
   "Tier": "1",
   "ThemeId": "opinions",
-  "Speak": "Je trouve que"
+  "Heard": "Je trouve que c'est un peu cher.",
+  "HeardEnglish": "I think it's a bit expensive.",
+  "BuiltOn": "Je trouve que…",
+  "Speak": "Je trouve que c'est un peu cher."
  },
  {
   "French": "Je suis d'accord.",
@@ -2741,6 +3258,9 @@
   "Theme": "Opinions: agreeing & disagreeing",
   "Tier": "1",
   "ThemeId": "opinions",
+  "Heard": "Je suis d'accord.",
+  "HeardEnglish": "I agree.",
+  "BuiltOn": "",
   "Speak": "Je suis d'accord."
  },
  {
@@ -2755,6 +3275,9 @@
   "Theme": "Opinions: agreeing & disagreeing",
   "Tier": "1",
   "ThemeId": "opinions",
+  "Heard": "Je ne suis pas d'accord.",
+  "HeardEnglish": "I disagree.",
+  "BuiltOn": "",
   "Speak": "Je ne suis pas d'accord."
  },
  {
@@ -2769,6 +3292,9 @@
   "Theme": "Opinions: agreeing & disagreeing",
   "Tier": "1",
   "ThemeId": "opinions",
+  "Heard": "Tu as raison.",
+  "HeardEnglish": "You're right.",
+  "BuiltOn": "",
   "Speak": "Tu as raison."
  },
  {
@@ -2783,6 +3309,9 @@
   "Theme": "Opinions: agreeing & disagreeing",
   "Tier": "1",
   "ThemeId": "opinions",
+  "Heard": "Tu as tort.",
+  "HeardEnglish": "You're wrong.",
+  "BuiltOn": "",
   "Speak": "Tu as tort."
  },
  {
@@ -2797,6 +3326,9 @@
   "Theme": "Opinions: agreeing & disagreeing",
   "Tier": "1",
   "ThemeId": "opinions",
+  "Heard": "C'est vrai.",
+  "HeardEnglish": "That's true.",
+  "BuiltOn": "",
   "Speak": "C'est vrai."
  },
  {
@@ -2811,6 +3343,9 @@
   "Theme": "Opinions: agreeing & disagreeing",
   "Tier": "1",
   "ThemeId": "opinions",
+  "Heard": "Ça m'est égal.",
+  "HeardEnglish": "I don't mind. / Either is fine.",
+  "BuiltOn": "",
   "Speak": "Ça m'est égal."
  },
  {
@@ -2825,6 +3360,9 @@
   "Theme": "Opinions: agreeing & disagreeing",
   "Tier": "1",
   "ThemeId": "opinions",
+  "Heard": "Peu importe.",
+  "HeardEnglish": "Whatever. / It doesn't matter.",
+  "BuiltOn": "",
   "Speak": "Peu importe."
  },
  {
@@ -2839,6 +3377,9 @@
   "Theme": "Opinions: agreeing & disagreeing",
   "Tier": "1",
   "ThemeId": "opinions",
+  "Heard": "Je m'en fiche.",
+  "HeardEnglish": "I don't care.",
+  "BuiltOn": "",
   "Speak": "Je m'en fiche."
  },
  {
@@ -2853,6 +3394,9 @@
   "Theme": "Opinions: agreeing & disagreeing",
   "Tier": "1",
   "ThemeId": "opinions",
+  "Heard": "C'est pas mal.",
+  "HeardEnglish": "It's pretty good.",
+  "BuiltOn": "",
   "Speak": "C'est pas mal."
  },
  {
@@ -2867,6 +3411,9 @@
   "Theme": "Opinions: agreeing & disagreeing",
   "Tier": "1",
   "ThemeId": "opinions",
+  "Heard": "J'adore !",
+  "HeardEnglish": "I love it!",
+  "BuiltOn": "",
   "Speak": "J'adore !"
  },
  {
@@ -2881,6 +3428,9 @@
   "Theme": "Opinions: agreeing & disagreeing",
   "Tier": "1",
   "ThemeId": "opinions",
+  "Heard": "Je déteste ça.",
+  "HeardEnglish": "I hate that.",
+  "BuiltOn": "",
   "Speak": "Je déteste ça."
  },
  {
@@ -2895,6 +3445,9 @@
   "Theme": "Opinions: agreeing & disagreeing",
   "Tier": "1",
   "ThemeId": "opinions",
+  "Heard": "Ça vaut le coup.",
+  "HeardEnglish": "It's worth it.",
+  "BuiltOn": "",
   "Speak": "Ça vaut le coup."
  },
  {
@@ -2909,6 +3462,9 @@
   "Theme": "Opinions: agreeing & disagreeing",
   "Tier": "1",
   "ThemeId": "opinions",
+  "Heard": "C'est nul.",
+  "HeardEnglish": "It's rubbish. / It sucks.",
+  "BuiltOn": "",
   "Speak": "C'est nul."
  },
  {
@@ -2923,6 +3479,9 @@
   "Theme": "Opinions: agreeing & disagreeing",
   "Tier": "1",
   "ThemeId": "opinions",
+  "Heard": "Ça craint.",
+  "HeardEnglish": "That sucks. / That's sketchy.",
+  "BuiltOn": "",
   "Speak": "Ça craint."
  },
  {
@@ -2937,6 +3496,9 @@
   "Theme": "Café & restaurant",
   "Tier": "2",
   "ThemeId": "resto",
+  "Heard": "Une table pour deux, s'il vous plaît.",
+  "HeardEnglish": "A table for two, please.",
+  "BuiltOn": "",
   "Speak": "Une table pour deux, s'il vous plaît."
  },
  {
@@ -2951,7 +3513,10 @@
   "Theme": "Café & restaurant",
   "Tier": "2",
   "ThemeId": "resto",
-  "Speak": "J'ai réservé au nom de"
+  "Heard": "Bonsoir, j'ai réservé au nom de Martin.",
+  "HeardEnglish": "Good evening, I have a reservation under Martin.",
+  "BuiltOn": "J'ai réservé au nom de…",
+  "Speak": "Bonsoir, j'ai réservé au nom de Martin."
  },
  {
   "French": "La carte, s'il vous plaît.",
@@ -2965,6 +3530,9 @@
   "Theme": "Café & restaurant",
   "Tier": "2",
   "ThemeId": "resto",
+  "Heard": "La carte, s'il vous plaît.",
+  "HeardEnglish": "The menu, please.",
+  "BuiltOn": "",
   "Speak": "La carte, s'il vous plaît."
  },
  {
@@ -2979,6 +3547,9 @@
   "Theme": "Café & restaurant",
   "Tier": "2",
   "ThemeId": "resto",
+  "Heard": "Qu'est-ce que vous me conseillez ?",
+  "HeardEnglish": "What do you recommend?",
+  "BuiltOn": "",
   "Speak": "Qu'est-ce que vous me conseillez ?"
  },
  {
@@ -2993,7 +3564,10 @@
   "Theme": "Café & restaurant",
   "Tier": "2",
   "ThemeId": "resto",
-  "Speak": "Je vais prendre"
+  "Heard": "Je vais prendre le plat du jour, s'il vous plaît.",
+  "HeardEnglish": "I'll have the dish of the day, please.",
+  "BuiltOn": "Je vais prendre…",
+  "Speak": "Je vais prendre le plat du jour, s'il vous plaît."
  },
  {
   "French": "Pour moi, ce sera…",
@@ -3007,7 +3581,10 @@
   "Theme": "Café & restaurant",
   "Tier": "2",
   "ThemeId": "resto",
-  "Speak": "Pour moi, ce sera"
+  "Heard": "Pour moi, ce sera un verre de vin rouge.",
+  "HeardEnglish": "For me, it'll be a glass of red wine.",
+  "BuiltOn": "Pour moi, ce sera…",
+  "Speak": "Pour moi, ce sera un verre de vin rouge."
  },
  {
   "French": "Un café, s'il vous plaît.",
@@ -3021,6 +3598,9 @@
   "Theme": "Café & restaurant",
   "Tier": "2",
   "ThemeId": "resto",
+  "Heard": "Un café, s'il vous plaît.",
+  "HeardEnglish": "An espresso, please.",
+  "BuiltOn": "",
   "Speak": "Un café, s'il vous plaît."
  },
  {
@@ -3035,6 +3615,9 @@
   "Theme": "Café & restaurant",
   "Tier": "2",
   "ThemeId": "resto",
+  "Heard": "Une carafe d'eau, s'il vous plaît.",
+  "HeardEnglish": "A jug of tap water, please.",
+  "BuiltOn": "",
   "Speak": "Une carafe d'eau, s'il vous plaît."
  },
  {
@@ -3049,6 +3632,9 @@
   "Theme": "Café & restaurant",
   "Tier": "2",
   "ThemeId": "resto",
+  "Heard": "Un demi, s'il vous plaît.",
+  "HeardEnglish": "A small draft beer, please.",
+  "BuiltOn": "",
   "Speak": "Un demi, s'il vous plaît."
  },
  {
@@ -3063,6 +3649,9 @@
   "Theme": "Café & restaurant",
   "Tier": "2",
   "ThemeId": "resto",
+  "Heard": "Saignant, à point ou bien cuit ?",
+  "HeardEnglish": "Rare, medium or well done?",
+  "BuiltOn": "",
   "Speak": "Saignant, à point ou bien cuit ?"
  },
  {
@@ -3077,6 +3666,9 @@
   "Theme": "Café & restaurant",
   "Tier": "2",
   "ThemeId": "resto",
+  "Heard": "Je suis végétarien(ne).",
+  "HeardEnglish": "I'm vegetarian.",
+  "BuiltOn": "",
   "Speak": "Je suis végétarien."
  },
  {
@@ -3091,7 +3683,10 @@
   "Theme": "Café & restaurant",
   "Tier": "2",
   "ThemeId": "resto",
-  "Speak": "Je suis allergique à"
+  "Heard": "Je suis allergique aux arachides.",
+  "HeardEnglish": "I'm allergic to peanuts.",
+  "BuiltOn": "Je suis allergique à…",
+  "Speak": "Je suis allergique aux arachides."
  },
  {
   "French": "Sans…, s'il vous plaît.",
@@ -3105,7 +3700,10 @@
   "Theme": "Café & restaurant",
   "Tier": "2",
   "ThemeId": "resto",
-  "Speak": "Sans, s'il vous plaît."
+  "Heard": "Sans oignons, s'il vous plaît.",
+  "HeardEnglish": "No onions, please.",
+  "BuiltOn": "Sans…, s'il vous plaît.",
+  "Speak": "Sans oignons, s'il vous plaît."
  },
  {
   "French": "Encore un peu de pain, s'il vous plaît.",
@@ -3119,6 +3717,9 @@
   "Theme": "Café & restaurant",
   "Tier": "2",
   "ThemeId": "resto",
+  "Heard": "Encore un peu de pain, s'il vous plaît.",
+  "HeardEnglish": "A bit more bread, please.",
+  "BuiltOn": "",
   "Speak": "Encore un peu de pain, s'il vous plaît."
  },
  {
@@ -3133,6 +3734,9 @@
   "Theme": "Café & restaurant",
   "Tier": "2",
   "ThemeId": "resto",
+  "Heard": "C'était délicieux.",
+  "HeardEnglish": "It was delicious.",
+  "BuiltOn": "",
   "Speak": "C'était délicieux."
  },
  {
@@ -3147,6 +3751,9 @@
   "Theme": "Café & restaurant",
   "Tier": "2",
   "ThemeId": "resto",
+  "Heard": "Vous avez terminé ?",
+  "HeardEnglish": "Are you finished?",
+  "BuiltOn": "",
   "Speak": "Vous avez terminé ?"
  },
  {
@@ -3161,6 +3768,9 @@
   "Theme": "Café & restaurant",
   "Tier": "2",
   "ThemeId": "resto",
+  "Heard": "Je n'ai plus faim.",
+  "HeardEnglish": "I'm full.",
+  "BuiltOn": "",
   "Speak": "Je n'ai plus faim."
  },
  {
@@ -3175,6 +3785,9 @@
   "Theme": "Café & restaurant",
   "Tier": "2",
   "ThemeId": "resto",
+  "Heard": "L'addition, s'il vous plaît.",
+  "HeardEnglish": "The check, please.",
+  "BuiltOn": "",
   "Speak": "L'addition, s'il vous plaît."
  },
  {
@@ -3189,6 +3802,9 @@
   "Theme": "Café & restaurant",
   "Tier": "2",
   "ThemeId": "resto",
+  "Heard": "On peut payer séparément ?",
+  "HeardEnglish": "Can we pay separately?",
+  "BuiltOn": "",
   "Speak": "On peut payer séparément ?"
  },
  {
@@ -3203,6 +3819,9 @@
   "Theme": "Café & restaurant",
   "Tier": "2",
   "ThemeId": "resto",
+  "Heard": "Je peux payer par carte ?",
+  "HeardEnglish": "Can I pay by card?",
+  "BuiltOn": "",
   "Speak": "Je peux payer par carte ?"
  },
  {
@@ -3217,6 +3836,9 @@
   "Theme": "Café & restaurant",
   "Tier": "2",
   "ThemeId": "resto",
+  "Heard": "Gardez la monnaie.",
+  "HeardEnglish": "Keep the change.",
+  "BuiltOn": "",
   "Speak": "Gardez la monnaie."
  },
  {
@@ -3231,6 +3853,9 @@
   "Theme": "Café & restaurant",
   "Tier": "2",
   "ThemeId": "resto",
+  "Heard": "Sur place ou à emporter ?",
+  "HeardEnglish": "For here or to go?",
+  "BuiltOn": "",
   "Speak": "Sur place ou à emporter ?"
  },
  {
@@ -3245,6 +3870,9 @@
   "Theme": "Café & restaurant",
   "Tier": "2",
   "ThemeId": "resto",
+  "Heard": "À emporter, s'il vous plaît.",
+  "HeardEnglish": "To go, please.",
+  "BuiltOn": "",
   "Speak": "À emporter, s'il vous plaît."
  },
  {
@@ -3259,6 +3887,9 @@
   "Theme": "Shopping & markets",
   "Tier": "2",
   "ThemeId": "courses",
+  "Heard": "Je regarde, merci.",
+  "HeardEnglish": "I'm just looking, thanks.",
+  "BuiltOn": "",
   "Speak": "Je regarde, merci."
  },
  {
@@ -3273,7 +3904,10 @@
   "Theme": "Shopping & markets",
   "Tier": "2",
   "ThemeId": "courses",
-  "Speak": "Je cherche"
+  "Heard": "Je cherche une pharmacie.",
+  "HeardEnglish": "I'm looking for a pharmacy.",
+  "BuiltOn": "Je cherche…",
+  "Speak": "Je cherche une pharmacie."
  },
  {
   "French": "Vous l'avez en… ?",
@@ -3287,7 +3921,10 @@
   "Theme": "Shopping & markets",
   "Tier": "2",
   "ThemeId": "courses",
-  "Speak": "Vous l'avez en ?"
+  "Heard": "Vous l'avez en plus grand ?",
+  "HeardEnglish": "Do you have it in a bigger size?",
+  "BuiltOn": "Vous l'avez en… ?",
+  "Speak": "Vous l'avez en plus grand ?"
  },
  {
   "French": "Je peux l'essayer ?",
@@ -3301,6 +3938,9 @@
   "Theme": "Shopping & markets",
   "Tier": "2",
   "ThemeId": "courses",
+  "Heard": "Je peux l'essayer ?",
+  "HeardEnglish": "Can I try it on?",
+  "BuiltOn": "",
   "Speak": "Je peux l'essayer ?"
  },
  {
@@ -3315,6 +3955,9 @@
   "Theme": "Shopping & markets",
   "Tier": "2",
   "ThemeId": "courses",
+  "Heard": "C'est trop cher.",
+  "HeardEnglish": "It's too expensive.",
+  "BuiltOn": "",
   "Speak": "C'est trop cher."
  },
  {
@@ -3329,6 +3972,9 @@
   "Theme": "Shopping & markets",
   "Tier": "2",
   "ThemeId": "courses",
+  "Heard": "Je le prends.",
+  "HeardEnglish": "I'll take it.",
+  "BuiltOn": "",
   "Speak": "Je le prends."
  },
  {
@@ -3343,6 +3989,9 @@
   "Theme": "Shopping & markets",
   "Tier": "2",
   "ThemeId": "courses",
+  "Heard": "Avec ceci ?",
+  "HeardEnglish": "Anything else?",
+  "BuiltOn": "",
   "Speak": "Avec ceci ?"
  },
  {
@@ -3357,6 +4006,9 @@
   "Theme": "Shopping & markets",
   "Tier": "2",
   "ThemeId": "courses",
+  "Heard": "C'est tout, merci.",
+  "HeardEnglish": "That's all, thanks.",
+  "BuiltOn": "",
   "Speak": "C'est tout, merci."
  },
  {
@@ -3371,6 +4023,9 @@
   "Theme": "Shopping & markets",
   "Tier": "2",
   "ThemeId": "courses",
+  "Heard": "Une baguette, s'il vous plaît.",
+  "HeardEnglish": "A baguette, please.",
+  "BuiltOn": "",
   "Speak": "Une baguette, s'il vous plaît."
  },
  {
@@ -3385,7 +4040,10 @@
   "Theme": "Shopping & markets",
   "Tier": "2",
   "ThemeId": "courses",
-  "Speak": "Je voudrais deux cents grammes de"
+  "Heard": "Je voudrais deux cents grammes de comté, s'il vous plaît.",
+  "HeardEnglish": "I'd like two hundred grams of comté, please.",
+  "BuiltOn": "Je voudrais deux cents grammes de…",
+  "Speak": "Je voudrais deux cents grammes de comté, s'il vous plaît."
  },
  {
   "French": "Vous acceptez la carte ?",
@@ -3399,6 +4057,9 @@
   "Theme": "Shopping & markets",
   "Tier": "2",
   "ThemeId": "courses",
+  "Heard": "Vous acceptez la carte ?",
+  "HeardEnglish": "Do you take cards?",
+  "BuiltOn": "",
   "Speak": "Vous acceptez la carte ?"
  },
  {
@@ -3413,6 +4074,9 @@
   "Theme": "Shopping & markets",
   "Tier": "2",
   "ThemeId": "courses",
+  "Heard": "Je vais payer en espèces.",
+  "HeardEnglish": "I'll pay cash.",
+  "BuiltOn": "",
   "Speak": "Je vais payer en espèces."
  },
  {
@@ -3427,6 +4091,9 @@
   "Theme": "Shopping & markets",
   "Tier": "2",
   "ThemeId": "courses",
+  "Heard": "Vous avez de la monnaie ?",
+  "HeardEnglish": "Do you have anything smaller?",
+  "BuiltOn": "",
   "Speak": "Vous avez de la monnaie ?"
  },
  {
@@ -3441,6 +4108,9 @@
   "Theme": "Shopping & markets",
   "Tier": "2",
   "ThemeId": "courses",
+  "Heard": "Je peux avoir un sac ?",
+  "HeardEnglish": "Can I have a bag?",
+  "BuiltOn": "",
   "Speak": "Je peux avoir un sac ?"
  },
  {
@@ -3455,6 +4125,9 @@
   "Theme": "Shopping & markets",
   "Tier": "2",
   "ThemeId": "courses",
+  "Heard": "Je peux avoir le ticket, s'il vous plaît ?",
+  "HeardEnglish": "Can I have the receipt, please?",
+  "BuiltOn": "",
   "Speak": "Je peux avoir le ticket, s'il vous plaît ?"
  },
  {
@@ -3469,6 +4142,9 @@
   "Theme": "Shopping & markets",
   "Tier": "2",
   "ThemeId": "courses",
+  "Heard": "C'est en promo ?",
+  "HeardEnglish": "Is it on sale?",
+  "BuiltOn": "",
   "Speak": "C'est en promo ?"
  },
  {
@@ -3483,6 +4159,9 @@
   "Theme": "Shopping & markets",
   "Tier": "2",
   "ThemeId": "courses",
+  "Heard": "Je peux le rendre ?",
+  "HeardEnglish": "Can I return it?",
+  "BuiltOn": "",
   "Speak": "Je peux le rendre ?"
  },
  {
@@ -3497,7 +4176,10 @@
   "Theme": "Directions & getting around",
   "Tier": "2",
   "ThemeId": "directions",
-  "Speak": "Pour aller à ?"
+  "Heard": "Pardon, pour aller à la gare, s'il vous plaît ?",
+  "HeardEnglish": "Excuse me, how do I get to the station, please?",
+  "BuiltOn": "Pour aller à… ?",
+  "Speak": "Pardon, pour aller à la gare, s'il vous plaît ?"
  },
  {
   "French": "C'est loin d'ici ?",
@@ -3511,6 +4193,9 @@
   "Theme": "Directions & getting around",
   "Tier": "2",
   "ThemeId": "directions",
+  "Heard": "C'est loin d'ici ?",
+  "HeardEnglish": "Is it far from here?",
+  "BuiltOn": "",
   "Speak": "C'est loin d'ici ?"
  },
  {
@@ -3525,6 +4210,9 @@
   "Theme": "Directions & getting around",
   "Tier": "2",
   "ThemeId": "directions",
+  "Heard": "C'est à combien de minutes à pied ?",
+  "HeardEnglish": "How many minutes' walk is it?",
+  "BuiltOn": "",
   "Speak": "C'est à combien de minutes à pied ?"
  },
  {
@@ -3539,6 +4227,9 @@
   "Theme": "Directions & getting around",
   "Tier": "2",
   "ThemeId": "directions",
+  "Heard": "Tout droit.",
+  "HeardEnglish": "Straight ahead.",
+  "BuiltOn": "",
   "Speak": "Tout droit."
  },
  {
@@ -3553,6 +4244,9 @@
   "Theme": "Directions & getting around",
   "Tier": "2",
   "ThemeId": "directions",
+  "Heard": "À droite. / À gauche.",
+  "HeardEnglish": "To the right. / To the left.",
+  "BuiltOn": "",
   "Speak": "À droite. À gauche."
  },
  {
@@ -3567,6 +4261,9 @@
   "Theme": "Directions & getting around",
   "Tier": "2",
   "ThemeId": "directions",
+  "Heard": "Tournez à gauche au feu.",
+  "HeardEnglish": "Turn left at the light.",
+  "BuiltOn": "",
   "Speak": "Tournez à gauche au feu."
  },
  {
@@ -3581,6 +4278,9 @@
   "Theme": "Directions & getting around",
   "Tier": "2",
   "ThemeId": "directions",
+  "Heard": "C'est juste à côté.",
+  "HeardEnglish": "It's just next door.",
+  "BuiltOn": "",
   "Speak": "C'est juste à côté."
  },
  {
@@ -3595,7 +4295,10 @@
   "Theme": "Directions & getting around",
   "Tier": "2",
   "ThemeId": "directions",
-  "Speak": "En face de"
+  "Heard": "C'est juste en face de la boulangerie.",
+  "HeardEnglish": "It's right across from the bakery.",
+  "BuiltOn": "En face de…",
+  "Speak": "C'est juste en face de la boulangerie."
  },
  {
   "French": "Vous pouvez me montrer sur le plan ?",
@@ -3609,6 +4312,9 @@
   "Theme": "Directions & getting around",
   "Tier": "2",
   "ThemeId": "directions",
+  "Heard": "Vous pouvez me montrer sur le plan ?",
+  "HeardEnglish": "Can you show me on the map?",
+  "BuiltOn": "",
   "Speak": "Vous pouvez me montrer sur le plan ?"
  },
  {
@@ -3623,6 +4329,9 @@
   "Theme": "Directions & getting around",
   "Tier": "2",
   "ThemeId": "directions",
+  "Heard": "Où est la station de métro la plus proche ?",
+  "HeardEnglish": "Where's the nearest metro station?",
+  "BuiltOn": "",
   "Speak": "Où est la station de métro la plus proche ?"
  },
  {
@@ -3637,6 +4346,9 @@
   "Theme": "Directions & getting around",
   "Tier": "2",
   "ThemeId": "directions",
+  "Heard": "Un aller simple pour Lyon, s'il vous plaît.",
+  "HeardEnglish": "A one-way ticket to Lyon, please.",
+  "BuiltOn": "",
   "Speak": "Un aller simple pour Lyon, s'il vous plaît."
  },
  {
@@ -3651,6 +4363,9 @@
   "Theme": "Directions & getting around",
   "Tier": "2",
   "ThemeId": "directions",
+  "Heard": "À quelle heure part le prochain train ?",
+  "HeardEnglish": "What time does the next train leave?",
+  "BuiltOn": "",
   "Speak": "À quelle heure part le prochain train ?"
  },
  {
@@ -3665,6 +4380,9 @@
   "Theme": "Directions & getting around",
   "Tier": "2",
   "ThemeId": "directions",
+  "Heard": "Il part de quel quai ?",
+  "HeardEnglish": "Which platform does it leave from?",
+  "BuiltOn": "",
   "Speak": "Il part de quel quai ?"
  },
  {
@@ -3679,6 +4397,9 @@
   "Theme": "Directions & getting around",
   "Tier": "2",
   "ThemeId": "directions",
+  "Heard": "Il faut changer ?",
+  "HeardEnglish": "Do I have to change?",
+  "BuiltOn": "",
   "Speak": "Il faut changer ?"
  },
  {
@@ -3693,7 +4414,10 @@
   "Theme": "Directions & getting around",
   "Tier": "2",
   "ThemeId": "directions",
-  "Speak": "Ce bus va à ?"
+  "Heard": "Ce bus va au centre-ville ?",
+  "HeardEnglish": "Does this bus go downtown?",
+  "BuiltOn": "Ce bus va à… ?",
+  "Speak": "Ce bus va au centre-ville ?"
  },
  {
   "French": "Je descends ici.",
@@ -3707,6 +4431,9 @@
   "Theme": "Directions & getting around",
   "Tier": "2",
   "ThemeId": "directions",
+  "Heard": "Je descends ici.",
+  "HeardEnglish": "I'm getting off here.",
+  "BuiltOn": "",
   "Speak": "Je descends ici."
  },
  {
@@ -3721,6 +4448,9 @@
   "Theme": "Directions & getting around",
   "Tier": "2",
   "ThemeId": "directions",
+  "Heard": "Le train a du retard.",
+  "HeardEnglish": "The train is delayed.",
+  "BuiltOn": "",
   "Speak": "Le train a du retard."
  },
  {
@@ -3735,6 +4465,9 @@
   "Theme": "Directions & getting around",
   "Tier": "2",
   "ThemeId": "directions",
+  "Heard": "Il faut valider le billet ?",
+  "HeardEnglish": "Do I need to validate the ticket?",
+  "BuiltOn": "",
   "Speak": "Il faut valider le billet ?"
  },
  {
@@ -3749,6 +4482,9 @@
   "Theme": "Directions & getting around",
   "Tier": "2",
   "ThemeId": "directions",
+  "Heard": "Vous pouvez m'appeler un taxi ?",
+  "HeardEnglish": "Could you call me a taxi?",
+  "BuiltOn": "",
   "Speak": "Vous pouvez m'appeler un taxi ?"
  },
  {
@@ -3763,6 +4499,9 @@
   "Theme": "Directions & getting around",
   "Tier": "2",
   "ThemeId": "directions",
+  "Heard": "Vous pouvez me déposer ici ?",
+  "HeardEnglish": "Can you drop me off here?",
+  "BuiltOn": "",
   "Speak": "Vous pouvez me déposer ici ?"
  },
  {
@@ -3777,6 +4516,9 @@
   "Theme": "Directions & getting around",
   "Tier": "2",
   "ThemeId": "directions",
+  "Heard": "Je voudrais louer une voiture.",
+  "HeardEnglish": "I'd like to rent a car.",
+  "BuiltOn": "",
   "Speak": "Je voudrais louer une voiture."
  },
  {
@@ -3791,6 +4533,9 @@
   "Theme": "Time, plans & making arrangements",
   "Tier": "2",
   "ThemeId": "rendezvous",
+  "Heard": "Tu es libre ce soir ?",
+  "HeardEnglish": "Are you free tonight?",
+  "BuiltOn": "",
   "Speak": "Tu es libre ce soir ?"
  },
  {
@@ -3805,6 +4550,9 @@
   "Theme": "Time, plans & making arrangements",
   "Tier": "2",
   "ThemeId": "rendezvous",
+  "Heard": "Tu fais quoi ce week-end ?",
+  "HeardEnglish": "What are you doing this weekend?",
+  "BuiltOn": "",
   "Speak": "Tu fais quoi ce week-end ?"
  },
  {
@@ -3819,6 +4567,9 @@
   "Theme": "Time, plans & making arrangements",
   "Tier": "2",
   "ThemeId": "rendezvous",
+  "Heard": "On se voit quand ?",
+  "HeardEnglish": "When shall we meet?",
+  "BuiltOn": "",
   "Speak": "On se voit quand ?"
  },
  {
@@ -3833,6 +4584,9 @@
   "Theme": "Time, plans & making arrangements",
   "Tier": "2",
   "ThemeId": "rendezvous",
+  "Heard": "On se retrouve où ?",
+  "HeardEnglish": "Where shall we meet?",
+  "BuiltOn": "",
   "Speak": "On se retrouve où ?"
  },
  {
@@ -3847,6 +4601,9 @@
   "Theme": "Time, plans & making arrangements",
   "Tier": "2",
   "ThemeId": "rendezvous",
+  "Heard": "Ça te va, huit heures ?",
+  "HeardEnglish": "Does eight o'clock work for you?",
+  "BuiltOn": "",
   "Speak": "Ça te va, huit heures ?"
  },
  {
@@ -3861,6 +4618,9 @@
   "Theme": "Time, plans & making arrangements",
   "Tier": "2",
   "ThemeId": "rendezvous",
+  "Heard": "Je ne suis pas dispo.",
+  "HeardEnglish": "I'm not available.",
+  "BuiltOn": "",
   "Speak": "Je ne suis pas dispo."
  },
  {
@@ -3875,6 +4635,9 @@
   "Theme": "Time, plans & making arrangements",
   "Tier": "2",
   "ThemeId": "rendezvous",
+  "Heard": "Désolé(e), je ne peux pas.",
+  "HeardEnglish": "Sorry, I can't.",
+  "BuiltOn": "",
   "Speak": "Désolé, je ne peux pas."
  },
  {
@@ -3889,6 +4652,9 @@
   "Theme": "Time, plans & making arrangements",
   "Tier": "2",
   "ThemeId": "rendezvous",
+  "Heard": "Une autre fois, peut-être.",
+  "HeardEnglish": "Another time, maybe.",
+  "BuiltOn": "",
   "Speak": "Une autre fois, peut-être."
  },
  {
@@ -3903,6 +4669,9 @@
   "Theme": "Time, plans & making arrangements",
   "Tier": "2",
   "ThemeId": "rendezvous",
+  "Heard": "À quelle heure ?",
+  "HeardEnglish": "At what time?",
+  "BuiltOn": "",
   "Speak": "À quelle heure ?"
  },
  {
@@ -3917,6 +4686,9 @@
   "Theme": "Time, plans & making arrangements",
   "Tier": "2",
   "ThemeId": "rendezvous",
+  "Heard": "Il est trois heures et demie.",
+  "HeardEnglish": "It's half past three.",
+  "BuiltOn": "",
   "Speak": "Il est trois heures et demie."
  },
  {
@@ -3931,6 +4703,9 @@
   "Theme": "Time, plans & making arrangements",
   "Tier": "2",
   "ThemeId": "rendezvous",
+  "Heard": "Ça prend combien de temps ?",
+  "HeardEnglish": "How long does it take?",
+  "BuiltOn": "",
   "Speak": "Ça prend combien de temps ?"
  },
  {
@@ -3945,6 +4720,9 @@
   "Theme": "Time, plans & making arrangements",
   "Tier": "2",
   "ThemeId": "rendezvous",
+  "Heard": "J'arrive !",
+  "HeardEnglish": "I'm coming! / On my way!",
+  "BuiltOn": "",
   "Speak": "J'arrive !"
  },
  {
@@ -3959,6 +4737,9 @@
   "Theme": "Time, plans & making arrangements",
   "Tier": "2",
   "ThemeId": "rendezvous",
+  "Heard": "J'arrive dans cinq minutes.",
+  "HeardEnglish": "I'll be there in five minutes.",
+  "BuiltOn": "",
   "Speak": "J'arrive dans cinq minutes."
  },
  {
@@ -3973,6 +4754,9 @@
   "Theme": "Time, plans & making arrangements",
   "Tier": "2",
   "ThemeId": "rendezvous",
+  "Heard": "Je suis en retard, désolé(e) !",
+  "HeardEnglish": "I'm running late, sorry!",
+  "BuiltOn": "",
   "Speak": "Je suis en retard, désolé !"
  },
  {
@@ -3987,6 +4771,9 @@
   "Theme": "Time, plans & making arrangements",
   "Tier": "2",
   "ThemeId": "rendezvous",
+  "Heard": "Je reviens tout de suite.",
+  "HeardEnglish": "I'll be right back.",
+  "BuiltOn": "",
   "Speak": "Je reviens tout de suite."
  },
  {
@@ -4001,6 +4788,9 @@
   "Theme": "Time, plans & making arrangements",
   "Tier": "2",
   "ThemeId": "rendezvous",
+  "Heard": "La semaine prochaine.",
+  "HeardEnglish": "Next week.",
+  "BuiltOn": "",
   "Speak": "La semaine prochaine."
  },
  {
@@ -4015,6 +4805,9 @@
   "Theme": "Time, plans & making arrangements",
   "Tier": "2",
   "ThemeId": "rendezvous",
+  "Heard": "Il y a deux jours.",
+  "HeardEnglish": "Two days ago.",
+  "BuiltOn": "",
   "Speak": "Il y a deux jours."
  },
  {
@@ -4029,7 +4822,10 @@
   "Theme": "Time, plans & making arrangements",
   "Tier": "2",
   "ThemeId": "rendezvous",
-  "Speak": "D'habitude"
+  "Heard": "D'habitude, je me lève à sept heures.",
+  "HeardEnglish": "I usually get up at seven.",
+  "BuiltOn": "D'habitude…",
+  "Speak": "D'habitude, je me lève à sept heures."
  },
  {
   "French": "De temps en temps.",
@@ -4043,6 +4839,9 @@
   "Theme": "Time, plans & making arrangements",
   "Tier": "2",
   "ThemeId": "rendezvous",
+  "Heard": "De temps en temps.",
+  "HeardEnglish": "From time to time.",
+  "BuiltOn": "",
   "Speak": "De temps en temps."
  },
  {
@@ -4057,6 +4856,9 @@
   "Theme": "Time, plans & making arrangements",
   "Tier": "2",
   "ThemeId": "rendezvous",
+  "Heard": "On verra.",
+  "HeardEnglish": "We'll see.",
+  "BuiltOn": "",
   "Speak": "On verra."
  },
  {
@@ -4071,6 +4873,9 @@
   "Theme": "Time, plans & making arrangements",
   "Tier": "2",
   "ThemeId": "rendezvous",
+  "Heard": "C'est noté !",
+  "HeardEnglish": "Got it! / Noted!",
+  "BuiltOn": "",
   "Speak": "C'est noté !"
  },
  {
@@ -4085,21 +4890,10 @@
   "Theme": "Time, plans & making arrangements",
   "Tier": "2",
   "ThemeId": "rendezvous",
+  "Heard": "Rappelle-moi.",
+  "HeardEnglish": "Call me back. / Remind me.",
+  "BuiltOn": "",
   "Speak": "Rappelle-moi."
- },
- {
-  "French": "J'ai une réservation au nom de…",
-  "English": "I have a reservation under the name…",
-  "Literal": "",
-  "Spoken": "",
-  "Register": "N",
-  "Notes": "",
-  "Pattern": "",
-  "Swaps": "",
-  "Theme": "Hotel & accommodation",
-  "Tier": "2",
-  "ThemeId": "logement",
-  "Speak": "J'ai une réservation au nom de"
  },
  {
   "French": "Vous avez une chambre pour ce soir ?",
@@ -4113,6 +4907,9 @@
   "Theme": "Hotel & accommodation",
   "Tier": "2",
   "ThemeId": "logement",
+  "Heard": "Vous avez une chambre pour ce soir ?",
+  "HeardEnglish": "Do you have a room for tonight?",
+  "BuiltOn": "",
   "Speak": "Vous avez une chambre pour ce soir ?"
  },
  {
@@ -4127,6 +4924,9 @@
   "Theme": "Hotel & accommodation",
   "Tier": "2",
   "ThemeId": "logement",
+  "Heard": "Pour combien de nuits ?",
+  "HeardEnglish": "For how many nights?",
+  "BuiltOn": "",
   "Speak": "Pour combien de nuits ?"
  },
  {
@@ -4141,6 +4941,9 @@
   "Theme": "Hotel & accommodation",
   "Tier": "2",
   "ThemeId": "logement",
+  "Heard": "Le petit-déjeuner est compris ?",
+  "HeardEnglish": "Is breakfast included?",
+  "BuiltOn": "",
   "Speak": "Le petit-déjeuner est compris ?"
  },
  {
@@ -4155,6 +4958,9 @@
   "Theme": "Hotel & accommodation",
   "Tier": "2",
   "ThemeId": "logement",
+  "Heard": "À quelle heure faut-il libérer la chambre ?",
+  "HeardEnglish": "What time is checkout?",
+  "BuiltOn": "",
   "Speak": "À quelle heure faut-il libérer la chambre ?"
  },
  {
@@ -4169,6 +4975,9 @@
   "Theme": "Hotel & accommodation",
   "Tier": "2",
   "ThemeId": "logement",
+  "Heard": "C'est quoi, le code wifi ?",
+  "HeardEnglish": "What's the wifi password?",
+  "BuiltOn": "",
   "Speak": "C'est quoi, le code wifi ?"
  },
  {
@@ -4183,6 +4992,9 @@
   "Theme": "Hotel & accommodation",
   "Tier": "2",
   "ThemeId": "logement",
+  "Heard": "La clé ne marche pas.",
+  "HeardEnglish": "The key doesn't work.",
+  "BuiltOn": "",
   "Speak": "La clé ne marche pas."
  },
  {
@@ -4197,6 +5009,9 @@
   "Theme": "Hotel & accommodation",
   "Tier": "2",
   "ThemeId": "logement",
+  "Heard": "Il n'y a pas d'eau chaude.",
+  "HeardEnglish": "There's no hot water.",
+  "BuiltOn": "",
   "Speak": "Il n'y a pas d'eau chaude."
  },
  {
@@ -4211,6 +5026,9 @@
   "Theme": "Hotel & accommodation",
   "Tier": "2",
   "ThemeId": "logement",
+  "Heard": "Je peux laisser mes bagages ici ?",
+  "HeardEnglish": "Can I leave my bags here?",
+  "BuiltOn": "",
   "Speak": "Je peux laisser mes bagages ici ?"
  },
  {
@@ -4225,6 +5043,9 @@
   "Theme": "Problems, health & emergencies",
   "Tier": "2",
   "ThemeId": "urgences",
+  "Heard": "Au secours !",
+  "HeardEnglish": "Help!",
+  "BuiltOn": "",
   "Speak": "Au secours !"
  },
  {
@@ -4239,6 +5060,9 @@
   "Theme": "Problems, health & emergencies",
   "Tier": "2",
   "ThemeId": "urgences",
+  "Heard": "Appelez une ambulance !",
+  "HeardEnglish": "Call an ambulance!",
+  "BuiltOn": "",
   "Speak": "Appelez une ambulance !"
  },
  {
@@ -4253,6 +5077,9 @@
   "Theme": "Problems, health & emergencies",
   "Tier": "2",
   "ThemeId": "urgences",
+  "Heard": "Il y a eu un accident.",
+  "HeardEnglish": "There's been an accident.",
+  "BuiltOn": "",
   "Speak": "Il y a eu un accident."
  },
  {
@@ -4267,6 +5094,9 @@
   "Theme": "Problems, health & emergencies",
   "Tier": "2",
   "ThemeId": "urgences",
+  "Heard": "J'ai besoin d'un médecin.",
+  "HeardEnglish": "I need a doctor.",
+  "BuiltOn": "",
   "Speak": "J'ai besoin d'un médecin."
  },
  {
@@ -4281,6 +5111,9 @@
   "Theme": "Problems, health & emergencies",
   "Tier": "2",
   "ThemeId": "urgences",
+  "Heard": "Je ne me sens pas bien.",
+  "HeardEnglish": "I don't feel well.",
+  "BuiltOn": "",
   "Speak": "Je ne me sens pas bien."
  },
  {
@@ -4295,6 +5128,9 @@
   "Theme": "Problems, health & emergencies",
   "Tier": "2",
   "ThemeId": "urgences",
+  "Heard": "J'ai de la fièvre.",
+  "HeardEnglish": "I have a fever.",
+  "BuiltOn": "",
   "Speak": "J'ai de la fièvre."
  },
  {
@@ -4309,7 +5145,10 @@
   "Theme": "Problems, health & emergencies",
   "Tier": "2",
   "ThemeId": "urgences",
-  "Speak": "Vous avez quelque chose contre ?"
+  "Heard": "Vous avez quelque chose contre le mal de tête ?",
+  "HeardEnglish": "Do you have something for a headache?",
+  "BuiltOn": "Vous avez quelque chose contre… ?",
+  "Speak": "Vous avez quelque chose contre le mal de tête ?"
  },
  {
   "French": "On m'a volé mon portefeuille.",
@@ -4323,6 +5162,9 @@
   "Theme": "Problems, health & emergencies",
   "Tier": "2",
   "ThemeId": "urgences",
+  "Heard": "On m'a volé mon portefeuille.",
+  "HeardEnglish": "My wallet was stolen.",
+  "BuiltOn": "",
   "Speak": "On m'a volé mon portefeuille."
  },
  {
@@ -4337,6 +5179,9 @@
   "Theme": "Problems, health & emergencies",
   "Tier": "2",
   "ThemeId": "urgences",
+  "Heard": "J'ai perdu mon passeport.",
+  "HeardEnglish": "I've lost my passport.",
+  "BuiltOn": "",
   "Speak": "J'ai perdu mon passeport."
  },
  {
@@ -4351,6 +5196,9 @@
   "Theme": "Problems, health & emergencies",
   "Tier": "2",
   "ThemeId": "urgences",
+  "Heard": "C'est urgent.",
+  "HeardEnglish": "It's urgent.",
+  "BuiltOn": "",
   "Speak": "C'est urgent."
  },
  {
@@ -4365,6 +5213,9 @@
   "Theme": "Problems, health & emergencies",
   "Tier": "2",
   "ThemeId": "urgences",
+  "Heard": "Laissez-moi tranquille !",
+  "HeardEnglish": "Leave me alone!",
+  "BuiltOn": "",
   "Speak": "Laissez-moi tranquille !"
  },
  {
@@ -4379,6 +5230,9 @@
   "Theme": "Problems, health & emergencies",
   "Tier": "2",
   "ThemeId": "urgences",
+  "Heard": "Ça ne marche pas.",
+  "HeardEnglish": "It's not working.",
+  "BuiltOn": "",
   "Speak": "Ça ne marche pas."
  },
  {
@@ -4393,6 +5247,9 @@
   "Theme": "Problems, health & emergencies",
   "Tier": "2",
   "ThemeId": "urgences",
+  "Heard": "Je crois qu'il y a une erreur.",
+  "HeardEnglish": "I think there's a mistake.",
+  "BuiltOn": "",
   "Speak": "Je crois qu'il y a une erreur."
  },
  {
@@ -4407,6 +5264,9 @@
   "Theme": "Problems, health & emergencies",
   "Tier": "2",
   "ThemeId": "urgences",
+  "Heard": "Je voudrais parler au responsable.",
+  "HeardEnglish": "I'd like to speak to the manager.",
+  "BuiltOn": "",
   "Speak": "Je voudrais parler au responsable."
  },
  {
@@ -4421,6 +5281,9 @@
   "Theme": "Problems, health & emergencies",
   "Tier": "2",
   "ThemeId": "urgences",
+  "Heard": "Je n'ai plus de batterie.",
+  "HeardEnglish": "My phone's dead.",
+  "BuiltOn": "",
   "Speak": "Je n'ai plus de batterie."
  },
  {
@@ -4435,6 +5298,9 @@
   "Theme": "Small talk: weather, work, weekends",
   "Tier": "2",
   "ThemeId": "blabla",
+  "Heard": "Il fait beau aujourd'hui !",
+  "HeardEnglish": "It's nice out today!",
+  "BuiltOn": "",
   "Speak": "Il fait beau aujourd'hui !"
  },
  {
@@ -4449,6 +5315,9 @@
   "Theme": "Small talk: weather, work, weekends",
   "Tier": "2",
   "ThemeId": "blabla",
+  "Heard": "Il pleut.",
+  "HeardEnglish": "It's raining.",
+  "BuiltOn": "",
   "Speak": "Il pleut."
  },
  {
@@ -4463,6 +5332,9 @@
   "Theme": "Small talk: weather, work, weekends",
   "Tier": "2",
   "ThemeId": "blabla",
+  "Heard": "Il fait un temps de chien.",
+  "HeardEnglish": "The weather's awful.",
+  "BuiltOn": "",
   "Speak": "Il fait un temps de chien."
  },
  {
@@ -4477,6 +5349,9 @@
   "Theme": "Small talk: weather, work, weekends",
   "Tier": "2",
   "ThemeId": "blabla",
+  "Heard": "C'est la première fois que je viens ici.",
+  "HeardEnglish": "It's my first time here.",
+  "BuiltOn": "",
   "Speak": "C'est la première fois que je viens ici."
  },
  {
@@ -4491,6 +5366,9 @@
   "Theme": "Small talk: weather, work, weekends",
   "Tier": "2",
   "ThemeId": "blabla",
+  "Heard": "Ça vous plaît, la France ?",
+  "HeardEnglish": "Do you like France?",
+  "BuiltOn": "",
   "Speak": "Ça vous plaît, la France ?"
  },
  {
@@ -4505,6 +5383,9 @@
   "Theme": "Small talk: weather, work, weekends",
   "Tier": "2",
   "ThemeId": "blabla",
+  "Heard": "Vous connaissez un bon resto dans le coin ?",
+  "HeardEnglish": "Do you know a good restaurant around here?",
+  "BuiltOn": "",
   "Speak": "Vous connaissez un bon resto dans le coin ?"
  },
  {
@@ -4519,6 +5400,9 @@
   "Theme": "Small talk: weather, work, weekends",
   "Tier": "2",
   "ThemeId": "blabla",
+  "Heard": "Tu as passé un bon week-end ?",
+  "HeardEnglish": "Did you have a good weekend?",
+  "BuiltOn": "",
   "Speak": "Tu as passé un bon week-end ?"
  },
  {
@@ -4533,6 +5417,9 @@
   "Theme": "Small talk: weather, work, weekends",
   "Tier": "2",
   "ThemeId": "blabla",
+  "Heard": "Qu'est-ce que tu as fait hier ?",
+  "HeardEnglish": "What did you do yesterday?",
+  "BuiltOn": "",
   "Speak": "Qu'est-ce que tu as fait hier ?"
  },
  {
@@ -4547,6 +5434,9 @@
   "Theme": "Small talk: weather, work, weekends",
   "Tier": "2",
   "ThemeId": "blabla",
+  "Heard": "J'ai passé une super soirée.",
+  "HeardEnglish": "I had a great evening.",
+  "BuiltOn": "",
   "Speak": "J'ai passé une super soirée."
  },
  {
@@ -4561,6 +5451,9 @@
   "Theme": "Small talk: weather, work, weekends",
   "Tier": "2",
   "ThemeId": "blabla",
+  "Heard": "Tu fais du sport ?",
+  "HeardEnglish": "Do you do any sports?",
+  "BuiltOn": "",
   "Speak": "Tu fais du sport ?"
  },
  {
@@ -4575,6 +5468,9 @@
   "Theme": "Small talk: weather, work, weekends",
   "Tier": "2",
   "ThemeId": "blabla",
+  "Heard": "Le boulot, ça va ?",
+  "HeardEnglish": "How's work?",
+  "BuiltOn": "",
   "Speak": "Le boulot, ça va ?"
  },
  {
@@ -4589,6 +5485,9 @@
   "Theme": "Small talk: weather, work, weekends",
   "Tier": "2",
   "ThemeId": "blabla",
+  "Heard": "C'est la galère.",
+  "HeardEnglish": "It's a nightmare. / What a hassle.",
+  "BuiltOn": "",
   "Speak": "C'est la galère."
  },
  {
@@ -4603,6 +5502,9 @@
   "Theme": "Small talk: weather, work, weekends",
   "Tier": "2",
   "ThemeId": "blabla",
+  "Heard": "Tu parles très bien français !",
+  "HeardEnglish": "Your French is really good!",
+  "BuiltOn": "",
   "Speak": "Tu parles très bien français !"
  },
  {
@@ -4617,6 +5519,9 @@
   "Theme": "Small talk: weather, work, weekends",
   "Tier": "2",
   "ThemeId": "blabla",
+  "Heard": "Merci, j'essaie !",
+  "HeardEnglish": "Thanks, I'm trying!",
+  "BuiltOn": "",
   "Speak": "Merci, j'essaie !"
  },
  {
@@ -4631,6 +5536,9 @@
   "Theme": "Phone, texts & messages",
   "Tier": "2",
   "ThemeId": "telephone",
+  "Heard": "Allô ?",
+  "HeardEnglish": "Hello? (on the phone)",
+  "BuiltOn": "",
   "Speak": "Allô ?"
  },
  {
@@ -4645,6 +5553,9 @@
   "Theme": "Phone, texts & messages",
   "Tier": "2",
   "ThemeId": "telephone",
+  "Heard": "C'est de la part de qui ?",
+  "HeardEnglish": "Who's calling?",
+  "BuiltOn": "",
   "Speak": "C'est de la part de qui ?"
  },
  {
@@ -4659,7 +5570,10 @@
   "Theme": "Phone, texts & messages",
   "Tier": "2",
   "ThemeId": "telephone",
-  "Speak": "Je pourrais parler à ?"
+  "Heard": "Bonjour, je pourrais parler à Madame Leroy ?",
+  "HeardEnglish": "Hello, could I speak to Ms. Leroy?",
+  "BuiltOn": "Je pourrais parler à… ?",
+  "Speak": "Bonjour, je pourrais parler à Madame Leroy ?"
  },
  {
   "French": "Ne quittez pas.",
@@ -4673,6 +5587,9 @@
   "Theme": "Phone, texts & messages",
   "Tier": "2",
   "ThemeId": "telephone",
+  "Heard": "Ne quittez pas.",
+  "HeardEnglish": "Please hold.",
+  "BuiltOn": "",
   "Speak": "Ne quittez pas."
  },
  {
@@ -4687,6 +5604,9 @@
   "Theme": "Phone, texts & messages",
   "Tier": "2",
   "ThemeId": "telephone",
+  "Heard": "Je te rappelle.",
+  "HeardEnglish": "I'll call you back.",
+  "BuiltOn": "",
   "Speak": "Je te rappelle."
  },
  {
@@ -4701,6 +5621,9 @@
   "Theme": "Phone, texts & messages",
   "Tier": "2",
   "ThemeId": "telephone",
+  "Heard": "Je t'entends mal.",
+  "HeardEnglish": "I can barely hear you.",
+  "BuiltOn": "",
   "Speak": "Je t'entends mal."
  },
  {
@@ -4715,6 +5638,9 @@
   "Theme": "Phone, texts & messages",
   "Tier": "2",
   "ThemeId": "telephone",
+  "Heard": "C'est quoi, ton numéro ?",
+  "HeardEnglish": "What's your number?",
+  "BuiltOn": "",
   "Speak": "C'est quoi, ton numéro ?"
  },
  {
@@ -4729,6 +5655,9 @@
   "Theme": "Phone, texts & messages",
   "Tier": "2",
   "ThemeId": "telephone",
+  "Heard": "Je t'envoie un message.",
+  "HeardEnglish": "I'll text you.",
+  "BuiltOn": "",
   "Speak": "Je t'envoie un message."
  },
  {
@@ -4743,6 +5672,9 @@
   "Theme": "Phone, texts & messages",
   "Tier": "2",
   "ThemeId": "telephone",
+  "Heard": "Tu me tiens au courant ?",
+  "HeardEnglish": "Will you keep me posted?",
+  "BuiltOn": "",
   "Speak": "Tu me tiens au courant ?"
  },
  {
@@ -4757,6 +5689,9 @@
   "Theme": "Phone, texts & messages",
   "Tier": "2",
   "ThemeId": "telephone",
+  "Heard": "Bisous !",
+  "HeardEnglish": "Love, … / XO",
+  "BuiltOn": "",
   "Speak": "Bisous !"
  },
  {
@@ -4771,6 +5706,9 @@
   "Theme": "Phone, texts & messages",
   "Tier": "2",
   "ThemeId": "telephone",
+  "Heard": "MDR",
+  "HeardEnglish": "LOL",
+  "BuiltOn": "",
   "Speak": "MDR"
  },
  {
@@ -4785,7 +5723,10 @@
   "Theme": "Telling stories: connectors",
   "Tier": "3",
   "ThemeId": "recit",
-  "Speak": "D'abord"
+  "Heard": "D'abord, on a pris un café.",
+  "HeardEnglish": "First, we had a coffee.",
+  "BuiltOn": "D'abord…",
+  "Speak": "D'abord, on a pris un café."
  },
  {
   "French": "Ensuite…",
@@ -4799,21 +5740,10 @@
   "Theme": "Telling stories: connectors",
   "Tier": "3",
   "ThemeId": "recit",
-  "Speak": "Ensuite"
- },
- {
-  "French": "Après ça…",
-  "English": "After that…",
-  "Literal": "",
-  "Spoken": "",
-  "Register": "N",
-  "Notes": "",
-  "Pattern": "",
-  "Swaps": "",
-  "Theme": "Telling stories: connectors",
-  "Tier": "3",
-  "ThemeId": "recit",
-  "Speak": "Après ça"
+  "Heard": "Ensuite, on est allés au musée.",
+  "HeardEnglish": "Then we went to the museum.",
+  "BuiltOn": "Ensuite…",
+  "Speak": "Ensuite, on est allés au musée."
  },
  {
   "French": "Tout à coup…",
@@ -4827,7 +5757,10 @@
   "Theme": "Telling stories: connectors",
   "Tier": "3",
   "ThemeId": "recit",
-  "Speak": "Tout à coup"
+  "Heard": "Tout à coup, il s'est mis à pleuvoir.",
+  "HeardEnglish": "Suddenly, it started to rain.",
+  "BuiltOn": "Tout à coup…",
+  "Speak": "Tout à coup, il s'est mis à pleuvoir."
  },
  {
   "French": "Au début…",
@@ -4841,7 +5774,10 @@
   "Theme": "Telling stories: connectors",
   "Tier": "3",
   "ThemeId": "recit",
-  "Speak": "Au début"
+  "Heard": "Au début, je ne comprenais rien.",
+  "HeardEnglish": "At first, I didn't understand a thing.",
+  "BuiltOn": "Au début…",
+  "Speak": "Au début, je ne comprenais rien."
  },
  {
   "French": "Au bout d'un moment…",
@@ -4855,7 +5791,10 @@
   "Theme": "Telling stories: connectors",
   "Tier": "3",
   "ThemeId": "recit",
-  "Speak": "Au bout d'un moment"
+  "Heard": "Au bout d'un moment, on s'est perdus.",
+  "HeardEnglish": "After a while, we got lost.",
+  "BuiltOn": "Au bout d'un moment…",
+  "Speak": "Au bout d'un moment, on s'est perdus."
  },
  {
   "French": "Finalement…",
@@ -4869,7 +5808,10 @@
   "Theme": "Telling stories: connectors",
   "Tier": "3",
   "ThemeId": "recit",
-  "Speak": "Finalement"
+  "Heard": "Finalement, on est restés à la maison.",
+  "HeardEnglish": "In the end, we stayed home.",
+  "BuiltOn": "Finalement…",
+  "Speak": "Finalement, on est restés à la maison."
  },
  {
   "French": "Pendant que…",
@@ -4883,7 +5825,10 @@
   "Theme": "Telling stories: connectors",
   "Tier": "3",
   "ThemeId": "recit",
-  "Speak": "Pendant que"
+  "Heard": "Pendant que tu cuisines, je mets la table.",
+  "HeardEnglish": "While you cook, I'll set the table.",
+  "BuiltOn": "Pendant que…",
+  "Speak": "Pendant que tu cuisines, je mets la table."
  },
  {
   "French": "Quand j'étais petit(e)…",
@@ -4897,7 +5842,10 @@
   "Theme": "Telling stories: connectors",
   "Tier": "3",
   "ThemeId": "recit",
-  "Speak": "Quand j'étais petit"
+  "Heard": "Quand j'étais petit, je passais l'été chez ma grand-mère.",
+  "HeardEnglish": "When I was little, I spent summers at my grandmother's.",
+  "BuiltOn": "Quand j'étais petit(e)…",
+  "Speak": "Quand j'étais petit, je passais l'été chez ma grand-mère."
  },
  {
   "French": "Et là…",
@@ -4911,7 +5859,10 @@
   "Theme": "Telling stories: connectors",
   "Tier": "3",
   "ThemeId": "recit",
-  "Speak": "Et là"
+  "Heard": "Et là, il me regarde et il dit : « C'est moi ! »",
+  "HeardEnglish": "And then he looks at me and says: \"It's me!\"",
+  "BuiltOn": "Et là…",
+  "Speak": "Et là, il me regarde et il dit : C'est moi !"
  },
  {
   "French": "Il m'a dit que…",
@@ -4925,7 +5876,10 @@
   "Theme": "Telling stories: connectors",
   "Tier": "3",
   "ThemeId": "recit",
-  "Speak": "Il m'a dit que"
+  "Heard": "Il m'a dit que c'était fermé.",
+  "HeardEnglish": "He told me it was closed.",
+  "BuiltOn": "Il m'a dit que…",
+  "Speak": "Il m'a dit que c'était fermé."
  },
  {
   "French": "Tu sais quoi ?",
@@ -4939,6 +5893,9 @@
   "Theme": "Telling stories: connectors",
   "Tier": "3",
   "ThemeId": "recit",
+  "Heard": "Tu sais quoi ?",
+  "HeardEnglish": "You know what?",
+  "BuiltOn": "",
   "Speak": "Tu sais quoi ?"
  },
  {
@@ -4953,7 +5910,10 @@
   "Theme": "Telling stories: connectors",
   "Tier": "3",
   "ThemeId": "recit",
-  "Speak": "Figure-toi que"
+  "Heard": "Figure-toi que j'ai croisé ton frère au marché !",
+  "HeardEnglish": "Guess what, I ran into your brother at the market!",
+  "BuiltOn": "Figure-toi que…",
+  "Speak": "Figure-toi que j'ai croisé ton frère au marché !"
  },
  {
   "French": "Par contre…",
@@ -4967,7 +5927,10 @@
   "Theme": "Telling stories: connectors",
   "Tier": "3",
   "ThemeId": "recit",
-  "Speak": "Par contre"
+  "Heard": "C'est joli, par contre c'est un peu cher.",
+  "HeardEnglish": "It's pretty; on the other hand, it's a bit expensive.",
+  "BuiltOn": "Par contre…",
+  "Speak": "C'est joli, par contre c'est un peu cher."
  },
  {
   "French": "Pourtant…",
@@ -4981,7 +5944,10 @@
   "Theme": "Telling stories: connectors",
   "Tier": "3",
   "ThemeId": "recit",
-  "Speak": "Pourtant"
+  "Heard": "Il est riche, et pourtant il n'est pas heureux.",
+  "HeardEnglish": "He's rich, and yet he's not happy.",
+  "BuiltOn": "Pourtant…",
+  "Speak": "Il est riche, et pourtant il n'est pas heureux."
  },
  {
   "French": "Sinon…",
@@ -4995,7 +5961,10 @@
   "Theme": "Telling stories: connectors",
   "Tier": "3",
   "ThemeId": "recit",
-  "Speak": "Sinon"
+  "Heard": "Sinon, ça va, le boulot ?",
+  "HeardEnglish": "Apart from that, how's work?",
+  "BuiltOn": "Sinon…",
+  "Speak": "Sinon, ça va, le boulot ?"
  },
  {
   "French": "En tout cas…",
@@ -5009,7 +5978,10 @@
   "Theme": "Telling stories: connectors",
   "Tier": "3",
   "ThemeId": "recit",
-  "Speak": "En tout cas"
+  "Heard": "En tout cas, merci pour tout.",
+  "HeardEnglish": "Anyway, thanks for everything.",
+  "BuiltOn": "En tout cas…",
+  "Speak": "En tout cas, merci pour tout."
  },
  {
   "French": "Au fait…",
@@ -5023,7 +5995,10 @@
   "Theme": "Telling stories: connectors",
   "Tier": "3",
   "ThemeId": "recit",
-  "Speak": "Au fait"
+  "Heard": "Au fait, tu as vu Marie hier ?",
+  "HeardEnglish": "By the way, did you see Marie yesterday?",
+  "BuiltOn": "Au fait…",
+  "Speak": "Au fait, tu as vu Marie hier ?"
  },
  {
   "French": "D'ailleurs…",
@@ -5037,7 +6012,10 @@
   "Theme": "Telling stories: connectors",
   "Tier": "3",
   "ThemeId": "recit",
-  "Speak": "D'ailleurs"
+  "Heard": "D'ailleurs, je voulais te demander quelque chose.",
+  "HeardEnglish": "Come to think of it, I wanted to ask you something.",
+  "BuiltOn": "D'ailleurs…",
+  "Speak": "D'ailleurs, je voulais te demander quelque chose."
  },
  {
   "French": "Même si…",
@@ -5051,7 +6029,10 @@
   "Theme": "Telling stories: connectors",
   "Tier": "3",
   "ThemeId": "recit",
-  "Speak": "Même si"
+  "Heard": "Je viens, même s'il pleut.",
+  "HeardEnglish": "I'm coming, even if it rains.",
+  "BuiltOn": "Même si…",
+  "Speak": "Je viens, même s'il pleut."
  },
  {
   "French": "Grâce à…",
@@ -5065,7 +6046,10 @@
   "Theme": "Telling stories: connectors",
   "Tier": "3",
   "ThemeId": "recit",
-  "Speak": "Grâce à"
+  "Heard": "J'ai trouvé l'hôtel grâce à toi.",
+  "HeardEnglish": "I found the hotel thanks to you.",
+  "BuiltOn": "Grâce à…",
+  "Speak": "J'ai trouvé l'hôtel grâce à toi."
  },
  {
   "French": "Si j'étais toi…",
@@ -5079,7 +6063,10 @@
   "Theme": "Telling stories: connectors",
   "Tier": "3",
   "ThemeId": "recit",
-  "Speak": "Si j'étais toi"
+  "Heard": "Si j'étais toi, je partirais plus tôt.",
+  "HeardEnglish": "If I were you, I'd leave earlier.",
+  "BuiltOn": "Si j'étais toi…",
+  "Speak": "Si j'étais toi, je partirais plus tôt."
  },
  {
   "French": "Si j'avais le temps, je…",
@@ -5093,7 +6080,10 @@
   "Theme": "Telling stories: connectors",
   "Tier": "3",
   "ThemeId": "recit",
-  "Speak": "Si j'avais le temps, je"
+  "Heard": "Si j'avais le temps, je voyagerais plus.",
+  "HeardEnglish": "If I had time, I'd travel more.",
+  "BuiltOn": "Si j'avais le temps, je…",
+  "Speak": "Si j'avais le temps, je voyagerais plus."
  },
  {
   "French": "J'aurais dû…",
@@ -5107,7 +6097,10 @@
   "Theme": "Telling stories: connectors",
   "Tier": "3",
   "ThemeId": "recit",
-  "Speak": "J'aurais dû"
+  "Heard": "J'aurais dû partir plus tôt.",
+  "HeardEnglish": "I should have left earlier.",
+  "BuiltOn": "J'aurais dû…",
+  "Speak": "J'aurais dû partir plus tôt."
  },
  {
   "French": "Tu devrais…",
@@ -5121,7 +6114,10 @@
   "Theme": "Telling stories: connectors",
   "Tier": "3",
   "ThemeId": "recit",
-  "Speak": "Tu devrais"
+  "Heard": "Tu devrais te reposer un peu.",
+  "HeardEnglish": "You should rest a bit.",
+  "BuiltOn": "Tu devrais…",
+  "Speak": "Tu devrais te reposer un peu."
  },
  {
   "French": "Je me demande si…",
@@ -5135,7 +6131,10 @@
   "Theme": "Telling stories: connectors",
   "Tier": "3",
   "ThemeId": "recit",
-  "Speak": "Je me demande si"
+  "Heard": "Je me demande s'il va venir.",
+  "HeardEnglish": "I wonder if he's going to come.",
+  "BuiltOn": "Je me demande si…",
+  "Speak": "Je me demande s'il va venir."
  },
  {
   "French": "Ça me rappelle…",
@@ -5149,7 +6148,10 @@
   "Theme": "Telling stories: connectors",
   "Tier": "3",
   "ThemeId": "recit",
-  "Speak": "Ça me rappelle"
+  "Heard": "Ça me rappelle mes vacances en Bretagne.",
+  "HeardEnglish": "That reminds me of my vacation in Brittany.",
+  "BuiltOn": "Ça me rappelle…",
+  "Speak": "Ça me rappelle mes vacances en Bretagne."
  },
  {
   "French": "Plus ou moins.",
@@ -5163,6 +6165,9 @@
   "Theme": "Nuance & hedging",
   "Tier": "3",
   "ThemeId": "nuance",
+  "Heard": "Plus ou moins.",
+  "HeardEnglish": "More or less.",
+  "BuiltOn": "",
   "Speak": "Plus ou moins."
  },
  {
@@ -5177,6 +6182,9 @@
   "Theme": "Nuance & hedging",
   "Tier": "3",
   "ThemeId": "nuance",
+  "Heard": "Pas vraiment.",
+  "HeardEnglish": "Not really.",
+  "BuiltOn": "",
   "Speak": "Pas vraiment."
  },
  {
@@ -5191,6 +6199,9 @@
   "Theme": "Nuance & hedging",
   "Tier": "3",
   "ThemeId": "nuance",
+  "Heard": "Pas encore.",
+  "HeardEnglish": "Not yet.",
+  "BuiltOn": "",
   "Speak": "Pas encore."
  },
  {
@@ -5205,6 +6216,9 @@
   "Theme": "Nuance & hedging",
   "Tier": "3",
   "ThemeId": "nuance",
+  "Heard": "Pas forcément.",
+  "HeardEnglish": "Not necessarily.",
+  "BuiltOn": "",
   "Speak": "Pas forcément."
  },
  {
@@ -5219,6 +6233,9 @@
   "Theme": "Nuance & hedging",
   "Tier": "3",
   "ThemeId": "nuance",
+  "Heard": "Je pense que oui.",
+  "HeardEnglish": "I think so.",
+  "BuiltOn": "",
   "Speak": "Je pense que oui."
  },
  {
@@ -5233,6 +6250,9 @@
   "Theme": "Nuance & hedging",
   "Tier": "3",
   "ThemeId": "nuance",
+  "Heard": "J'espère.",
+  "HeardEnglish": "I hope so.",
+  "BuiltOn": "",
   "Speak": "J'espère."
  },
  {
@@ -5247,6 +6267,9 @@
   "Theme": "Nuance & hedging",
   "Tier": "3",
   "ThemeId": "nuance",
+  "Heard": "Je ne suis pas sûr(e).",
+  "HeardEnglish": "I'm not sure.",
+  "BuiltOn": "",
   "Speak": "Je ne suis pas sûr."
  },
  {
@@ -5261,7 +6284,10 @@
   "Theme": "Nuance & hedging",
   "Tier": "3",
   "ThemeId": "nuance",
-  "Speak": "Il paraît que"
+  "Heard": "Il paraît que ce restaurant est excellent.",
+  "HeardEnglish": "Apparently this restaurant is excellent.",
+  "BuiltOn": "Il paraît que…",
+  "Speak": "Il paraît que ce restaurant est excellent."
  },
  {
   "French": "Ça m'étonnerait.",
@@ -5275,6 +6301,9 @@
   "Theme": "Nuance & hedging",
   "Tier": "3",
   "ThemeId": "nuance",
+  "Heard": "Ça m'étonnerait.",
+  "HeardEnglish": "I doubt it.",
+  "BuiltOn": "",
   "Speak": "Ça m'étonnerait."
  },
  {
@@ -5289,6 +6318,9 @@
   "Theme": "Nuance & hedging",
   "Tier": "3",
   "ThemeId": "nuance",
+  "Heard": "Sans doute.",
+  "HeardEnglish": "Probably.",
+  "BuiltOn": "",
   "Speak": "Sans doute."
  },
  {
@@ -5303,6 +6335,9 @@
   "Theme": "Nuance & hedging",
   "Tier": "3",
   "ThemeId": "nuance",
+  "Heard": "Ça se peut.",
+  "HeardEnglish": "Could be.",
+  "BuiltOn": "",
   "Speak": "Ça se peut."
  },
  {
@@ -5317,7 +6352,10 @@
   "Theme": "Nuance & hedging",
   "Tier": "3",
   "ThemeId": "nuance",
-  "Speak": "En gros"
+  "Heard": "En gros, il faut tout recommencer.",
+  "HeardEnglish": "Basically, we have to start all over.",
+  "BuiltOn": "En gros…",
+  "Speak": "En gros, il faut tout recommencer."
  },
  {
   "French": "Si je comprends bien…",
@@ -5331,7 +6369,10 @@
   "Theme": "Nuance & hedging",
   "Tier": "3",
   "ThemeId": "nuance",
-  "Speak": "Si je comprends bien"
+  "Heard": "Si je comprends bien, le train est annulé ?",
+  "HeardEnglish": "If I understand correctly, the train is cancelled?",
+  "BuiltOn": "Si je comprends bien…",
+  "Speak": "Si je comprends bien, le train est annulé ?"
  },
  {
   "French": "Ce que je veux dire, c'est que…",
@@ -5345,7 +6386,10 @@
   "Theme": "Nuance & hedging",
   "Tier": "3",
   "ThemeId": "nuance",
-  "Speak": "Ce que je veux dire, c'est que"
+  "Heard": "Ce que je veux dire, c'est qu'on n'a pas le temps.",
+  "HeardEnglish": "What I mean is, we don't have time.",
+  "BuiltOn": "Ce que je veux dire, c'est que…",
+  "Speak": "Ce que je veux dire, c'est qu'on n'a pas le temps."
  },
  {
   "French": "Disons que…",
@@ -5359,7 +6403,10 @@
   "Theme": "Nuance & hedging",
   "Tier": "3",
   "ThemeId": "nuance",
-  "Speak": "Disons que"
+  "Heard": "Disons que ce n'est pas mon truc.",
+  "HeardEnglish": "Let's just say it's not my thing.",
+  "BuiltOn": "Disons que…",
+  "Speak": "Disons que ce n'est pas mon truc."
  },
  {
   "French": "Tu vois ce que je veux dire ?",
@@ -5373,6 +6420,9 @@
   "Theme": "Nuance & hedging",
   "Tier": "3",
   "ThemeId": "nuance",
+  "Heard": "Tu vois ce que je veux dire ?",
+  "HeardEnglish": "You know what I mean?",
+  "BuiltOn": "",
   "Speak": "Tu vois ce que je veux dire ?"
  },
  {
@@ -5387,7 +6437,10 @@
   "Theme": "Nuance & hedging",
   "Tier": "3",
   "ThemeId": "nuance",
-  "Speak": "Au moins"
+  "Heard": "Au moins, il fait beau !",
+  "HeardEnglish": "At least the weather's nice!",
+  "BuiltOn": "Au moins…",
+  "Speak": "Au moins, il fait beau !"
  },
  {
   "French": "Plutôt…",
@@ -5401,7 +6454,10 @@
   "Theme": "Nuance & hedging",
   "Tier": "3",
   "ThemeId": "nuance",
-  "Speak": "Plutôt"
+  "Heard": "C'est plutôt calme, ici.",
+  "HeardEnglish": "It's pretty quiet here.",
+  "BuiltOn": "Plutôt…",
+  "Speak": "C'est plutôt calme, ici."
  },
  {
   "French": "Pas terrible.",
@@ -5415,6 +6471,9 @@
   "Theme": "Nuance & hedging",
   "Tier": "3",
   "ThemeId": "nuance",
+  "Heard": "Pas terrible.",
+  "HeardEnglish": "Not great.",
+  "BuiltOn": "",
   "Speak": "Pas terrible."
  },
  {
@@ -5429,6 +6488,9 @@
   "Theme": "Nuance & hedging",
   "Tier": "3",
   "ThemeId": "nuance",
+  "Heard": "Un petit peu.",
+  "HeardEnglish": "A little bit.",
+  "BuiltOn": "",
   "Speak": "Un petit peu."
  },
  {
@@ -5443,6 +6505,9 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
+  "Heard": "Laisse tomber.",
+  "HeardEnglish": "Forget it. / Never mind.",
+  "BuiltOn": "",
   "Speak": "Laisse tomber."
  },
  {
@@ -5457,6 +6522,9 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
+  "Heard": "Ne t'inquiète pas.",
+  "HeardEnglish": "Don't worry.",
+  "BuiltOn": "",
   "Speak": "Ne t'inquiète pas."
  },
  {
@@ -5471,6 +6539,9 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
+  "Heard": "Ça va aller.",
+  "HeardEnglish": "It's going to be OK.",
+  "BuiltOn": "",
   "Speak": "Ça va aller."
  },
  {
@@ -5485,6 +6556,9 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
+  "Heard": "C'est pas la peine.",
+  "HeardEnglish": "There's no need. / Don't bother.",
+  "BuiltOn": "",
   "Speak": "C'est pas la peine."
  },
  {
@@ -5499,6 +6573,9 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
+  "Heard": "Ça arrive.",
+  "HeardEnglish": "It happens.",
+  "BuiltOn": "",
   "Speak": "Ça arrive."
  },
  {
@@ -5513,6 +6590,9 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
+  "Heard": "Ça se voit.",
+  "HeardEnglish": "It shows. / You can tell.",
+  "BuiltOn": "",
   "Speak": "Ça se voit."
  },
  {
@@ -5527,6 +6607,9 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
+  "Heard": "Tu as l'air fatigué(e).",
+  "HeardEnglish": "You look tired.",
+  "BuiltOn": "",
   "Speak": "Tu as l'air fatigué."
  },
  {
@@ -5541,6 +6624,9 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
+  "Heard": "Ça a l'air bon !",
+  "HeardEnglish": "That looks good!",
+  "BuiltOn": "",
   "Speak": "Ça a l'air bon !"
  },
  {
@@ -5555,6 +6641,9 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
+  "Heard": "Ça me tente.",
+  "HeardEnglish": "I'm tempted. / I'm up for it.",
+  "BuiltOn": "",
   "Speak": "Ça me tente."
  },
  {
@@ -5569,6 +6658,9 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
+  "Heard": "Ça me fait plaisir.",
+  "HeardEnglish": "I'm glad. / My pleasure.",
+  "BuiltOn": "",
   "Speak": "Ça me fait plaisir."
  },
  {
@@ -5583,6 +6675,9 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
+  "Heard": "Ça fait du bien !",
+  "HeardEnglish": "That feels good!",
+  "BuiltOn": "",
   "Speak": "Ça fait du bien !"
  },
  {
@@ -5597,6 +6692,9 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
+  "Heard": "Ça m'énerve.",
+  "HeardEnglish": "It annoys me.",
+  "BuiltOn": "",
   "Speak": "Ça m'énerve."
  },
  {
@@ -5611,6 +6709,9 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
+  "Heard": "Ça me saoule.",
+  "HeardEnglish": "It's getting on my nerves.",
+  "BuiltOn": "",
   "Speak": "Ça me saoule."
  },
  {
@@ -5625,6 +6726,9 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
+  "Heard": "C'est comme ça.",
+  "HeardEnglish": "That's just how it is.",
+  "BuiltOn": "",
   "Speak": "C'est comme ça."
  },
  {
@@ -5639,6 +6743,9 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
+  "Heard": "On fait avec.",
+  "HeardEnglish": "We make do.",
+  "BuiltOn": "",
   "Speak": "On fait avec."
  },
  {
@@ -5653,21 +6760,10 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
+  "Heard": "Je n'y peux rien.",
+  "HeardEnglish": "There's nothing I can do about it.",
+  "BuiltOn": "",
   "Speak": "Je n'y peux rien."
- },
- {
-  "French": "Ça ne fait rien.",
-  "English": "It doesn't matter.",
-  "Literal": "That does nothing.",
-  "Spoken": "Ça fait rien.",
-  "Register": "N",
-  "Notes": "",
-  "Pattern": "",
-  "Swaps": "",
-  "Theme": "Everyday expressions you'll hear daily",
-  "Tier": "3",
-  "ThemeId": "idiomes",
-  "Speak": "Ça ne fait rien."
  },
  {
   "French": "Ça ne sert à rien.",
@@ -5681,6 +6777,9 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
+  "Heard": "Ça ne sert à rien.",
+  "HeardEnglish": "It's pointless.",
+  "BuiltOn": "",
   "Speak": "Ça ne sert à rien."
  },
  {
@@ -5695,7 +6794,10 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
-  "Speak": "Il vaut mieux"
+  "Heard": "Il vaut mieux réserver le week-end.",
+  "HeardEnglish": "You'd better book on weekends.",
+  "BuiltOn": "Il vaut mieux…",
+  "Speak": "Il vaut mieux réserver le week-end."
  },
  {
   "French": "J'ai du mal à…",
@@ -5709,7 +6811,10 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
-  "Speak": "J'ai du mal à"
+  "Heard": "J'ai du mal à comprendre quand ils parlent vite.",
+  "HeardEnglish": "I struggle to understand when they talk fast.",
+  "BuiltOn": "J'ai du mal à…",
+  "Speak": "J'ai du mal à comprendre quand ils parlent vite."
  },
  {
   "French": "Ça me dit quelque chose.",
@@ -5723,6 +6828,9 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
+  "Heard": "Ça me dit quelque chose.",
+  "HeardEnglish": "That rings a bell.",
+  "BuiltOn": "",
   "Speak": "Ça me dit quelque chose."
  },
  {
@@ -5737,6 +6845,9 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
+  "Heard": "Ça ne me dit rien.",
+  "HeardEnglish": "It doesn't ring a bell. / I don't feel like it.",
+  "BuiltOn": "",
   "Speak": "Ça ne me dit rien."
  },
  {
@@ -5751,6 +6862,9 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
+  "Heard": "Ce n'est pas mon truc.",
+  "HeardEnglish": "It's not my thing.",
+  "BuiltOn": "",
   "Speak": "Ce n'est pas mon truc."
  },
  {
@@ -5765,6 +6879,9 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
+  "Heard": "Chacun ses goûts.",
+  "HeardEnglish": "To each their own.",
+  "BuiltOn": "",
   "Speak": "Chacun ses goûts."
  },
  {
@@ -5779,6 +6896,9 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
+  "Heard": "Ça tombe bien.",
+  "HeardEnglish": "Good timing. / That works out.",
+  "BuiltOn": "",
   "Speak": "Ça tombe bien."
  },
  {
@@ -5793,6 +6913,9 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
+  "Heard": "J'en ai pour cinq minutes.",
+  "HeardEnglish": "I'll be five minutes.",
+  "BuiltOn": "",
   "Speak": "J'en ai pour cinq minutes."
  },
  {
@@ -5807,6 +6930,9 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
+  "Heard": "C'est pas évident.",
+  "HeardEnglish": "It's not easy. / It's tricky.",
+  "BuiltOn": "",
   "Speak": "C'est pas évident."
  },
  {
@@ -5821,6 +6947,9 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
+  "Heard": "C'est simple comme bonjour.",
+  "HeardEnglish": "It's dead easy.",
+  "BuiltOn": "",
   "Speak": "C'est simple comme bonjour."
  },
  {
@@ -5835,6 +6964,9 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
+  "Heard": "Ça coûte les yeux de la tête.",
+  "HeardEnglish": "It costs an arm and a leg.",
+  "BuiltOn": "",
   "Speak": "Ça coûte les yeux de la tête."
  },
  {
@@ -5849,6 +6981,9 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
+  "Heard": "Il pleut des cordes.",
+  "HeardEnglish": "It's pouring.",
+  "BuiltOn": "",
   "Speak": "Il pleut des cordes."
  },
  {
@@ -5863,6 +6998,9 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
+  "Heard": "J'ai le cafard.",
+  "HeardEnglish": "I'm feeling down.",
+  "BuiltOn": "",
   "Speak": "J'ai le cafard."
  },
  {
@@ -5877,6 +7015,9 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
+  "Heard": "Il m'a posé un lapin.",
+  "HeardEnglish": "He stood me up.",
+  "BuiltOn": "",
   "Speak": "Il m'a posé un lapin."
  },
  {
@@ -5891,6 +7032,9 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
+  "Heard": "J'ai fait la grasse mat'.",
+  "HeardEnglish": "I slept in.",
+  "BuiltOn": "",
   "Speak": "J'ai fait la grasse mat'."
  },
  {
@@ -5905,6 +7049,9 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
+  "Heard": "J'étais dans la lune.",
+  "HeardEnglish": "I was miles away. / I was daydreaming.",
+  "BuiltOn": "",
   "Speak": "J'étais dans la lune."
  },
  {
@@ -5919,6 +7066,9 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
+  "Heard": "Je te jure !",
+  "HeardEnglish": "I swear!",
+  "BuiltOn": "",
   "Speak": "Je te jure !"
  },
  {
@@ -5933,6 +7083,9 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
+  "Heard": "Arrête !",
+  "HeardEnglish": "Stop it! / No way!",
+  "BuiltOn": "",
   "Speak": "Arrête !"
  },
  {
@@ -5947,6 +7100,9 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
+  "Heard": "C'est parti !",
+  "HeardEnglish": "Here we go!",
+  "BuiltOn": "",
   "Speak": "C'est parti !"
  },
  {
@@ -5961,6 +7117,9 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
+  "Heard": "Allez !",
+  "HeardEnglish": "Come on! / Go on!",
+  "BuiltOn": "",
   "Speak": "Allez !"
  },
  {
@@ -5975,6 +7134,9 @@
   "Theme": "Everyday expressions you'll hear daily",
   "Tier": "3",
   "ThemeId": "idiomes",
+  "Heard": "Vas-y !",
+  "HeardEnglish": "Go ahead! / Go for it!",
+  "BuiltOn": "",
   "Speak": "Vas-y !"
  },
  {
@@ -5989,6 +7151,9 @@
   "Theme": "Invitations, compliments & empathy",
   "Tier": "3",
   "ThemeId": "social",
+  "Heard": "Ça te dirait de prendre un verre ?",
+  "HeardEnglish": "Would you like to grab a drink?",
+  "BuiltOn": "",
   "Speak": "Ça te dirait de prendre un verre ?"
  },
  {
@@ -6003,6 +7168,9 @@
   "Theme": "Invitations, compliments & empathy",
   "Tier": "3",
   "ThemeId": "social",
+  "Heard": "Tu veux venir dîner à la maison ?",
+  "HeardEnglish": "Do you want to come over for dinner?",
+  "BuiltOn": "",
   "Speak": "Tu veux venir dîner à la maison ?"
  },
  {
@@ -6017,6 +7185,9 @@
   "Theme": "Invitations, compliments & empathy",
   "Tier": "3",
   "ThemeId": "social",
+  "Heard": "Qu'est-ce que je peux apporter ?",
+  "HeardEnglish": "What can I bring?",
+  "BuiltOn": "",
   "Speak": "Qu'est-ce que je peux apporter ?"
  },
  {
@@ -6031,6 +7202,9 @@
   "Theme": "Invitations, compliments & empathy",
   "Tier": "3",
   "ThemeId": "social",
+  "Heard": "Je t'invite.",
+  "HeardEnglish": "It's on me. / My treat.",
+  "BuiltOn": "",
   "Speak": "Je t'invite."
  },
  {
@@ -6045,6 +7219,9 @@
   "Theme": "Invitations, compliments & empathy",
   "Tier": "3",
   "ThemeId": "social",
+  "Heard": "Fais comme chez toi.",
+  "HeardEnglish": "Make yourself at home.",
+  "BuiltOn": "",
   "Speak": "Fais comme chez toi."
  },
  {
@@ -6059,6 +7236,9 @@
   "Theme": "Invitations, compliments & empathy",
   "Tier": "3",
   "ThemeId": "social",
+  "Heard": "On se fait la bise ?",
+  "HeardEnglish": "Shall we greet with a kiss on the cheek?",
+  "BuiltOn": "",
   "Speak": "On se fait la bise ?"
  },
  {
@@ -6073,6 +7253,9 @@
   "Theme": "Invitations, compliments & empathy",
   "Tier": "3",
   "ThemeId": "social",
+  "Heard": "C'est gentil !",
+  "HeardEnglish": "That's kind of you!",
+  "BuiltOn": "",
   "Speak": "C'est gentil !"
  },
  {
@@ -6087,6 +7270,9 @@
   "Theme": "Invitations, compliments & empathy",
   "Tier": "3",
   "ThemeId": "social",
+  "Heard": "Tu es très gentil(le).",
+  "HeardEnglish": "You're very kind.",
+  "BuiltOn": "",
   "Speak": "Tu es très gentil."
  },
  {
@@ -6101,6 +7287,9 @@
   "Theme": "Invitations, compliments & empathy",
   "Tier": "3",
   "ThemeId": "social",
+  "Heard": "Ça te va très bien.",
+  "HeardEnglish": "It looks great on you.",
+  "BuiltOn": "",
   "Speak": "Ça te va très bien."
  },
  {
@@ -6115,6 +7304,9 @@
   "Theme": "Invitations, compliments & empathy",
   "Tier": "3",
   "ThemeId": "social",
+  "Heard": "Bravo !",
+  "HeardEnglish": "Well done!",
+  "BuiltOn": "",
   "Speak": "Bravo !"
  },
  {
@@ -6129,6 +7321,9 @@
   "Theme": "Invitations, compliments & empathy",
   "Tier": "3",
   "ThemeId": "social",
+  "Heard": "Je suis content(e) pour toi.",
+  "HeardEnglish": "I'm happy for you.",
+  "BuiltOn": "",
   "Speak": "Je suis content pour toi."
  },
  {
@@ -6143,6 +7338,9 @@
   "Theme": "Invitations, compliments & empathy",
   "Tier": "3",
   "ThemeId": "social",
+  "Heard": "Je suis fier (fière) de toi.",
+  "HeardEnglish": "I'm proud of you.",
+  "BuiltOn": "",
   "Speak": "Je suis fier de toi."
  },
  {
@@ -6157,6 +7355,9 @@
   "Theme": "Invitations, compliments & empathy",
   "Tier": "3",
   "ThemeId": "social",
+  "Heard": "Ça me touche beaucoup.",
+  "HeardEnglish": "That really touches me.",
+  "BuiltOn": "",
   "Speak": "Ça me touche beaucoup."
  },
  {
@@ -6171,6 +7372,9 @@
   "Theme": "Invitations, compliments & empathy",
   "Tier": "3",
   "ThemeId": "social",
+  "Heard": "Ça doit être dur.",
+  "HeardEnglish": "That must be hard.",
+  "BuiltOn": "",
   "Speak": "Ça doit être dur."
  },
  {
@@ -6185,6 +7389,9 @@
   "Theme": "Invitations, compliments & empathy",
   "Tier": "3",
   "ThemeId": "social",
+  "Heard": "Je suis là si tu as besoin.",
+  "HeardEnglish": "I'm here if you need anything.",
+  "BuiltOn": "",
   "Speak": "Je suis là si tu as besoin."
  },
  {
@@ -6199,6 +7406,9 @@
   "Theme": "Invitations, compliments & empathy",
   "Tier": "3",
   "ThemeId": "social",
+  "Heard": "Toutes mes condoléances.",
+  "HeardEnglish": "My condolences.",
+  "BuiltOn": "",
   "Speak": "Toutes mes condoléances."
  },
  {
@@ -6213,6 +7423,9 @@
   "Theme": "Invitations, compliments & empathy",
   "Tier": "3",
   "ThemeId": "social",
+  "Heard": "Prends soin de toi.",
+  "HeardEnglish": "Take care of yourself.",
+  "BuiltOn": "",
   "Speak": "Prends soin de toi."
  },
  {
@@ -6227,6 +7440,9 @@
   "Theme": "Invitations, compliments & empathy",
   "Tier": "3",
   "ThemeId": "social",
+  "Heard": "Joyeux anniversaire !",
+  "HeardEnglish": "Happy birthday!",
+  "BuiltOn": "",
   "Speak": "Joyeux anniversaire !"
  },
  {
@@ -6241,6 +7457,9 @@
   "Theme": "Invitations, compliments & empathy",
   "Tier": "3",
   "ThemeId": "social",
+  "Heard": "Bonne année !",
+  "HeardEnglish": "Happy New Year!",
+  "BuiltOn": "",
   "Speak": "Bonne année !"
  },
  {
@@ -6255,6 +7474,9 @@
   "Theme": "Invitations, compliments & empathy",
   "Tier": "3",
   "ThemeId": "social",
+  "Heard": "Bonnes vacances !",
+  "HeardEnglish": "Have a good holiday!",
+  "BuiltOn": "",
   "Speak": "Bonnes vacances !"
  },
  {
@@ -6269,6 +7491,9 @@
   "Theme": "Invitations, compliments & empathy",
   "Tier": "3",
   "ThemeId": "social",
+  "Heard": "C'était sympa de te voir.",
+  "HeardEnglish": "It was nice to see you.",
+  "BuiltOn": "",
   "Speak": "C'était sympa de te voir."
  },
  {
@@ -6283,6 +7508,9 @@
   "Theme": "Invitations, compliments & empathy",
   "Tier": "3",
   "ThemeId": "social",
+  "Heard": "On garde le contact ?",
+  "HeardEnglish": "Shall we stay in touch?",
+  "BuiltOn": "",
   "Speak": "On garde le contact ?"
  },
  {
@@ -6297,6 +7525,9 @@
   "Theme": "Invitations, compliments & empathy",
   "Tier": "3",
   "ThemeId": "social",
+  "Heard": "Tu me plais.",
+  "HeardEnglish": "I like you. / I'm attracted to you.",
+  "BuiltOn": "",
   "Speak": "Tu me plais."
  },
  {
@@ -6311,6 +7542,9 @@
   "Theme": "Invitations, compliments & empathy",
   "Tier": "3",
   "ThemeId": "social",
+  "Heard": "Je t'aime.",
+  "HeardEnglish": "I love you.",
+  "BuiltOn": "",
   "Speak": "Je t'aime."
  },
  {
@@ -6325,7 +7559,10 @@
   "Theme": "Discussing & disagreeing gracefully",
   "Tier": "3",
   "ThemeId": "debat",
-  "Speak": "Je vois ce que tu veux dire, mais"
+  "Heard": "Je vois ce que tu veux dire, mais je ne suis pas d'accord.",
+  "HeardEnglish": "I see what you mean, but I don't agree.",
+  "BuiltOn": "Je vois ce que tu veux dire, mais…",
+  "Speak": "Je vois ce que tu veux dire, mais je ne suis pas d'accord."
  },
  {
   "French": "Tu n'as pas tort.",
@@ -6339,6 +7576,9 @@
   "Theme": "Discussing & disagreeing gracefully",
   "Tier": "3",
   "ThemeId": "debat",
+  "Heard": "Tu n'as pas tort.",
+  "HeardEnglish": "You've got a point.",
+  "BuiltOn": "",
   "Speak": "Tu n'as pas tort."
  },
  {
@@ -6353,7 +7593,10 @@
   "Theme": "Discussing & disagreeing gracefully",
   "Tier": "3",
   "ThemeId": "debat",
-  "Speak": "C'est vrai, mais"
+  "Heard": "C'est vrai, mais c'est quand même cher.",
+  "HeardEnglish": "That's true, but it's still expensive.",
+  "BuiltOn": "C'est vrai, mais…",
+  "Speak": "C'est vrai, mais c'est quand même cher."
  },
  {
   "French": "Pas tout à fait.",
@@ -6367,6 +7610,9 @@
   "Theme": "Discussing & disagreeing gracefully",
   "Tier": "3",
   "ThemeId": "debat",
+  "Heard": "Pas tout à fait.",
+  "HeardEnglish": "Not quite.",
+  "BuiltOn": "",
   "Speak": "Pas tout à fait."
  },
  {
@@ -6381,6 +7627,9 @@
   "Theme": "Discussing & disagreeing gracefully",
   "Tier": "3",
   "ThemeId": "debat",
+  "Heard": "Je suis plutôt d'accord.",
+  "HeardEnglish": "I mostly agree.",
+  "BuiltOn": "",
   "Speak": "Je suis plutôt d'accord."
  },
  {
@@ -6395,6 +7644,9 @@
   "Theme": "Discussing & disagreeing gracefully",
   "Tier": "3",
   "ThemeId": "debat",
+  "Heard": "Je ne dirais pas ça.",
+  "HeardEnglish": "I wouldn't say that.",
+  "BuiltOn": "",
   "Speak": "Je ne dirais pas ça."
  },
  {
@@ -6409,6 +7661,9 @@
   "Theme": "Discussing & disagreeing gracefully",
   "Tier": "3",
   "ThemeId": "debat",
+  "Heard": "Ce n'est pas ce que je voulais dire.",
+  "HeardEnglish": "That's not what I meant.",
+  "BuiltOn": "",
   "Speak": "Ce n'est pas ce que je voulais dire."
  },
  {
@@ -6423,6 +7678,9 @@
   "Theme": "Discussing & disagreeing gracefully",
   "Tier": "3",
   "ThemeId": "debat",
+  "Heard": "Ça n'a rien à voir.",
+  "HeardEnglish": "That's got nothing to do with it.",
+  "BuiltOn": "",
   "Speak": "Ça n'a rien à voir."
  },
  {
@@ -6437,21 +7695,10 @@
   "Theme": "Discussing & disagreeing gracefully",
   "Tier": "3",
   "ThemeId": "debat",
-  "Speak": "Le problème, c'est que"
- },
- {
-  "French": "Le truc, c'est que…",
-  "English": "The thing is…",
-  "Literal": "",
-  "Spoken": "",
-  "Register": "Fam",
-  "Notes": "",
-  "Pattern": "",
-  "Swaps": "",
-  "Theme": "Discussing & disagreeing gracefully",
-  "Tier": "3",
-  "ThemeId": "debat",
-  "Speak": "Le truc, c'est que"
+  "Heard": "Le problème, c'est qu'on n'a pas de voiture.",
+  "HeardEnglish": "The problem is, we don't have a car.",
+  "BuiltOn": "Le problème, c'est que…",
+  "Speak": "Le problème, c'est qu'on n'a pas de voiture."
  },
  {
   "French": "Ce qui est bien, c'est que…",
@@ -6465,7 +7712,10 @@
   "Theme": "Discussing & disagreeing gracefully",
   "Tier": "3",
   "ThemeId": "debat",
-  "Speak": "Ce qui est bien, c'est que"
+  "Heard": "Ce qui est bien, c'est que tout est à pied.",
+  "HeardEnglish": "What's good is that everything's within walking distance.",
+  "BuiltOn": "Ce qui est bien, c'est que…",
+  "Speak": "Ce qui est bien, c'est que tout est à pied."
  },
  {
   "French": "D'un côté… de l'autre…",
@@ -6479,7 +7729,10 @@
   "Theme": "Discussing & disagreeing gracefully",
   "Tier": "3",
   "ThemeId": "debat",
-  "Speak": "D'un côté de l'autre"
+  "Heard": "D'un côté c'est pratique, de l'autre c'est bruyant.",
+  "HeardEnglish": "On one hand it's convenient, on the other it's noisy.",
+  "BuiltOn": "D'un côté… de l'autre…",
+  "Speak": "D'un côté c'est pratique, de l'autre c'est bruyant."
  },
  {
   "French": "Franchement…",
@@ -6493,7 +7746,10 @@
   "Theme": "Discussing & disagreeing gracefully",
   "Tier": "3",
   "ThemeId": "debat",
-  "Speak": "Franchement"
+  "Heard": "Franchement, c'était génial !",
+  "HeardEnglish": "Honestly, it was great!",
+  "BuiltOn": "Franchement…",
+  "Speak": "Franchement, c'était génial !"
  },
  {
   "French": "Entre nous…",
@@ -6507,7 +7763,10 @@
   "Theme": "Discussing & disagreeing gracefully",
   "Tier": "3",
   "ThemeId": "debat",
-  "Speak": "Entre nous"
+  "Heard": "Entre nous, je ne l'aime pas beaucoup.",
+  "HeardEnglish": "Between you and me, I don't like him much.",
+  "BuiltOn": "Entre nous…",
+  "Speak": "Entre nous, je ne l'aime pas beaucoup."
  },
  {
   "French": "Tu plaisantes ?",
@@ -6521,6 +7780,9 @@
   "Theme": "Discussing & disagreeing gracefully",
   "Tier": "3",
   "ThemeId": "debat",
+  "Heard": "Tu plaisantes ?",
+  "HeardEnglish": "Are you kidding?",
+  "BuiltOn": "",
   "Speak": "Tu plaisantes ?"
  },
  {
@@ -6535,6 +7797,9 @@
   "Theme": "Discussing & disagreeing gracefully",
   "Tier": "3",
   "ThemeId": "debat",
+  "Heard": "Bonne question !",
+  "HeardEnglish": "Good question!",
+  "BuiltOn": "",
   "Speak": "Bonne question !"
  },
  {
@@ -6549,21 +7814,10 @@
   "Theme": "Discussing & disagreeing gracefully",
   "Tier": "3",
   "ThemeId": "debat",
+  "Heard": "Aucune idée.",
+  "HeardEnglish": "No idea.",
+  "BuiltOn": "",
   "Speak": "Aucune idée."
- },
- {
-  "French": "Ça me fait penser à…",
-  "English": "That makes me think of…",
-  "Literal": "",
-  "Spoken": "",
-  "Register": "N",
-  "Notes": "",
-  "Pattern": "",
-  "Swaps": "",
-  "Theme": "Discussing & disagreeing gracefully",
-  "Tier": "3",
-  "ThemeId": "debat",
-  "Speak": "Ça me fait penser à"
  },
  {
   "French": "Comme tu veux.",
@@ -6577,6 +7831,9 @@
   "Theme": "Discussing & disagreeing gracefully",
   "Tier": "3",
   "ThemeId": "debat",
+  "Heard": "Comme tu veux.",
+  "HeardEnglish": "As you like. / Up to you.",
+  "BuiltOn": "",
   "Speak": "Comme tu veux."
  },
  {
@@ -6591,6 +7848,9 @@
   "Theme": "Discussing & disagreeing gracefully",
   "Tier": "3",
   "ThemeId": "debat",
+  "Heard": "Si tu veux.",
+  "HeardEnglish": "If you like. / I guess.",
+  "BuiltOn": "",
   "Speak": "Si tu veux."
  },
  {
@@ -6605,6 +7865,9 @@
   "Theme": "Discussing & disagreeing gracefully",
   "Tier": "3",
   "ThemeId": "debat",
+  "Heard": "C'est à toi de voir.",
+  "HeardEnglish": "It's up to you.",
+  "BuiltOn": "",
   "Speak": "C'est à toi de voir."
  }
 ]
